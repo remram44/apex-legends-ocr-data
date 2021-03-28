@@ -22,13 +22,18 @@ player_name_end_icon = cv2.imread('player_name_end_icon.png')
 
 
 with open('player_names.txt') as fp:
-    known_names = set(n.strip() for n in fp)
-known_names.discard('')
+    known_player_names = set(n.strip() for n in fp)
+known_player_names.discard('')
+
+with open('weapons.txt') as fp:
+    known_weapons = set(n.strip() for n in fp)
+known_weapons.discard('')
 
 
 def get_player_name(frame):
     # Get player name area
     player_name = frame.crop((169, 960, 400, 990))
+
     # Find the icon at the end of the player name
     match = cv2.matchTemplate(
         pil2cv(player_name),
@@ -38,52 +43,55 @@ def get_player_name(frame):
     _, max_value, _, max_location = cv2.minMaxLoc(match)
     if max_value < 0.8:
         logger.info("Can't find player name end icon")
-    else:
-        # Crop the image before the icon
-        player_name = player_name.crop((
-            0, 0,
-            max_location[0], player_name.size[1],
-        ))
-        # Scale up
-        player_name = ImageOps.scale(player_name, 4.0, Image.NEAREST)
+        return None
 
-        # Threshold, turn black-on-white
-        array = numpy.array(player_name)
-        new_array = numpy.zeros((array.shape[0], array.shape[1]), dtype=numpy.uint8)
-        THRESHOLD = int(0.4 * 255)
-        for y in range(array.shape[0]):
-            for x in range(array.shape[1]):
-                if numpy.mean(array[y][x]) < THRESHOLD:
-                    new_array[y][x] = 255
-                else:
-                    new_array[y][x] = 255 - numpy.mean(array[y][x])
-        player_name = Image.fromarray(new_array)
+    # Crop the image before the icon
+    player_name = player_name.crop((
+        0, 0,
+        max_location[0], player_name.size[1],
+    ))
 
-        # OCR
-        ocr = pytesseract.image_to_string(player_name)
-        ocr = ocr.rstrip('\r\n\x0C')
-        logger.info("Player name: %r", ocr)
-        if not ocr:
-            return None
+    # Scale up
+    player_name = ImageOps.scale(player_name, 4.0, Image.NEAREST)
 
-        # Find closest name
-        if ocr not in known_names:
-            dists = [
-                (
-                    stringdist.levenshtein_norm(ocr, candidate),
-                    candidate,
-                )
-                for candidate in known_names
-            ]
-            best_dist, best_name = min(dists)
-            if best_dist < 0.45:
-                logger.info("Player name: %r -> %r", ocr, best_name)
-                ocr = best_name
+    # Threshold, turn black-on-white
+    array = numpy.array(player_name)
+    new_array = numpy.zeros((array.shape[0], array.shape[1]), dtype=numpy.uint8)
+    THRESHOLD = int(0.4 * 255)
+    for y in range(array.shape[0]):
+        for x in range(array.shape[1]):
+            if numpy.mean(array[y][x]) < THRESHOLD:
+                new_array[y][x] = 255
             else:
-                logger.info("Unknown player: %r (best guess: %r, %.2f)", ocr, best_name, best_dist)
-                return None
+                new_array[y][x] = 255 - numpy.mean(array[y][x])
+    player_name = Image.fromarray(new_array)
 
-        return ocr
+    # OCR
+    ocr = pytesseract.image_to_string(player_name)
+    ocr = ocr.rstrip('\r\n\x0C')
+    if not ocr:
+        return None
+
+    # Find closest name
+    if ocr not in known_player_names:
+        dists = [
+            (
+                stringdist.levenshtein_norm(ocr, candidate),
+                candidate,
+            )
+            for candidate in known_player_names
+        ]
+        best_dist, best_name = min(dists)
+        if best_dist < 0.45:
+            logger.info("Player name: %r -> %r", ocr, best_name)
+            ocr = best_name
+        else:
+            logger.info("Unknown player: %r (best guess: %r, %.2f)", ocr, best_name, best_dist)
+            return None
+    else:
+        logger.info("Player name: %r", ocr)
+
+    return ocr
 
 
 def main():
