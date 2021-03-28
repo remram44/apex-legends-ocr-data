@@ -11,6 +11,7 @@ Pillow = "^8.1.2"
 scikit-learn = "^0.24.1"
 pytesseract = "^0.3.7"
 opencv-python = "^4.5.1"
+StringDist = "^1.0.9"
 
 [tool.poetry.dev-dependencies]
 
