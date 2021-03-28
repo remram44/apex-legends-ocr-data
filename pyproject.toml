@@ -9,6 +9,7 @@ python = "^3.7"
 ipykernel = "^5.5.0"
 Pillow = "^8.1.2"
 scikit-learn = "^0.24.1"
+pytesseract = "^0.3.7"
 
 [tool.poetry.dev-dependencies]
 
