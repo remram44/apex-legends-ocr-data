@@ -7,3 +7,8 @@
 004178  start   match 4
 004846  end     match 4
 005236  start   match 5
+005890  end     match 5
+006348  start   match 6
+007006  end     match 6
+007565  start   match 7
+008185  CUT-OFF match 7     (60s early)
