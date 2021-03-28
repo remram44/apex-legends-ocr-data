@@ -94,6 +94,63 @@ def get_player_name(frame):
     return ocr
 
 
+def get_weapons(frame):
+    weapons = []
+
+    for i, loc in enumerate([
+        (1554, 1035, 1660, 1054),
+        (1710, 1035, 1815, 1055),
+    ]):
+        # Get weapon name area
+        weapon = frame.crop(loc)
+
+        # Scale up
+        weapon = ImageOps.scale(weapon, 4.0, Image.NEAREST)
+
+        # Threshold, turn black-on-white
+        array = numpy.array(weapon)
+        new_array = numpy.zeros((array.shape[0], array.shape[1]), dtype=numpy.uint8)
+        THRESHOLD = int(0.4 * 255)
+        for y in range(array.shape[0]):
+            for x in range(array.shape[1]):
+                if numpy.mean(array[y][x]) < THRESHOLD:
+                    new_array[y][x] = 255
+                else:
+                    new_array[y][x] = 255 - numpy.mean(array[y][x])
+        weapon = Image.fromarray(new_array)
+
+        # FIXME: Running a classifier would be much faster than OCR
+
+        # OCR
+        ocr = pytesseract.image_to_string(weapon)
+        ocr = ocr.rstrip('\r\n\x0C')
+        if not ocr:
+            continue
+
+        # Find closest name
+        if ocr not in known_weapons:
+            dists = [
+                (
+                    stringdist.levenshtein_norm(ocr, candidate),
+                    candidate,
+                )
+                for candidate in known_weapons
+            ]
+            best_dist, best_name = min(dists)
+            if best_dist < 0.45:
+                logger.info("Weapon %d: %r -> %r", i + 1, ocr, best_name)
+                ocr = best_name
+            else:
+                logger.info("Unknown weapon: %r (best guess: %r, %.2f)", ocr, best_name, best_dist)
+                continue
+        else:
+            logger.info("Weapon %d: %r", i + 1, ocr)
+
+        weapons.append(ocr)
+
+    return weapons
+
+
 def main():
     logging.basicConfig(
         level=logging.INFO,
@@ -106,7 +163,11 @@ def main():
         logger.info(">>> Frame %06d", frameno)
         frame = Image.open('2021-03-27_965657358_1080p/%06d.png' % frameno)
 
-        get_player_name(frame)
+        player_name = get_player_name(frame)
+        if not player_name:
+            continue
+
+        weapons = get_weapons(frame)
 
 
 if __name__ == '__main__':
