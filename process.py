@@ -28,7 +28,7 @@ known_names.discard('')
 
 def get_player_name(frame):
     # Get player name area
-    player_name = frame.crop((113, 640, 267, 660))
+    player_name = frame.crop((169, 960, 400, 990))
     # Find the icon at the end of the player name
     match = cv2.matchTemplate(
         pil2cv(player_name),
@@ -91,7 +91,7 @@ def main():
     for frameno in range(835, 1500):
         logger.info("")
         logger.info(">>> Frame %06d", frameno)
-        frame = Image.open('2021-03-27_965657358/%06d.png' % frameno)
+        frame = Image.open('2021-03-27_965657358_1080p/%06d.png' % frameno)
 
         get_player_name(frame)
 
