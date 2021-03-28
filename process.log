@@ -1,2251 +1,3066 @@
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000835
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000836
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000837
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000838
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000839
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000840
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000841
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000842
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000843
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000844
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000845
-14:41:58 INFO: Can't find player name end icon
-14:41:58 INFO: 
-14:41:58 INFO: >>> Frame 000846
-14:41:59 INFO: Player name: 'SungNguyenn'
-14:41:59 INFO: 
-14:41:59 INFO: >>> Frame 000847
-14:42:00 INFO: Player name: 'SungNguyenn'
-14:42:00 INFO: 
-14:42:00 INFO: >>> Frame 000848
-14:42:01 INFO: Player name: 'SungNguyenn'
-14:42:01 INFO: 
-14:42:01 INFO: >>> Frame 000849
-14:42:01 INFO: Player name: 'sungNguyenn'
-14:42:01 INFO: Player name: 'sungNguyenn' -> 'SungNguyenn'
-14:42:01 INFO: 
-14:42:01 INFO: >>> Frame 000850
-14:42:02 INFO: Player name: ', BlurrFlavorz_RX'
-14:42:02 INFO: Player name: ', BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
-14:42:02 INFO: 
-14:42:02 INFO: >>> Frame 000851
-14:42:03 INFO: Player name: ', BlurrFlavorz_RX'
-14:42:03 INFO: Player name: ', BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
-14:42:03 INFO: 
-14:42:03 INFO: >>> Frame 000852
-14:42:04 INFO: Player name: '_BlurrFlavorz_ RX'
-14:42:04 INFO: Player name: '_BlurrFlavorz_ RX' -> 'BlurrFlavorz_RX'
-14:42:04 INFO: 
-14:42:04 INFO: >>> Frame 000853
-14:42:05 INFO: Player name: ', BlurrFlavorz_RX'
-14:42:05 INFO: Player name: ', BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
-14:42:05 INFO: 
-14:42:05 INFO: >>> Frame 000854
-14:42:06 INFO: Player name: ' BlurrFlavarz_RX'
-14:42:06 INFO: Player name: ' BlurrFlavarz_RX' -> 'BlurrFlavorz_RX'
-14:42:06 INFO: 
-14:42:06 INFO: >>> Frame 000855
-14:42:07 INFO: Player name: 'BlurrFlavorz_RX'
-14:42:07 INFO: 
-14:42:07 INFO: >>> Frame 000856
-14:42:08 INFO: Player name: 'HisWattson_RX'
-14:42:08 INFO: 
-14:42:08 INFO: >>> Frame 000857
-14:42:08 INFO: Player name: 'HisWattson_RX'
-14:42:08 INFO: 
-14:42:08 INFO: >>> Frame 000858
-14:42:09 INFO: Player name: 'HisWattson RX'
-14:42:09 INFO: Player name: 'HisWattson RX' -> 'HisWattson_RX'
-14:42:09 INFO: 
-14:42:09 INFO: >>> Frame 000859
-14:42:10 INFO: Player name: '_CLT_mercy'
-14:42:10 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
-14:42:10 INFO: 
-14:42:10 INFO: >>> Frame 000860
-14:42:11 INFO: Player name: ' CLT_mercy'
-14:42:11 INFO: Player name: ' CLT_mercy' -> 'CLT_mercy'
-14:42:11 INFO: 
-14:42:11 INFO: >>> Frame 000861
-14:42:11 INFO: Player name: '_CLT_mercy'
-14:42:11 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
-14:42:11 INFO: 
-14:42:11 INFO: >>> Frame 000862
-14:42:12 INFO: Player name: 'CLT Bronzay'
-14:42:12 INFO: Player name: 'CLT Bronzay' -> 'CLT Bronzey'
-14:42:12 INFO: 
-14:42:12 INFO: >>> Frame 000863
-14:42:13 INFO: Player name: 'CLT Bronzey'
-14:42:13 INFO: 
-14:42:13 INFO: >>> Frame 000864
-14:42:13 INFO: Can't find player name end icon
-14:42:13 INFO: 
-14:42:13 INFO: >>> Frame 000865
-14:42:13 INFO: Can't find player name end icon
-14:42:13 INFO: 
-14:42:13 INFO: >>> Frame 000866
-14:42:13 INFO: Player name: 'CLT Bronzey'
-14:42:13 INFO: 
-14:42:13 INFO: >>> Frame 000867
-14:42:14 INFO: Player name: 'CLT mercy'
-14:42:14 INFO: Player name: 'CLT mercy' -> 'CLT_mercy'
-14:42:14 INFO: 
-14:42:14 INFO: >>> Frame 000868
-14:42:15 INFO: Player name: 'CLT mercy'
-14:42:15 INFO: Player name: 'CLT mercy' -> 'CLT_mercy'
-14:42:15 INFO: 
-14:42:15 INFO: >>> Frame 000869
-14:42:15 INFO: Player name: 'CLT Bronzey'
-14:42:15 INFO: 
-14:42:15 INFO: >>> Frame 000870
-14:42:16 INFO: Player name: 'CLT Bronzey'
-14:42:16 INFO: 
-14:42:16 INFO: >>> Frame 000871
-14:42:17 INFO: Player name: 'CLT Bronzey'
-14:42:17 INFO: 
-14:42:17 INFO: >>> Frame 000872
-14:42:17 INFO: Player name: 'CLT Pride'
-14:42:17 INFO: 
-14:42:17 INFO: >>> Frame 000873
-14:42:18 INFO: Player name: 'CLT Pride'
-14:42:18 INFO: 
-14:42:18 INFO: >>> Frame 000874
-14:42:19 INFO: Player name: 'CLT Pride'
-14:42:19 INFO: 
-14:42:19 INFO: >>> Frame 000875
-14:42:19 INFO: Player name: 'CLT Bronzey'
-14:42:19 INFO: 
-14:42:19 INFO: >>> Frame 000876
-14:42:20 INFO: Player name: 'HisWattson_RxX'
-14:42:20 INFO: Player name: 'HisWattson_RxX' -> 'HisWattson_RX'
-14:42:20 INFO: 
-14:42:20 INFO: >>> Frame 000877
-14:42:21 INFO: Player name: 'HisWattson_ RX'
-14:42:21 INFO: Player name: 'HisWattson_ RX' -> 'HisWattson_RX'
-14:42:21 INFO: 
-14:42:21 INFO: >>> Frame 000878
-14:42:22 INFO: Player name: 'SungNguyenn'
-14:42:22 INFO: 
-14:42:22 INFO: >>> Frame 000879
-14:42:23 INFO: Player name: 'SungNguyenn'
-14:42:23 INFO: 
-14:42:23 INFO: >>> Frame 000880
-14:42:23 INFO: Player name: 'SungNguyenn'
-14:42:23 INFO: 
-14:42:23 INFO: >>> Frame 000881
-14:42:24 INFO: Player name: 'SungNguyenn'
-14:42:24 INFO: 
-14:42:24 INFO: >>> Frame 000882
-14:42:25 INFO: Player name: 'SungNguyann'
-14:42:25 INFO: Player name: 'SungNguyann' -> 'SungNguyenn'
-14:42:25 INFO: 
-14:42:25 INFO: >>> Frame 000883
-14:42:26 INFO: Player name: ' BlurrFlavorz_RX'
-14:42:26 INFO: Player name: ' BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
-14:42:26 INFO: 
-14:42:26 INFO: >>> Frame 000884
-14:42:27 INFO: Player name: '_ BlurrFlavorz_RX'
-14:42:27 INFO: Player name: '_ BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
-14:42:27 INFO: 
-14:42:27 INFO: >>> Frame 000885
-14:42:27 INFO: Can't find player name end icon
-14:42:27 INFO: 
-14:42:27 INFO: >>> Frame 000886
-14:42:27 INFO: Player name: '-BlurrFlavorz_AXx'
-14:42:27 INFO: Player name: '-BlurrFlavorz_AXx' -> 'BlurrFlavorz_RX'
-14:42:27 INFO: 
-14:42:27 INFO: >>> Frame 000887
-14:42:28 INFO: Player name: '| BlurrFlavorz_ RX'
-14:42:28 INFO: Player name: '| BlurrFlavorz_ RX' -> 'BlurrFlavorz_RX'
-14:42:28 INFO: 
-14:42:28 INFO: >>> Frame 000888
-14:42:29 INFO: Player name: 'MrGreekGodTTV'
-14:42:29 INFO: 
-14:42:29 INFO: >>> Frame 000889
-14:42:30 INFO: Player name: 'MrGreekGodTTV'
-14:42:30 INFO: 
-14:42:30 INFO: >>> Frame 000890
-14:42:31 INFO: Player name: 'MrGreekGodTTV-'
-14:42:31 INFO: Player name: 'MrGreekGodTTV-' -> 'MrGreekGodTTV'
-14:42:31 INFO: 
-14:42:31 INFO: >>> Frame 000891
-14:42:31 INFO: Player name: 'StinkTV'
-14:42:31 INFO: 
-14:42:31 INFO: >>> Frame 000892
-14:42:32 INFO: Player name: 'StinkTV'
-14:42:32 INFO: 
-14:42:32 INFO: >>> Frame 000893
-14:42:32 INFO: Player name: 'StinkTV'
-14:42:32 INFO: 
-14:42:32 INFO: >>> Frame 000894
-14:42:33 INFO: Player name: 'StinkTV¥'
-14:42:33 INFO: Player name: 'StinkTV¥' -> 'StinkTV'
-14:42:33 INFO: 
-14:42:33 INFO: >>> Frame 000895
-14:42:34 INFO: Player name: 'StinkTV'
-14:42:34 INFO: 
-14:42:34 INFO: >>> Frame 000896
-14:42:34 INFO: Player name: 'StinkTV'
-14:42:34 INFO: 
-14:42:34 INFO: >>> Frame 000897
-14:42:35 INFO: Player name: 'StinkTV'
-14:42:35 INFO: 
-14:42:35 INFO: >>> Frame 000898
-14:42:35 INFO: Player name: '-StinkTV'
-14:42:35 INFO: Player name: '-StinkTV' -> 'StinkTV'
-14:42:35 INFO: 
-14:42:35 INFO: >>> Frame 000899
-14:42:36 INFO: Player name: 'StinkTV'
-14:42:36 INFO: 
-14:42:36 INFO: >>> Frame 000900
-14:42:36 INFO: Can't find player name end icon
-14:42:36 INFO: 
-14:42:36 INFO: >>> Frame 000901
-14:42:36 INFO: Can't find player name end icon
-14:42:36 INFO: 
-14:42:36 INFO: >>> Frame 000902
-14:42:36 INFO: Can't find player name end icon
-14:42:36 INFO: 
-14:42:36 INFO: >>> Frame 000903
-14:42:36 INFO: Can't find player name end icon
-14:42:36 INFO: 
-14:42:36 INFO: >>> Frame 000904
-14:42:37 INFO: Player name: 'Kotigami'
-14:42:37 INFO: 
-14:42:37 INFO: >>> Frame 000905
-14:42:37 INFO: Player name: 'Kotigami'
-14:42:37 INFO: 
-14:42:37 INFO: >>> Frame 000906
-14:42:38 INFO: Player name: 'Kotigami'
-14:42:38 INFO: 
-14:42:38 INFO: >>> Frame 000907
-14:42:39 INFO: Player name: 'CLG jriMadness'
-14:42:39 INFO: Player name: 'CLG jriMadness' -> 'CLG ImMadness'
-14:42:39 INFO: 
-14:42:39 INFO: >>> Frame 000908
-14:42:39 INFO: Player name: ',COL_Iou'
-14:42:39 INFO: Player name: ',COL_Iou' -> 'COL_Iou'
-14:42:39 INFO: 
-14:42:39 INFO: >>> Frame 000909
-14:42:40 INFO: Player name: 'COL lou'
-14:42:40 INFO: Player name: 'COL lou' -> 'COL_Iou'
-14:42:40 INFO: 
-14:42:40 INFO: >>> Frame 000910
-14:42:40 INFO: Player name: 'CLG Vaxton'
-14:42:40 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
-14:42:40 INFO: 
-14:42:40 INFO: >>> Frame 000911
-14:42:41 INFO: Player name: 'CLG Vaxlon'
-14:42:41 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:42:41 INFO: 
-14:42:41 INFO: >>> Frame 000912
-14:42:42 INFO: Player name: 'CLG Vaxion'
-14:42:42 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:42:42 INFO: 
-14:42:42 INFO: >>> Frame 000913
-14:42:42 INFO: Player name: 'CLG Vaxlon'
-14:42:42 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:42:42 INFO: 
-14:42:42 INFO: >>> Frame 000914
-14:42:43 INFO: Player name: '‘CLG Vaxton'
-14:42:43 INFO: Player name: '‘CLG Vaxton' -> 'CLG_Vaxlon'
-14:42:43 INFO: 
-14:42:43 INFO: >>> Frame 000915
-14:42:44 INFO: Player name: 'CLG _Vaxion'
-14:42:44 INFO: Player name: 'CLG _Vaxion' -> 'CLG_Vaxlon'
-14:42:44 INFO: 
-14:42:44 INFO: >>> Frame 000916
-14:42:44 INFO: Player name: 'CLG Vaxlon'
-14:42:44 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:42:44 INFO: 
-14:42:44 INFO: >>> Frame 000917
-14:42:45 INFO: Player name: 'CLG Vaxlon'
-14:42:45 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:42:45 INFO: 
-14:42:45 INFO: >>> Frame 000918
-14:42:46 INFO: Player name: 'CLG _Vaxlon'
-14:42:46 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:42:46 INFO: 
-14:42:46 INFO: >>> Frame 000919
-14:42:47 INFO: Player name: 'CLG Vaxion'
-14:42:47 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:42:47 INFO: 
-14:42:47 INFO: >>> Frame 000920
-14:42:47 INFO: Player name: 'CLG Vaxion'
-14:42:47 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:42:47 INFO: 
-14:42:47 INFO: >>> Frame 000921
-14:42:48 INFO: Player name: 'CLG_Vaxlon'
-14:42:48 INFO: 
-14:42:48 INFO: >>> Frame 000922
-14:42:49 INFO: Player name: 'CLG_Vaxlon'
-14:42:49 INFO: 
-14:42:49 INFO: >>> Frame 000923
-14:42:49 INFO: Player name: 'CLG Vaxlon'
-14:42:49 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:42:49 INFO: 
-14:42:49 INFO: >>> Frame 000924
-14:42:50 INFO: Player name: 'CLG Vaxlon'
-14:42:50 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:42:50 INFO: 
-14:42:50 INFO: >>> Frame 000925
-14:42:51 INFO: Player name: '. sF_Resultuh'
-14:42:51 INFO: Player name: '. sF_Resultuh' -> 'sF_Resultuh'
-14:42:51 INFO: 
-14:42:51 INFO: >>> Frame 000926
-14:42:51 INFO: Player name: '_sF_Resultuh'
-14:42:51 INFO: Player name: '_sF_Resultuh' -> 'sF_Resultuh'
-14:42:51 INFO: 
-14:42:51 INFO: >>> Frame 000927
-14:42:52 INFO: Player name: 'SF _Resultuh'
-14:42:52 INFO: Player name: 'SF _Resultuh' -> 'sF_Resultuh'
-14:42:52 INFO: 
-14:42:52 INFO: >>> Frame 000928
-14:42:53 INFO: Player name: '_sF_Resultuh'
-14:42:53 INFO: Player name: '_sF_Resultuh' -> 'sF_Resultuh'
-14:42:53 INFO: 
-14:42:53 INFO: >>> Frame 000929
-14:42:53 INFO: Player name: '_SF_Resultuh'
-14:42:53 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
-14:42:53 INFO: 
-14:42:53 INFO: >>> Frame 000930
-14:42:54 INFO: Player name: '_SF_Resultuh'
-14:42:54 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
-14:42:54 INFO: 
-14:42:54 INFO: >>> Frame 000931
-14:42:55 INFO: Player name: '-sF_Resultuh'
-14:42:55 INFO: Player name: '-sF_Resultuh' -> 'sF_Resultuh'
-14:42:55 INFO: 
-14:42:55 INFO: >>> Frame 000932
-14:42:56 INFO: Player name: 'SF _Resultuh'
-14:42:56 INFO: Player name: 'SF _Resultuh' -> 'sF_Resultuh'
-14:42:56 INFO: 
-14:42:56 INFO: >>> Frame 000933
-14:42:56 INFO: Player name: 'SF _Resultuh'
-14:42:56 INFO: Player name: 'SF _Resultuh' -> 'sF_Resultuh'
-14:42:56 INFO: 
-14:42:56 INFO: >>> Frame 000934
-14:42:57 INFO: Player name: 'Sauceror'
-14:42:57 INFO: 
-14:42:57 INFO: >>> Frame 000935
-14:42:57 INFO: Player name: 'Saucerot'
-14:42:57 INFO: Player name: 'Saucerot' -> 'Sauceror'
-14:42:57 INFO: 
-14:42:57 INFO: >>> Frame 000936
-14:42:58 INFO: Player name: 'Sauceror'
-14:42:58 INFO: 
-14:42:58 INFO: >>> Frame 000937
-14:42:58 INFO: Player name: 'Sauceror'
-14:42:58 INFO: 
-14:42:58 INFO: >>> Frame 000938
-14:42:59 INFO: Can't find player name end icon
-14:42:59 INFO: 
-14:42:59 INFO: >>> Frame 000939
-14:42:59 INFO: Can't find player name end icon
-14:42:59 INFO: 
-14:42:59 INFO: >>> Frame 000940
-14:42:59 INFO: Player name: 'bowswerr'
-14:42:59 INFO: 
-14:42:59 INFO: >>> Frame 000941
-14:43:00 INFO: Player name: 'bowswerr'
-14:43:00 INFO: 
-14:43:00 INFO: >>> Frame 000942
-14:43:00 INFO: Player name: 'bowswerr'
-14:43:00 INFO: 
-14:43:00 INFO: >>> Frame 000943
-14:43:01 INFO: Player name: 'CLG _PowPow'
-14:43:01 INFO: Player name: 'CLG _PowPow' -> 'CLG_PowPow'
-14:43:01 INFO: 
-14:43:01 INFO: >>> Frame 000944
-14:43:02 INFO: Player name: 'CLG_PowPow'
-14:43:02 INFO: 
-14:43:02 INFO: >>> Frame 000945
-14:43:03 INFO: Player name: 'CLG PowPow'
-14:43:03 INFO: Player name: 'CLG PowPow' -> 'CLG_PowPow'
-14:43:03 INFO: 
-14:43:03 INFO: >>> Frame 000946
-14:43:03 INFO: Player name: 'CLG_PowPow'
-14:43:03 INFO: 
-14:43:03 INFO: >>> Frame 000947
-14:43:04 INFO: Player name: 'CLG _PowPow'
-14:43:04 INFO: Player name: 'CLG _PowPow' -> 'CLG_PowPow'
-14:43:04 INFO: 
-14:43:04 INFO: >>> Frame 000948
-14:43:05 INFO: Player name: 'CLG PowPow'
-14:43:05 INFO: Player name: 'CLG PowPow' -> 'CLG_PowPow'
-14:43:05 INFO: 
-14:43:05 INFO: >>> Frame 000949
-14:43:06 INFO: Player name: 'SEN_senoxe'
-14:43:06 INFO: 
-14:43:06 INFO: >>> Frame 000950
-14:43:07 INFO: Player name: 'SEN senoxe'
-14:43:07 INFO: Player name: 'SEN senoxe' -> 'SEN_senoxe'
-14:43:07 INFO: 
-14:43:07 INFO: >>> Frame 000951
-14:43:07 INFO: Player name: 'SEN senoxe'
-14:43:07 INFO: Player name: 'SEN senoxe' -> 'SEN_senoxe'
-14:43:07 INFO: 
-14:43:07 INFO: >>> Frame 000952
-14:43:08 INFO: Player name: 'SEN_sanoxe'
-14:43:08 INFO: Player name: 'SEN_sanoxe' -> 'SEN_senoxe'
-14:43:08 INFO: 
-14:43:08 INFO: >>> Frame 000953
-14:43:09 INFO: Player name: 'SEN_senoxe'
-14:43:09 INFO: 
-14:43:09 INFO: >>> Frame 000954
-14:43:09 INFO: Player name: 'SEN_senoxe'
-14:43:09 INFO: 
-14:43:09 INFO: >>> Frame 000955
-14:43:10 INFO: Player name: 'SEN senoxe'
-14:43:10 INFO: Player name: 'SEN senoxe' -> 'SEN_senoxe'
-14:43:10 INFO: 
-14:43:10 INFO: >>> Frame 000956
-14:43:11 INFO: Player name: 'SEN _senoxe'
-14:43:11 INFO: Player name: 'SEN _senoxe' -> 'SEN_senoxe'
-14:43:11 INFO: 
-14:43:11 INFO: >>> Frame 000957
-14:43:11 INFO: Can't find player name end icon
-14:43:11 INFO: 
-14:43:11 INFO: >>> Frame 000958
-14:43:12 INFO: Player name: 'TSM _ImperialHal'
-14:43:12 INFO: Player name: 'TSM _ImperialHal' -> 'TSM_ImperialHa1'
-14:43:12 INFO: 
-14:43:12 INFO: >>> Frame 000959
-14:43:12 INFO: Can't find player name end icon
-14:43:12 INFO: 
-14:43:12 INFO: >>> Frame 000960
-14:43:13 INFO: Player name: 'TSM_ImperialHal'
-14:43:13 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:43:13 INFO: 
-14:43:13 INFO: >>> Frame 000961
-14:43:14 INFO: Player name: 'TSM _ImperialHal'
-14:43:14 INFO: Player name: 'TSM _ImperialHal' -> 'TSM_ImperialHa1'
-14:43:14 INFO: 
-14:43:14 INFO: >>> Frame 000962
-14:43:14 INFO: Can't find player name end icon
-14:43:14 INFO: 
-14:43:14 INFO: >>> Frame 000963
-14:43:14 INFO: Can't find player name end icon
-14:43:14 INFO: 
-14:43:14 INFO: >>> Frame 000964
-14:43:14 INFO: Can't find player name end icon
-14:43:14 INFO: 
-14:43:14 INFO: >>> Frame 000965
-14:43:15 INFO: Player name: 'NPL_OMGRONNIE'
-14:43:15 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:43:15 INFO: 
-14:43:15 INFO: >>> Frame 000966
-14:43:16 INFO: Player name: 'NPLOMGRONNIE'
-14:43:16 INFO: Player name: 'NPLOMGRONNIE' -> 'NPL_OMGRONN1E'
-14:43:16 INFO: 
-14:43:16 INFO: >>> Frame 000967
-14:43:17 INFO: Player name: 'NPL OMGRONNIE'
-14:43:17 INFO: Player name: 'NPL OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:43:17 INFO: 
-14:43:17 INFO: >>> Frame 000968
-14:43:17 INFO: Can't find player name end icon
-14:43:17 INFO: 
-14:43:17 INFO: >>> Frame 000969
-14:43:18 INFO: Player name: 'NPL_OMGRONNIE'
-14:43:18 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:43:18 INFO: 
-14:43:18 INFO: >>> Frame 000970
-14:43:18 INFO: Player name: 'gcrook'
-14:43:18 INFO: Player name: 'gcrook' -> 'qcrook'
-14:43:18 INFO: 
-14:43:18 INFO: >>> Frame 000971
-14:43:19 INFO: Player name: 'NPL_OMGRONNIE'
-14:43:19 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:43:19 INFO: 
-14:43:19 INFO: >>> Frame 000972
-14:43:20 INFO: Player name: 'NPL OMGRONNIE'
-14:43:20 INFO: Player name: 'NPL OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:43:20 INFO: 
-14:43:20 INFO: >>> Frame 000973
-14:43:20 INFO: Player name: ' geraok'
-14:43:20 INFO: Unknown player: ' geraok' (best guess: 'qcrook', 0.57)
-14:43:20 INFO: 
-14:43:20 INFO: >>> Frame 000974
-14:43:21 INFO: Player name: 'HRN_Hill'
-14:43:21 INFO: 
-14:43:21 INFO: >>> Frame 000975
-14:43:21 INFO: Player name: 'HRN Hill'
-14:43:21 INFO: Player name: 'HRN Hill' -> 'HRN_Hill'
-14:43:21 INFO: 
-14:43:21 INFO: >>> Frame 000976
-14:43:22 INFO: Player name: 'HRN_Hill'
-14:43:22 INFO: 
-14:43:22 INFO: >>> Frame 000977
-14:43:23 INFO: Player name: 'HRN_Hill'
-14:43:23 INFO: 
-14:43:23 INFO: >>> Frame 000978
-14:43:23 INFO: Player name: 'HRN Hill'
-14:43:23 INFO: Player name: 'HRN Hill' -> 'HRN_Hill'
-14:43:23 INFO: 
-14:43:23 INFO: >>> Frame 000979
-14:43:24 INFO: Player name: 'HRN _Hill'
-14:43:24 INFO: Player name: 'HRN _Hill' -> 'HRN_Hill'
-14:43:24 INFO: 
-14:43:24 INFO: >>> Frame 000980
-14:43:24 INFO: Player name: 'HRN_Rkn'
-14:43:24 INFO: 
-14:43:24 INFO: >>> Frame 000981
-14:43:25 INFO: Player name: 'HRN_Rkn'
-14:43:25 INFO: 
-14:43:25 INFO: >>> Frame 000982
-14:43:25 INFO: Player name: 'HRN_Rkn'
-14:43:25 INFO: 
-14:43:25 INFO: >>> Frame 000983
-14:43:26 INFO: Player name: 'HRN_Rkn'
-14:43:26 INFO: 
-14:43:26 INFO: >>> Frame 000984
-14:43:27 INFO: Player name: 'HRN_Rkn'
-14:43:27 INFO: 
-14:43:27 INFO: >>> Frame 000985
-14:43:27 INFO: Player name: 'HRN_Rkn'
-14:43:27 INFO: 
-14:43:27 INFO: >>> Frame 000986
-14:43:28 INFO: Player name: 'HRN_Rkn'
-14:43:28 INFO: 
-14:43:28 INFO: >>> Frame 000987
-14:43:28 INFO: Player name: 'HRN_Rkn'
-14:43:28 INFO: 
-14:43:28 INFO: >>> Frame 000988
-14:43:29 INFO: Player name: 'HRN_Rkn'
-14:43:29 INFO: 
-14:43:29 INFO: >>> Frame 000989
-14:43:30 INFO: Player name: 'HRN_Rkn'
-14:43:30 INFO: 
-14:43:30 INFO: >>> Frame 000990
-14:43:30 INFO: Player name: 'HRN_Rkn'
-14:43:30 INFO: 
-14:43:30 INFO: >>> Frame 000991
-14:43:31 INFO: Player name: 'HRN_Rkn'
-14:43:31 INFO: 
-14:43:31 INFO: >>> Frame 000992
-14:43:31 INFO: Player name: 'HRN_Rkn'
-14:43:31 INFO: 
-14:43:31 INFO: >>> Frame 000993
-14:43:32 INFO: Player name: 'HRN_Rkn'
-14:43:32 INFO: 
-14:43:32 INFO: >>> Frame 000994
-14:43:33 INFO: Player name: 'HRN _Rkn'
-14:43:33 INFO: Player name: 'HRN _Rkn' -> 'HRN_Rkn'
-14:43:33 INFO: 
-14:43:33 INFO: >>> Frame 000995
-14:43:33 INFO: Player name: 'HRN_Rkn'
-14:43:33 INFO: 
-14:43:33 INFO: >>> Frame 000996
-14:43:34 INFO: Player name: 'Reps_TSM'
-14:43:34 INFO: 
-14:43:34 INFO: >>> Frame 000997
-14:43:35 INFO: Player name: '_Reps_TSM'
-14:43:35 INFO: Player name: '_Reps_TSM' -> 'Reps_TSM'
-14:43:35 INFO: 
-14:43:35 INFO: >>> Frame 000998
-14:43:35 INFO: Player name: 'Reps_TSM'
-14:43:35 INFO: 
-14:43:35 INFO: >>> Frame 000999
-14:43:36 INFO: Player name: 'TSM_ImperialHal'
-14:43:36 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:43:36 INFO: 
-14:43:36 INFO: >>> Frame 001000
-14:43:36 INFO: Can't find player name end icon
-14:43:36 INFO: 
-14:43:36 INFO: >>> Frame 001001
-14:43:37 INFO: Player name: 'HRN_Rkn'
-14:43:37 INFO: 
-14:43:37 INFO: >>> Frame 001002
-14:43:37 INFO: Player name: 'HRN_Rkn'
-14:43:37 INFO: 
-14:43:37 INFO: >>> Frame 001003
-14:43:38 INFO: Player name: 'HRN_Rkn'
-14:43:38 INFO: 
-14:43:38 INFO: >>> Frame 001004
-14:43:38 INFO: Player name: '-HRN_Rkn'
-14:43:38 INFO: Player name: '-HRN_Rkn' -> 'HRN_Rkn'
-14:43:38 INFO: 
-14:43:38 INFO: >>> Frame 001005
-14:43:39 INFO: Player name: 'HRN_Rkn'
-14:43:39 INFO: 
-14:43:39 INFO: >>> Frame 001006
-14:43:40 INFO: Player name: 'HRN _Rkn'
-14:43:40 INFO: Player name: 'HRN _Rkn' -> 'HRN_Rkn'
-14:43:40 INFO: 
-14:43:40 INFO: >>> Frame 001007
-14:43:40 INFO: Player name: 'HRN_Rkn'
-14:43:40 INFO: 
-14:43:40 INFO: >>> Frame 001008
-14:43:41 INFO: Player name: 'HRN_Rkn'
-14:43:41 INFO: 
-14:43:41 INFO: >>> Frame 001009
-14:43:41 INFO: Player name: 'HRN_Rkn'
-14:43:41 INFO: 
-14:43:41 INFO: >>> Frame 001010
-14:43:42 INFO: Player name: 'HRN_Rkn'
-14:43:42 INFO: 
-14:43:42 INFO: >>> Frame 001011
-14:43:43 INFO: Player name: 'HRN_Rkn'
-14:43:43 INFO: 
-14:43:43 INFO: >>> Frame 001012
-14:43:43 INFO: Player name: 'HRN _Rkn'
-14:43:43 INFO: Player name: 'HRN _Rkn' -> 'HRN_Rkn'
-14:43:43 INFO: 
-14:43:43 INFO: >>> Frame 001013
-14:43:44 INFO: Player name: 'HRN_Rkn'
-14:43:44 INFO: 
-14:43:44 INFO: >>> Frame 001014
-14:43:44 INFO: Player name: 'ClaneSZN'
-14:43:44 INFO: 
-14:43:44 INFO: >>> Frame 001015
-14:43:45 INFO: Player name: 'ClaneSZN'
-14:43:45 INFO: 
-14:43:45 INFO: >>> Frame 001016
-14:43:46 INFO: Player name: 'ClaneSZN'
-14:43:46 INFO: 
-14:43:46 INFO: >>> Frame 001017
-14:43:46 INFO: Player name: 'ClaneSZN'
-14:43:46 INFO: 
-14:43:46 INFO: >>> Frame 001018
-14:43:47 INFO: Player name: 'ClaneSZN'
-14:43:47 INFO: 
-14:43:47 INFO: >>> Frame 001019
-14:43:47 INFO: Player name: 'ClaneSZN'
-14:43:47 INFO: 
-14:43:47 INFO: >>> Frame 001020
-14:43:48 INFO: Player name: '“ClaneSZN'
-14:43:48 INFO: Player name: '“ClaneSZN' -> 'ClaneSZN'
-14:43:48 INFO: 
-14:43:48 INFO: >>> Frame 001021
-14:43:48 INFO: Can't find player name end icon
-14:43:48 INFO: 
-14:43:48 INFO: >>> Frame 001022
-14:43:48 INFO: Can't find player name end icon
-14:43:48 INFO: 
-14:43:48 INFO: >>> Frame 001023
-14:43:49 INFO: Player name: 'ClaneSZN'
-14:43:49 INFO: 
-14:43:49 INFO: >>> Frame 001024
-14:43:49 INFO: Player name: 'ClaneSZN'
-14:43:49 INFO: 
-14:43:49 INFO: >>> Frame 001025
-14:43:50 INFO: Player name: 'ClaneSZN'
-14:43:50 INFO: 
-14:43:50 INFO: >>> Frame 001026
-14:43:51 INFO: Player name: 'ClaneSZN'
-14:43:51 INFO: 
-14:43:51 INFO: >>> Frame 001027
-14:43:51 INFO: Player name: 'ClaneSZN'
-14:43:51 INFO: 
-14:43:51 INFO: >>> Frame 001028
-14:43:52 INFO: Player name: 'ClaneSZN'
-14:43:52 INFO: 
-14:43:52 INFO: >>> Frame 001029
-14:43:52 INFO: Player name: 'ClaneSZN'
-14:43:52 INFO: 
-14:43:52 INFO: >>> Frame 001030
-14:43:52 INFO: Can't find player name end icon
-14:43:52 INFO: 
-14:43:52 INFO: >>> Frame 001031
-14:43:53 INFO: Can't find player name end icon
-14:43:53 INFO: 
-14:43:53 INFO: >>> Frame 001032
-14:43:53 INFO: Can't find player name end icon
-14:43:53 INFO: 
-14:43:53 INFO: >>> Frame 001033
-14:43:53 INFO: Player name: 'KeniFPS'
-14:43:53 INFO: 
-14:43:53 INFO: >>> Frame 001034
-14:43:54 INFO: Player name: 'COL FunFPs'
-14:43:54 INFO: Player name: 'COL FunFPs' -> 'COL_FunFPS'
-14:43:54 INFO: 
-14:43:54 INFO: >>> Frame 001035
-14:43:54 INFO: Player name: 'KeniFPS'
-14:43:54 INFO: 
-14:43:54 INFO: >>> Frame 001036
-14:43:55 INFO: Player name: 'ClaneSZN'
-14:43:55 INFO: 
-14:43:55 INFO: >>> Frame 001037
-14:43:56 INFO: Player name: 'Claneszn'
-14:43:56 INFO: Player name: 'Claneszn' -> 'ClaneSZN'
-14:43:56 INFO: 
-14:43:56 INFO: >>> Frame 001038
-14:43:56 INFO: Player name: "'ClarieSZN."
-14:43:56 INFO: Player name: "'ClarieSZN." -> 'ClaneSZN'
-14:43:56 INFO: 
-14:43:56 INFO: >>> Frame 001039
-14:43:57 INFO: Player name: 'ClaneSZN'
-14:43:57 INFO: 
-14:43:57 INFO: >>> Frame 001040
-14:43:58 INFO: Player name: 'ClaneSZN'
-14:43:58 INFO: 
-14:43:58 INFO: >>> Frame 001041
-14:43:58 INFO: Player name: 'ClaneSZN'
-14:43:58 INFO: 
-14:43:58 INFO: >>> Frame 001042
-14:43:59 INFO: Player name: 'ClaneSZN'
-14:43:59 INFO: 
-14:43:59 INFO: >>> Frame 001043
-14:43:59 INFO: Player name: 'ClaneSZN'
-14:43:59 INFO: 
-14:43:59 INFO: >>> Frame 001044
-14:44:00 INFO: Player name: 'ClaneSZN'
-14:44:00 INFO: 
-14:44:00 INFO: >>> Frame 001045
-14:44:01 INFO: Player name: 'ClaneSZN'
-14:44:01 INFO: 
-14:44:01 INFO: >>> Frame 001046
-14:44:01 INFO: Player name: 'ClaneSZN'
-14:44:01 INFO: 
-14:44:01 INFO: >>> Frame 001047
-14:44:02 INFO: Player name: 'ClaneSZN'
-14:44:02 INFO: 
-14:44:02 INFO: >>> Frame 001048
-14:44:03 INFO: Player name: '-COL_FunFPs'
-14:44:03 INFO: Player name: '-COL_FunFPs' -> 'COL_FunFPS'
-14:44:03 INFO: 
-14:44:03 INFO: >>> Frame 001049
-14:44:03 INFO: Player name: '-COL_FunFPs'
-14:44:03 INFO: Player name: '-COL_FunFPs' -> 'COL_FunFPS'
-14:44:03 INFO: 
-14:44:03 INFO: >>> Frame 001050
-14:44:04 INFO: Player name: 'COL_FunFPS'
-14:44:04 INFO: 
-14:44:04 INFO: >>> Frame 001051
-14:44:05 INFO: Player name: 'CLG ImMadness'
-14:44:05 INFO: 
-14:44:05 INFO: >>> Frame 001052
-14:44:06 INFO: Player name: 'CLG ImMadness'
-14:44:06 INFO: 
-14:44:06 INFO: >>> Frame 001053
-14:44:07 INFO: Player name: '“CLG ImMadness'
-14:44:07 INFO: Player name: '“CLG ImMadness' -> 'CLG ImMadness'
-14:44:07 INFO: 
-14:44:07 INFO: >>> Frame 001054
-14:44:07 INFO: Player name: 'COLI'
-14:44:07 INFO: Player name: 'COLI' -> 'COL_Iou'
-14:44:07 INFO: 
-14:44:07 INFO: >>> Frame 001055
-14:44:08 INFO: Player name: 'COL lou'
-14:44:08 INFO: Player name: 'COL lou' -> 'COL_Iou'
-14:44:08 INFO: 
-14:44:08 INFO: >>> Frame 001056
-14:44:09 INFO: Player name: 'CLG Vaxlon'
-14:44:09 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:44:09 INFO: 
-14:44:09 INFO: >>> Frame 001057
-14:44:09 INFO: Can't find player name end icon
-14:44:09 INFO: 
-14:44:09 INFO: >>> Frame 001058
-14:44:09 INFO: Can't find player name end icon
-14:44:09 INFO: 
-14:44:09 INFO: >>> Frame 001059
-14:44:09 INFO: Can't find player name end icon
-14:44:09 INFO: 
-14:44:09 INFO: >>> Frame 001060
-14:44:10 INFO: Player name: 'CLG ImMadness'
-14:44:10 INFO: 
-14:44:10 INFO: >>> Frame 001061
-14:44:10 INFO: Player name: 'CLG ImMadness'
-14:44:10 INFO: 
-14:44:10 INFO: >>> Frame 001062
-14:44:11 INFO: Player name: 'CLG ImMadness'
-14:44:11 INFO: 
-14:44:11 INFO: >>> Frame 001063
-14:44:12 INFO: Player name: 'CLG ImMadness'
-14:44:12 INFO: 
-14:44:12 INFO: >>> Frame 001064
-14:44:13 INFO: Player name: 'COL_lou'
-14:44:13 INFO: Player name: 'COL_lou' -> 'COL_Iou'
-14:44:13 INFO: 
-14:44:13 INFO: >>> Frame 001065
-14:44:13 INFO: Player name: '_COL_lou'
-14:44:13 INFO: Player name: '_COL_lou' -> 'COL_Iou'
-14:44:13 INFO: 
-14:44:13 INFO: >>> Frame 001066
-14:44:14 INFO: Player name: ',COL_lou'
-14:44:14 INFO: Player name: ',COL_lou' -> 'COL_Iou'
-14:44:14 INFO: 
-14:44:14 INFO: >>> Frame 001067
-14:44:14 INFO: Player name: 'COL_ou'
-14:44:14 INFO: Player name: 'COL_ou' -> 'COL_Iou'
-14:44:14 INFO: 
-14:44:14 INFO: >>> Frame 001068
-14:44:15 INFO: Player name: ',COL_lou'
-14:44:15 INFO: Player name: ',COL_lou' -> 'COL_Iou'
-14:44:15 INFO: 
-14:44:15 INFO: >>> Frame 001069
-14:44:15 INFO: Player name: 'COL Jou'
-14:44:15 INFO: Player name: 'COL Jou' -> 'COL_Iou'
-14:44:15 INFO: 
-14:44:15 INFO: >>> Frame 001070
-14:44:16 INFO: Player name: 'StinkTV'
-14:44:16 INFO: 
-14:44:16 INFO: >>> Frame 001071
-14:44:17 INFO: Player name: 'Kotigami'
-14:44:17 INFO: 
-14:44:17 INFO: >>> Frame 001072
-14:44:17 INFO: Player name: 'MrGreekGodTTV'
-14:44:17 INFO: 
-14:44:17 INFO: >>> Frame 001073
-14:44:18 INFO: Player name: 'MrGreekGodTTV'
-14:44:18 INFO: 
-14:44:18 INFO: >>> Frame 001074
-14:44:19 INFO: Player name: 'Kotigami'
-14:44:19 INFO: 
-14:44:19 INFO: >>> Frame 001075
-14:44:19 INFO: Player name: 'Kotigami'
-14:44:19 INFO: 
-14:44:19 INFO: >>> Frame 001076
-14:44:20 INFO: Player name: 'Kotigami'
-14:44:20 INFO: 
-14:44:20 INFO: >>> Frame 001077
-14:44:21 INFO: Player name: 'MrGreekGodTTV'
-14:44:21 INFO: 
-14:44:21 INFO: >>> Frame 001078
-14:44:22 INFO: Player name: ''
-14:44:22 INFO: 
-14:44:22 INFO: >>> Frame 001079
-14:44:22 INFO: Can't find player name end icon
-14:44:22 INFO: 
-14:44:22 INFO: >>> Frame 001080
-14:44:22 INFO: Can't find player name end icon
-14:44:22 INFO: 
-14:44:22 INFO: >>> Frame 001081
-14:44:22 INFO: Can't find player name end icon
-14:44:22 INFO: 
-14:44:22 INFO: >>> Frame 001082
-14:44:22 INFO: Can't find player name end icon
-14:44:22 INFO: 
-14:44:22 INFO: >>> Frame 001083
-14:44:23 INFO: Player name: 'Kotigami'
-14:44:23 INFO: 
-14:44:23 INFO: >>> Frame 001084
-14:44:23 INFO: Player name: 'Kotigam|'
-14:44:23 INFO: Player name: 'Kotigam|' -> 'Kotigami'
-14:44:23 INFO: 
-14:44:23 INFO: >>> Frame 001085
-14:44:24 INFO: Player name: 'Kotigami'
-14:44:24 INFO: 
-14:44:24 INFO: >>> Frame 001086
-14:44:25 INFO: Player name: 'MrGreaekGodTTVv'
-14:44:25 INFO: Player name: 'MrGreaekGodTTVv' -> 'MrGreekGodTTV'
-14:44:25 INFO: 
-14:44:25 INFO: >>> Frame 001087
-14:44:25 INFO: Player name: 'MrGreekGodTTV'
-14:44:25 INFO: 
-14:44:25 INFO: >>> Frame 001088
-14:44:26 INFO: Player name: 'StinkTV'
-14:44:26 INFO: 
-14:44:26 INFO: >>> Frame 001089
-14:44:27 INFO: Player name: 'StinkTV'
-14:44:27 INFO: 
-14:44:27 INFO: >>> Frame 001090
-14:44:27 INFO: Player name: 'MrGreekGodTTV'
-14:44:27 INFO: 
-14:44:27 INFO: >>> Frame 001091
-14:44:28 INFO: Player name: 'Kotigami'
-14:44:28 INFO: 
-14:44:28 INFO: >>> Frame 001092
-14:44:29 INFO: Player name: 'Kotigami'
-14:44:29 INFO: 
-14:44:29 INFO: >>> Frame 001093
-14:44:29 INFO: Player name: 'Kotigami'
-14:44:29 INFO: 
-14:44:29 INFO: >>> Frame 001094
-14:44:30 INFO: Player name: 'Kotigami'
-14:44:30 INFO: 
-14:44:30 INFO: >>> Frame 001095
-14:44:30 INFO: Player name: 'Kotigami'
-14:44:30 INFO: 
-14:44:30 INFO: >>> Frame 001096
-14:44:31 INFO: Player name: 'Kotigami'
-14:44:31 INFO: 
-14:44:31 INFO: >>> Frame 001097
-14:44:31 INFO: Player name: 'Kotigami'
-14:44:31 INFO: 
-14:44:31 INFO: >>> Frame 001098
-14:44:32 INFO: Player name: 'StinkTV'
-14:44:32 INFO: 
-14:44:32 INFO: >>> Frame 001099
-14:44:32 INFO: Can't find player name end icon
-14:44:32 INFO: 
-14:44:32 INFO: >>> Frame 001100
-14:44:32 INFO: Can't find player name end icon
-14:44:32 INFO: 
-14:44:32 INFO: >>> Frame 001101
-14:44:33 INFO: Player name: 'MrGreekGodTTV'
-14:44:33 INFO: 
-14:44:33 INFO: >>> Frame 001102
-14:44:34 INFO: Player name: 'Kotigami'
-14:44:34 INFO: 
-14:44:34 INFO: >>> Frame 001103
-14:44:34 INFO: Player name: 'Kotigami'
-14:44:34 INFO: 
-14:44:34 INFO: >>> Frame 001104
-14:44:35 INFO: Player name: 'Kotigami'
-14:44:35 INFO: 
-14:44:35 INFO: >>> Frame 001105
-14:44:36 INFO: Player name: 'MrGraaskGodTTV'
-14:44:36 INFO: Player name: 'MrGraaskGodTTV' -> 'MrGreekGodTTV'
-14:44:36 INFO: 
-14:44:36 INFO: >>> Frame 001106
-14:44:37 INFO: Player name: 'MrGreekGodTTV'
-14:44:37 INFO: 
-14:44:37 INFO: >>> Frame 001107
-14:44:37 INFO: Player name: 'MrGreekGodTTV'
-14:44:37 INFO: 
-14:44:37 INFO: >>> Frame 001108
-14:44:38 INFO: Player name: 'MrGreekGodTTV'
-14:44:38 INFO: 
-14:44:38 INFO: >>> Frame 001109
-14:44:39 INFO: Player name: 'MrGreekGodTTV'
-14:44:39 INFO: 
-14:44:39 INFO: >>> Frame 001110
-14:44:40 INFO: Player name: 'Kotigami'
-14:44:40 INFO: 
-14:44:40 INFO: >>> Frame 001111
-14:44:40 INFO: Player name: 'Kotigami'
-14:44:40 INFO: 
-14:44:40 INFO: >>> Frame 001112
-14:44:41 INFO: Player name: 'Kotigami'
-14:44:41 INFO: 
-14:44:41 INFO: >>> Frame 001113
-14:44:41 INFO: Player name: 'Kotigami'
-14:44:41 INFO: 
-14:44:41 INFO: >>> Frame 001114
-14:44:42 INFO: Player name: 'Kotigami'
-14:44:42 INFO: 
-14:44:42 INFO: >>> Frame 001115
-14:44:43 INFO: Player name: 'Kotigami'
-14:44:43 INFO: 
-14:44:43 INFO: >>> Frame 001116
-14:44:43 INFO: Player name: 'MrGreekGodTTV'
-14:44:43 INFO: 
-14:44:43 INFO: >>> Frame 001117
-14:44:44 INFO: Player name: 'MrGreekGodTTV'
-14:44:44 INFO: 
-14:44:44 INFO: >>> Frame 001118
-14:44:45 INFO: Player name: 'MrGreekGodTTV'
-14:44:45 INFO: 
-14:44:45 INFO: >>> Frame 001119
-14:44:46 INFO: Player name: 'MrGreakGodTTV'
-14:44:46 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
-14:44:46 INFO: 
-14:44:46 INFO: >>> Frame 001120
-14:44:47 INFO: Player name: 'MrGreekGodTTV'
-14:44:47 INFO: 
-14:44:47 INFO: >>> Frame 001121
-14:44:48 INFO: Player name: 'MrGreekGodTTV'
-14:44:48 INFO: 
-14:44:48 INFO: >>> Frame 001122
-14:44:49 INFO: Player name: 'MrGreekGooTTV'
-14:44:49 INFO: Player name: 'MrGreekGooTTV' -> 'MrGreekGodTTV'
-14:44:49 INFO: 
-14:44:49 INFO: >>> Frame 001123
-14:44:50 INFO: Player name: 'MrGreekGodTTV'
-14:44:50 INFO: 
-14:44:50 INFO: >>> Frame 001124
-14:44:51 INFO: Player name: 'MrGreakGodTTV'
-14:44:51 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
-14:44:51 INFO: 
-14:44:51 INFO: >>> Frame 001125
-14:44:52 INFO: Player name: 'MrGreekGodTTV'
-14:44:52 INFO: 
-14:44:52 INFO: >>> Frame 001126
-14:44:52 INFO: Player name: 'MrGreekGodTTV'
-14:44:52 INFO: 
-14:44:52 INFO: >>> Frame 001127
-14:44:53 INFO: Player name: 'MrGreakGodTTV'
-14:44:53 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
-14:44:53 INFO: 
-14:44:53 INFO: >>> Frame 001128
-14:44:54 INFO: Player name: 'Kotigami'
-14:44:54 INFO: 
-14:44:54 INFO: >>> Frame 001129
-14:44:54 INFO: Player name: 'Kotigami'
-14:44:54 INFO: 
-14:44:54 INFO: >>> Frame 001130
-14:44:55 INFO: Player name: 'Kotigami'
-14:44:55 INFO: 
-14:44:55 INFO: >>> Frame 001131
-14:44:56 INFO: Player name: 'Kotigami'
-14:44:56 INFO: 
-14:44:56 INFO: >>> Frame 001132
-14:44:56 INFO: Can't find player name end icon
-14:44:56 INFO: 
-14:44:56 INFO: >>> Frame 001133
-14:44:56 INFO: Can't find player name end icon
-14:44:56 INFO: 
-14:44:56 INFO: >>> Frame 001134
-14:44:56 INFO: Player name: 'StinkTV'
-14:44:56 INFO: 
-14:44:56 INFO: >>> Frame 001135
-14:44:57 INFO: Player name: '- StinkTV'
-14:44:57 INFO: Player name: '- StinkTV' -> 'StinkTV'
-14:44:57 INFO: 
-14:44:57 INFO: >>> Frame 001136
-14:44:57 INFO: Player name: 'StinkTV'
-14:44:57 INFO: 
-14:44:57 INFO: >>> Frame 001137
-14:44:58 INFO: Player name: 'otinkTV'
-14:44:58 INFO: Player name: 'otinkTV' -> 'StinkTV'
-14:44:58 INFO: 
-14:44:58 INFO: >>> Frame 001138
-14:44:58 INFO: Player name: 'StinkTV'
-14:44:58 INFO: 
-14:44:58 INFO: >>> Frame 001139
-14:44:59 INFO: Player name: 'stinkTV'
-14:44:59 INFO: Player name: 'stinkTV' -> 'StinkTV'
-14:44:59 INFO: 
-14:44:59 INFO: >>> Frame 001140
-14:44:59 INFO: Player name: 'StinkTV'
-14:44:59 INFO: 
-14:44:59 INFO: >>> Frame 001141
-14:45:00 INFO: Player name: 'StinkTV'
-14:45:00 INFO: 
-14:45:00 INFO: >>> Frame 001142
-14:45:00 INFO: Player name: 'Kotigami'
-14:45:00 INFO: 
-14:45:00 INFO: >>> Frame 001143
-14:45:01 INFO: Player name: 'Kotigami'
-14:45:01 INFO: 
-14:45:01 INFO: >>> Frame 001144
-14:45:01 INFO: Player name: 'Kotigami'
-14:45:01 INFO: 
-14:45:01 INFO: >>> Frame 001145
-14:45:02 INFO: Player name: 'Kotigami'
-14:45:02 INFO: 
-14:45:02 INFO: >>> Frame 001146
-14:45:03 INFO: Player name: 'Kotigami'
-14:45:03 INFO: 
-14:45:03 INFO: >>> Frame 001147
-14:45:03 INFO: Player name: 'StinkTV'
-14:45:03 INFO: 
-14:45:03 INFO: >>> Frame 001148
-14:45:04 INFO: Player name: 'StinkTV'
-14:45:04 INFO: 
-14:45:04 INFO: >>> Frame 001149
-14:45:04 INFO: Player name: 'StinkTV'
-14:45:04 INFO: 
-14:45:04 INFO: >>> Frame 001150
-14:45:05 INFO: Player name: 'StinkTV'
-14:45:05 INFO: 
-14:45:05 INFO: >>> Frame 001151
-14:45:05 INFO: Player name: 'StinkTV'
-14:45:05 INFO: 
-14:45:05 INFO: >>> Frame 001152
-14:45:06 INFO: Player name: 'otinkTV'
-14:45:06 INFO: Player name: 'otinkTV' -> 'StinkTV'
-14:45:06 INFO: 
-14:45:06 INFO: >>> Frame 001153
-14:45:06 INFO: Player name: 'stinkTV'
-14:45:06 INFO: Player name: 'stinkTV' -> 'StinkTV'
-14:45:06 INFO: 
-14:45:06 INFO: >>> Frame 001154
-14:45:07 INFO: Player name: 'Kotigami'
-14:45:07 INFO: 
-14:45:07 INFO: >>> Frame 001155
-14:45:07 INFO: Player name: 'Kotigami'
-14:45:07 INFO: 
-14:45:07 INFO: >>> Frame 001156
-14:45:08 INFO: Player name: ''
-14:45:08 INFO: 
-14:45:08 INFO: >>> Frame 001157
-14:45:09 INFO: Player name: 'StinkTV'
-14:45:09 INFO: 
-14:45:09 INFO: >>> Frame 001158
-14:45:09 INFO: Player name: 'StinkTV'
-14:45:09 INFO: 
-14:45:09 INFO: >>> Frame 001159
-14:45:10 INFO: Player name: ''
-14:45:10 INFO: 
-14:45:10 INFO: >>> Frame 001160
-14:45:11 INFO: Player name: 'otinkTV'
-14:45:11 INFO: Player name: 'otinkTV' -> 'StinkTV'
-14:45:11 INFO: 
-14:45:11 INFO: >>> Frame 001161
-14:45:11 INFO: Player name: 'StinkTV'
-14:45:11 INFO: 
-14:45:11 INFO: >>> Frame 001162
-14:45:12 INFO: Player name: 'StinkTV'
-14:45:12 INFO: 
-14:45:12 INFO: >>> Frame 001163
-14:45:13 INFO: Player name: 'MrGreekGodTTV'
-14:45:13 INFO: 
-14:45:13 INFO: >>> Frame 001164
-14:45:13 INFO: Player name: 'MrGreekGodTTV'
-14:45:13 INFO: 
-14:45:13 INFO: >>> Frame 001165
-14:45:14 INFO: Player name: 'MrGreekGodTTV'
-14:45:14 INFO: 
-14:45:14 INFO: >>> Frame 001166
-14:45:15 INFO: Player name: 'MrGreekGodTTV'
-14:45:15 INFO: 
-14:45:15 INFO: >>> Frame 001167
-14:45:16 INFO: Player name: 'MrGreekGodTTV'
-14:45:16 INFO: 
-14:45:16 INFO: >>> Frame 001168
-14:45:17 INFO: Player name: 'MrGreekGodTTV'
-14:45:17 INFO: 
-14:45:17 INFO: >>> Frame 001169
-14:45:18 INFO: Player name: 'MrGreekGodTTV'
-14:45:18 INFO: 
-14:45:18 INFO: >>> Frame 001170
-14:45:19 INFO: Player name: 'MrGreekGodTTV'
-14:45:19 INFO: 
-14:45:19 INFO: >>> Frame 001171
-14:45:19 INFO: Can't find player name end icon
-14:45:19 INFO: 
-14:45:19 INFO: >>> Frame 001172
-14:45:19 INFO: Can't find player name end icon
-14:45:19 INFO: 
-14:45:19 INFO: >>> Frame 001173
-14:45:19 INFO: Player name: 'Kotigami'
-14:45:19 INFO: 
-14:45:19 INFO: >>> Frame 001174
-14:45:20 INFO: Player name: 'Kotigami'
-14:45:20 INFO: 
-14:45:20 INFO: >>> Frame 001175
-14:45:21 INFO: Player name: 'Kotigami'
-14:45:21 INFO: 
-14:45:21 INFO: >>> Frame 001176
-14:45:21 INFO: Player name: 'MrGreekGodTTV'
-14:45:21 INFO: 
-14:45:21 INFO: >>> Frame 001177
-14:45:22 INFO: Player name: 'MrGreekGodTTV'
-14:45:22 INFO: 
-14:45:22 INFO: >>> Frame 001178
-14:45:23 INFO: Player name: 'MrGreekGodTTV'
-14:45:23 INFO: 
-14:45:23 INFO: >>> Frame 001179
-14:45:24 INFO: Player name: 'Kotigami'
-14:45:24 INFO: 
-14:45:24 INFO: >>> Frame 001180
-14:45:24 INFO: Can't find player name end icon
-14:45:24 INFO: 
-14:45:24 INFO: >>> Frame 001181
-14:45:24 INFO: Can't find player name end icon
-14:45:24 INFO: 
-14:45:24 INFO: >>> Frame 001182
-14:45:25 INFO: Player name: 'MrGreekGodTTV'
-14:45:25 INFO: 
-14:45:25 INFO: >>> Frame 001183
-14:45:26 INFO: Player name: 'MrGreekGodTTV'
-14:45:26 INFO: 
-14:45:26 INFO: >>> Frame 001184
-14:45:26 INFO: Player name: 'MrGreekGodTTV'
-14:45:26 INFO: 
-14:45:26 INFO: >>> Frame 001185
-14:45:27 INFO: Player name: 'MrGreekGodTTV'
-14:45:27 INFO: 
-14:45:27 INFO: >>> Frame 001186
-14:45:28 INFO: Player name: 'MrGreekGaodTTV'
-14:45:28 INFO: Player name: 'MrGreekGaodTTV' -> 'MrGreekGodTTV'
-14:45:28 INFO: 
-14:45:28 INFO: >>> Frame 001187
-14:45:29 INFO: Player name: 'MrGreekGodTTV'
-14:45:29 INFO: 
-14:45:29 INFO: >>> Frame 001188
-14:45:30 INFO: Player name: 'Kotigami'
-14:45:30 INFO: 
-14:45:30 INFO: >>> Frame 001189
-14:45:30 INFO: Player name: 'Kotigami'
-14:45:30 INFO: 
-14:45:30 INFO: >>> Frame 001190
-14:45:31 INFO: Player name: 'Kotigami'
-14:45:31 INFO: 
-14:45:31 INFO: >>> Frame 001191
-14:45:31 INFO: Player name: 'Kotigami'
-14:45:31 INFO: 
-14:45:31 INFO: >>> Frame 001192
-14:45:32 INFO: Player name: 'Kotigami'
-14:45:32 INFO: 
-14:45:32 INFO: >>> Frame 001193
-14:45:33 INFO: Player name: 'MrGreekGodTTV'
-14:45:33 INFO: 
-14:45:33 INFO: >>> Frame 001194
-14:45:34 INFO: Player name: 'MrGreakGodTTV'
-14:45:34 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
-14:45:34 INFO: 
-14:45:34 INFO: >>> Frame 001195
-14:45:35 INFO: Player name: 'MrGreekGodTTV'
-14:45:35 INFO: 
-14:45:35 INFO: >>> Frame 001196
-14:45:36 INFO: Player name: 'MrGreekGodTTV'
-14:45:36 INFO: 
-14:45:36 INFO: >>> Frame 001197
-14:45:37 INFO: Player name: 'MrGreekGodTTV'
-14:45:37 INFO: 
-14:45:37 INFO: >>> Frame 001198
-14:45:37 INFO: Player name: 'StinkTV'
-14:45:37 INFO: 
-14:45:37 INFO: >>> Frame 001199
-14:45:38 INFO: Player name: 'StinkTV'
-14:45:38 INFO: 
-14:45:38 INFO: >>> Frame 001200
-14:45:38 INFO: Player name: 'StinkTV'
-14:45:38 INFO: 
-14:45:38 INFO: >>> Frame 001201
-14:45:39 INFO: Player name: 'MrGreekGodTTV'
-14:45:39 INFO: 
-14:45:39 INFO: >>> Frame 001202
-14:45:40 INFO: Player name: 'MrGreekGodTTV'
-14:45:40 INFO: 
-14:45:40 INFO: >>> Frame 001203
-14:45:41 INFO: Player name: 'MrGreekGodTTV'
-14:45:41 INFO: 
-14:45:41 INFO: >>> Frame 001204
-14:45:42 INFO: Player name: 'MrGreekGodTTV'
-14:45:42 INFO: 
-14:45:42 INFO: >>> Frame 001205
-14:45:43 INFO: Player name: 'MrGreekGodTTV'
-14:45:43 INFO: 
-14:45:43 INFO: >>> Frame 001206
-14:45:44 INFO: Player name: 'MrGreekGodTTV'
-14:45:44 INFO: 
-14:45:44 INFO: >>> Frame 001207
-14:45:44 INFO: Player name: 'MrGreaekGodTTV'
-14:45:44 INFO: Player name: 'MrGreaekGodTTV' -> 'MrGreekGodTTV'
-14:45:44 INFO: 
-14:45:44 INFO: >>> Frame 001208
-14:45:45 INFO: Player name: 'MrGreekGodTTV'
-14:45:45 INFO: 
-14:45:45 INFO: >>> Frame 001209
-14:45:46 INFO: Player name: 'MrGreekGodTTV'
-14:45:46 INFO: 
-14:45:46 INFO: >>> Frame 001210
-14:45:47 INFO: Player name: 'MrGreekGodTTV'
-14:45:47 INFO: 
-14:45:47 INFO: >>> Frame 001211
-14:45:48 INFO: Player name: 'MrGreekGodTTV'
-14:45:48 INFO: 
-14:45:48 INFO: >>> Frame 001212
-14:45:49 INFO: Player name: 'TSM_ImperialHal'
-14:45:49 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:45:49 INFO: 
-14:45:49 INFO: >>> Frame 001213
-14:45:50 INFO: Player name: 'TSM_ImperialHal'
-14:45:50 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:45:50 INFO: 
-14:45:50 INFO: >>> Frame 001214
-14:45:51 INFO: Player name: 'TSM_ImperialHal'
-14:45:51 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:45:51 INFO: 
-14:45:51 INFO: >>> Frame 001215
-14:45:51 INFO: Player name: 'TSM_imperaltal'
-14:45:51 INFO: Player name: 'TSM_imperaltal' -> 'TSM_ImperialHa1'
-14:45:51 INFO: 
-14:45:51 INFO: >>> Frame 001216
-14:45:52 INFO: Player name: 'TSM_ImperialHal'
-14:45:52 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:45:52 INFO: 
-14:45:52 INFO: >>> Frame 001217
-14:45:53 INFO: Player name: 'Reps. TSM'
-14:45:53 INFO: Player name: 'Reps. TSM' -> 'Reps_TSM'
-14:45:53 INFO: 
-14:45:53 INFO: >>> Frame 001218
-14:45:54 INFO: Player name: 'Reps_TSM'
-14:45:54 INFO: 
-14:45:54 INFO: >>> Frame 001219
-14:45:54 INFO: Player name: 'Reps TSM'
-14:45:54 INFO: Player name: 'Reps TSM' -> 'Reps_TSM'
-14:45:54 INFO: 
-14:45:54 INFO: >>> Frame 001220
-14:45:54 INFO: Can't find player name end icon
-14:45:54 INFO: 
-14:45:54 INFO: >>> Frame 001221
-14:45:54 INFO: Can't find player name end icon
-14:45:54 INFO: 
-14:45:54 INFO: >>> Frame 001222
-14:45:55 INFO: Player name: '¢NPL_OMGRONNIE'
-14:45:55 INFO: Player name: '¢NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:45:55 INFO: 
-14:45:55 INFO: >>> Frame 001223
-14:45:56 INFO: Player name: 'NPLOMGRONNIE'
-14:45:56 INFO: Player name: 'NPLOMGRONNIE' -> 'NPL_OMGRONN1E'
-14:45:56 INFO: 
-14:45:56 INFO: >>> Frame 001224
-14:45:57 INFO: Player name: 'NPL_OMGRONNIE'
-14:45:57 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:45:57 INFO: 
-14:45:57 INFO: >>> Frame 001225
-14:45:58 INFO: Player name: 'NPL_OMGRONNIE'
-14:45:58 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:45:58 INFO: 
-14:45:58 INFO: >>> Frame 001226
-14:45:59 INFO: Player name: 'NPL_OMGRONNIE'
-14:45:59 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:45:59 INFO: 
-14:45:59 INFO: >>> Frame 001227
-14:46:00 INFO: Player name: 'NPL_OMGRONNIE'
-14:46:00 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:46:00 INFO: 
-14:46:00 INFO: >>> Frame 001228
-14:46:01 INFO: Player name: ' qcrack'
-14:46:01 INFO: Player name: ' qcrack' -> 'qcrook'
-14:46:01 INFO: 
-14:46:01 INFO: >>> Frame 001229
-14:46:01 INFO: Player name: '_qcrook'
-14:46:01 INFO: Player name: '_qcrook' -> 'qcrook'
-14:46:01 INFO: 
-14:46:01 INFO: >>> Frame 001230
-14:46:02 INFO: Player name: '_qerook'
-14:46:02 INFO: Player name: '_qerook' -> 'qcrook'
-14:46:02 INFO: 
-14:46:02 INFO: >>> Frame 001231
-14:46:02 INFO: Can't find player name end icon
-14:46:02 INFO: 
-14:46:02 INFO: >>> Frame 001232
-14:46:02 INFO: Can't find player name end icon
-14:46:02 INFO: 
-14:46:02 INFO: >>> Frame 001233
-14:46:02 INFO: Player name: ', qcrook'
-14:46:02 INFO: Player name: ', qcrook' -> 'qcrook'
-14:46:02 INFO: 
-14:46:02 INFO: >>> Frame 001234
-14:46:02 INFO: Can't find player name end icon
-14:46:02 INFO: 
-14:46:02 INFO: >>> Frame 001235
-14:46:03 INFO: Player name: ', gcrook'
-14:46:03 INFO: Player name: ', gcrook' -> 'qcrook'
-14:46:03 INFO: 
-14:46:03 INFO: >>> Frame 001236
-14:46:03 INFO: Player name: ', gcrook'
-14:46:03 INFO: Player name: ', gcrook' -> 'qcrook'
-14:46:03 INFO: 
-14:46:03 INFO: >>> Frame 001237
-14:46:04 INFO: Player name: ', qcrook'
-14:46:04 INFO: Player name: ', qcrook' -> 'qcrook'
-14:46:04 INFO: 
-14:46:04 INFO: >>> Frame 001238
-14:46:04 INFO: Player name: '_gcrook'
-14:46:04 INFO: Player name: '_gcrook' -> 'qcrook'
-14:46:04 INFO: 
-14:46:04 INFO: >>> Frame 001239
-14:46:06 INFO: Player name: ' '
-14:46:06 INFO: Unknown player: ' ' (best guess: 'CLT Pride', 0.89)
-14:46:06 INFO: 
-14:46:06 INFO: >>> Frame 001240
-14:46:06 INFO: Player name: 'Hambino24TV'
-14:46:06 INFO: 
-14:46:06 INFO: >>> Frame 001241
-14:46:07 INFO: Player name: 'Hambino24TV'
-14:46:07 INFO: 
-14:46:07 INFO: >>> Frame 001242
-14:46:08 INFO: Player name: 'Hambino24TV'
-14:46:08 INFO: 
-14:46:08 INFO: >>> Frame 001243
-14:46:09 INFO: Player name: 'Hambino24TV'
-14:46:09 INFO: 
-14:46:09 INFO: >>> Frame 001244
-14:46:10 INFO: Player name: ' '
-14:46:10 INFO: Unknown player: ' ' (best guess: 'CLT Pride', 0.89)
-14:46:10 INFO: 
-14:46:10 INFO: >>> Frame 001245
-14:46:10 INFO: Player name: 'Hambino24TV'
-14:46:10 INFO: 
-14:46:10 INFO: >>> Frame 001246
-14:46:11 INFO: Player name: 'Hambino24TV'
-14:46:11 INFO: 
-14:46:11 INFO: >>> Frame 001247
-14:46:12 INFO: Player name: 'Hambino24TV'
-14:46:12 INFO: 
-14:46:12 INFO: >>> Frame 001248
-14:46:13 INFO: Player name: 'NPL_OMGRONNIE'
-14:46:13 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:46:13 INFO: 
-14:46:13 INFO: >>> Frame 001249
-14:46:14 INFO: Player name: 'NPL_OMGRONNIE'
-14:46:14 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:46:14 INFO: 
-14:46:14 INFO: >>> Frame 001250
-14:46:15 INFO: Player name: 'NPL_OMGRONNIE'
-14:46:15 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
-14:46:15 INFO: 
-14:46:15 INFO: >>> Frame 001251
-14:46:16 INFO: Player name: 'COL Shiny'
-14:46:16 INFO: Player name: 'COL Shiny' -> 'COL_iShiny'
-14:46:16 INFO: 
-14:46:16 INFO: >>> Frame 001252
-14:46:16 INFO: Player name: ''
-14:46:16 INFO: 
-14:46:16 INFO: >>> Frame 001253
-14:46:17 INFO: Player name: 'COL_Monsoon'
-14:46:17 INFO: 
-14:46:17 INFO: >>> Frame 001254
-14:46:18 INFO: Player name: 'COL Monsoon'
-14:46:18 INFO: Player name: 'COL Monsoon' -> 'COL_Monsoon'
-14:46:18 INFO: 
-14:46:18 INFO: >>> Frame 001255
-14:46:18 INFO: Player name: 'COL_Monsoon'
-14:46:18 INFO: 
-14:46:18 INFO: >>> Frame 001256
-14:46:19 INFO: Player name: 'COL_Monsoon'
-14:46:19 INFO: 
-14:46:19 INFO: >>> Frame 001257
-14:46:20 INFO: Player name: 'COL_Monsoon'
-14:46:20 INFO: 
-14:46:20 INFO: >>> Frame 001258
-14:46:21 INFO: Player name: 'COL_Monsoon'
-14:46:21 INFO: 
-14:46:21 INFO: >>> Frame 001259
-14:46:21 INFO: Can't find player name end icon
-14:46:21 INFO: 
-14:46:21 INFO: >>> Frame 001260
-14:46:21 INFO: Can't find player name end icon
-14:46:21 INFO: 
-14:46:21 INFO: >>> Frame 001261
-14:46:21 INFO: Can't find player name end icon
-14:46:21 INFO: 
-14:46:21 INFO: >>> Frame 001262
-14:46:22 INFO: Player name: 'sF_zachmazer'
-14:46:22 INFO: 
-14:46:22 INFO: >>> Frame 001263
-14:46:22 INFO: Player name: 'sF zachmazer'
-14:46:22 INFO: Player name: 'sF zachmazer' -> 'sF_zachmazer'
-14:46:22 INFO: 
-14:46:22 INFO: >>> Frame 001264
-14:46:23 INFO: Player name: '_ knagqd'
-14:46:23 INFO: Unknown player: '_ knagqd' (best guess: 'knoqd', 0.50)
-14:46:23 INFO: 
-14:46:23 INFO: >>> Frame 001265
-14:46:23 INFO: Player name: '_ knogd'
-14:46:23 INFO: Player name: '_ knogd' -> 'knoqd'
-14:46:23 INFO: 
-14:46:23 INFO: >>> Frame 001266
-14:46:24 INFO: Player name: '_ knogd'
-14:46:24 INFO: Player name: '_ knogd' -> 'knoqd'
-14:46:24 INFO: 
-14:46:24 INFO: >>> Frame 001267
-14:46:24 INFO: Player name: '_knogd'
-14:46:24 INFO: Player name: '_knogd' -> 'knoqd'
-14:46:24 INFO: 
-14:46:24 INFO: >>> Frame 001268
-14:46:25 INFO: Player name: 'StayNaughty'
-14:46:25 INFO: 
-14:46:25 INFO: >>> Frame 001269
-14:46:26 INFO: Player name: 'Snip3down EW'
-14:46:26 INFO: Player name: 'Snip3down EW' -> 'Snip3down_EW'
-14:46:26 INFO: 
-14:46:26 INFO: >>> Frame 001270
-14:46:27 INFO: Player name: 'Snip3down_EW'
-14:46:27 INFO: 
-14:46:27 INFO: >>> Frame 001271
-14:46:27 INFO: Player name: 'Snip3down_EW'
-14:46:27 INFO: 
-14:46:27 INFO: >>> Frame 001272
-14:46:28 INFO: Player name: 'onipddown_EW'
-14:46:28 INFO: Player name: 'onipddown_EW' -> 'Snip3down_EW'
-14:46:28 INFO: 
-14:46:28 INFO: >>> Frame 001273
-14:46:29 INFO: Player name: 'snipddown_EW'
-14:46:29 INFO: Player name: 'snipddown_EW' -> 'Snip3down_EW'
-14:46:29 INFO: 
-14:46:29 INFO: >>> Frame 001274
-14:46:30 INFO: Player name: 'Snip3down EW'
-14:46:30 INFO: Player name: 'Snip3down EW' -> 'Snip3down_EW'
-14:46:30 INFO: 
-14:46:30 INFO: >>> Frame 001275
-14:46:31 INFO: Player name: 'TSM_imperiainal'
-14:46:31 INFO: Player name: 'TSM_imperiainal' -> 'TSM_ImperialHa1'
-14:46:31 INFO: 
-14:46:31 INFO: >>> Frame 001276
-14:46:32 INFO: Player name: 'TSM_imperialHal'
-14:46:32 INFO: Player name: 'TSM_imperialHal' -> 'TSM_ImperialHa1'
-14:46:32 INFO: 
-14:46:32 INFO: >>> Frame 001277
-14:46:33 INFO: Player name: 'TSM_ImperialHal'
-14:46:33 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:46:33 INFO: 
-14:46:33 INFO: >>> Frame 001278
-14:46:34 INFO: Player name: 'TSM_ImperialHal'
-14:46:34 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:46:34 INFO: 
-14:46:34 INFO: >>> Frame 001279
-14:46:35 INFO: Player name: 'TSM_ImperialHal'
-14:46:35 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:46:35 INFO: 
-14:46:35 INFO: >>> Frame 001280
-14:46:35 INFO: Player name: 'TSM ImperialHal'
-14:46:35 INFO: Player name: 'TSM ImperialHal' -> 'TSM_ImperialHa1'
-14:46:35 INFO: 
-14:46:35 INFO: >>> Frame 001281
-14:46:36 INFO: Player name: 'TSM_ImperialHal'
-14:46:36 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:46:36 INFO: 
-14:46:36 INFO: >>> Frame 001282
-14:46:37 INFO: Player name: 'TSM_ImperialHal'
-14:46:37 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:46:37 INFO: 
-14:46:37 INFO: >>> Frame 001283
-14:46:38 INFO: Player name: 'TSM_ImperialHal'
-14:46:38 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
-14:46:38 INFO: 
-14:46:38 INFO: >>> Frame 001284
-14:46:39 INFO: Player name: 'Reps_TSM'
-14:46:39 INFO: 
-14:46:39 INFO: >>> Frame 001285
-14:46:39 INFO: Can't find player name end icon
-14:46:39 INFO: 
-14:46:39 INFO: >>> Frame 001286
-14:46:39 INFO: Can't find player name end icon
-14:46:39 INFO: 
-14:46:39 INFO: >>> Frame 001287
-14:46:39 INFO: Player name: 'peeshCYA'
-14:46:39 INFO: 
-14:46:39 INFO: >>> Frame 001288
-14:46:40 INFO: Player name: 'peeshCYA'
-14:46:40 INFO: 
-14:46:40 INFO: >>> Frame 001289
-14:46:41 INFO: Player name: 'peeshCYA'
-14:46:41 INFO: 
-14:46:41 INFO: >>> Frame 001290
-14:46:41 INFO: Player name: '_peeshCYA'
-14:46:41 INFO: Player name: '_peeshCYA' -> 'peeshCYA'
-14:46:41 INFO: 
-14:46:41 INFO: >>> Frame 001291
-14:46:42 INFO: Player name: 'peeshCYA'
-14:46:42 INFO: 
-14:46:42 INFO: >>> Frame 001292
-14:46:42 INFO: Player name: 'peeshCYA'
-14:46:42 INFO: 
-14:46:42 INFO: >>> Frame 001293
-14:46:43 INFO: Player name: '_peeshCYA'
-14:46:43 INFO: Player name: '_peeshCYA' -> 'peeshCYA'
-14:46:43 INFO: 
-14:46:43 INFO: >>> Frame 001294
-14:46:44 INFO: Player name: 'peeshCYA'
-14:46:44 INFO: 
-14:46:44 INFO: >>> Frame 001295
-14:46:44 INFO: Player name: 'PSTeOSB'
-14:46:44 INFO: Unknown player: 'PSTeOSB' (best guess: '9BTeQ9B', 0.57)
-14:46:44 INFO: 
-14:46:44 INFO: >>> Frame 001296
-14:46:45 INFO: Player name: 'BbTeO9B'
-14:46:45 INFO: Player name: 'BbTeO9B' -> '9BTeQ9B'
-14:46:45 INFO: 
-14:46:45 INFO: >>> Frame 001297
-14:46:46 INFO: Player name: '“FR_CUBSKI'
-14:46:46 INFO: Player name: '“FR_CUBSKI' -> 'FP_CUBSKi'
-14:46:46 INFO: 
-14:46:46 INFO: >>> Frame 001298
-14:46:46 INFO: Player name: '“FPL CUBSKi'
-14:46:46 INFO: Player name: '“FPL CUBSKi' -> 'FP_CUBSKi'
-14:46:46 INFO: 
-14:46:46 INFO: >>> Frame 001299
-14:46:47 INFO: Player name: 'FP_CUBSKi'
-14:46:47 INFO: 
-14:46:47 INFO: >>> Frame 001300
-14:46:48 INFO: Player name: 'FP_CUBSKi'
-14:46:48 INFO: 
-14:46:48 INFO: >>> Frame 001301
-14:46:48 INFO: Player name: 'onipadown_EW'
-14:46:48 INFO: Player name: 'onipadown_EW' -> 'Snip3down_EW'
-14:46:48 INFO: 
-14:46:48 INFO: >>> Frame 001302
-14:46:49 INFO: Player name: 'Snip3dawn_EW'
-14:46:49 INFO: Player name: 'Snip3dawn_EW' -> 'Snip3down_EW'
-14:46:49 INFO: 
-14:46:49 INFO: >>> Frame 001303
-14:46:50 INFO: Player name: 'Snip3down_EW'
-14:46:50 INFO: 
-14:46:50 INFO: >>> Frame 001304
-14:46:50 INFO: Can't find player name end icon
-14:46:50 INFO: 
-14:46:50 INFO: >>> Frame 001305
-14:46:51 INFO: Player name: '_COL_lou'
-14:46:51 INFO: Player name: '_COL_lou' -> 'COL_Iou'
-14:46:51 INFO: 
-14:46:51 INFO: >>> Frame 001306
-14:46:51 INFO: Player name: 'COL Jou'
-14:46:51 INFO: Player name: 'COL Jou' -> 'COL_Iou'
-14:46:51 INFO: 
-14:46:51 INFO: >>> Frame 001307
-14:46:52 INFO: Player name: '_COL_lou'
-14:46:52 INFO: Player name: '_COL_lou' -> 'COL_Iou'
-14:46:52 INFO: 
-14:46:52 INFO: >>> Frame 001308
-14:46:52 INFO: Player name: '_COL_lou'
-14:46:52 INFO: Player name: '_COL_lou' -> 'COL_Iou'
-14:46:52 INFO: 
-14:46:52 INFO: >>> Frame 001309
-14:46:53 INFO: Player name: ',COL_lou'
-14:46:53 INFO: Player name: ',COL_lou' -> 'COL_Iou'
-14:46:53 INFO: 
-14:46:53 INFO: >>> Frame 001310
-14:46:54 INFO: Player name: 'COL_lou'
-14:46:54 INFO: Player name: 'COL_lou' -> 'COL_Iou'
-14:46:54 INFO: 
-14:46:54 INFO: >>> Frame 001311
-14:46:54 INFO: Player name: 'COL_lou'
-14:46:54 INFO: Player name: 'COL_lou' -> 'COL_Iou'
-14:46:54 INFO: 
-14:46:54 INFO: >>> Frame 001312
-14:46:55 INFO: Player name: 'COLlau'
-14:46:55 INFO: Player name: 'COLlau' -> 'COL_Iou'
-14:46:55 INFO: 
-14:46:55 INFO: >>> Frame 001313
-14:46:55 INFO: Player name: 'CLG Vaxlon'
-14:46:55 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:46:55 INFO: 
-14:46:55 INFO: >>> Frame 001314
-14:46:56 INFO: Player name: 'CLG Vaxion'
-14:46:56 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:46:56 INFO: 
-14:46:56 INFO: >>> Frame 001315
-14:46:57 INFO: Player name: 'CLG Vaxlon'
-14:46:57 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:46:57 INFO: 
-14:46:57 INFO: >>> Frame 001316
-14:46:57 INFO: Player name: 'CLG_Vaxlon'
-14:46:57 INFO: 
-14:46:57 INFO: >>> Frame 001317
-14:46:58 INFO: Player name: 'CLG_Vaxion'
-14:46:58 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
-14:46:58 INFO: 
-14:46:58 INFO: >>> Frame 001318
-14:46:59 INFO: Player name: 'CLG_Vaxlon'
-14:46:59 INFO: 
-14:46:59 INFO: >>> Frame 001319
-14:46:59 INFO: Player name: 'CLG_Vaxlon'
-14:46:59 INFO: 
-14:46:59 INFO: >>> Frame 001320
-14:47:00 INFO: Player name: 'CLG_Vaxton'
-14:47:00 INFO: Player name: 'CLG_Vaxton' -> 'CLG_Vaxlon'
-14:47:00 INFO: 
-14:47:00 INFO: >>> Frame 001321
-14:47:01 INFO: Player name: 'CLG_Vaxton'
-14:47:01 INFO: Player name: 'CLG_Vaxton' -> 'CLG_Vaxlon'
-14:47:01 INFO: 
-14:47:01 INFO: >>> Frame 001322
-14:47:01 INFO: Player name: 'CLG Vaxilon'
-14:47:01 INFO: Player name: 'CLG Vaxilon' -> 'CLG_Vaxlon'
-14:47:01 INFO: 
-14:47:01 INFO: >>> Frame 001323
-14:47:01 INFO: Can't find player name end icon
-14:47:01 INFO: 
-14:47:01 INFO: >>> Frame 001324
-14:47:01 INFO: Can't find player name end icon
-14:47:01 INFO: 
-14:47:01 INFO: >>> Frame 001325
-14:47:02 INFO: Can't find player name end icon
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001326
-14:47:02 INFO: Can't find player name end icon
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001327
-14:47:02 INFO: Can't find player name end icon
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001328
-14:47:02 INFO: Can't find player name end icon
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001329
-14:47:02 INFO: Can't find player name end icon
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001330
-14:47:02 INFO: Can't find player name end icon
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001331
-14:47:02 INFO: Player name: 'CLT Bronzey'
-14:47:02 INFO: 
-14:47:02 INFO: >>> Frame 001332
-14:47:03 INFO: Player name: 'CLT Bronzey'
-14:47:03 INFO: 
-14:47:03 INFO: >>> Frame 001333
-14:47:04 INFO: Player name: 'CLT Bronzey'
-14:47:04 INFO: 
-14:47:04 INFO: >>> Frame 001334
-14:47:05 INFO: Player name: '_CLT_mercy'
-14:47:05 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
-14:47:05 INFO: 
-14:47:05 INFO: >>> Frame 001335
-14:47:05 INFO: Player name: '_CLT_mercy'
-14:47:05 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
-14:47:05 INFO: 
-14:47:05 INFO: >>> Frame 001336
-14:47:06 INFO: Player name: 'CLT Pride'
-14:47:06 INFO: 
-14:47:06 INFO: >>> Frame 001337
-14:47:06 INFO: Player name: 'CLT Pride'
-14:47:06 INFO: 
-14:47:06 INFO: >>> Frame 001338
-14:47:07 INFO: Player name: 'CLT Pride'
-14:47:07 INFO: 
-14:47:07 INFO: >>> Frame 001339
-14:47:08 INFO: Player name: 'CLT Pride'
-14:47:08 INFO: 
-14:47:08 INFO: >>> Frame 001340
-14:47:08 INFO: Player name: 'CLT Pride'
-14:47:08 INFO: 
-14:47:08 INFO: >>> Frame 001341
-14:47:09 INFO: Player name: 'CLT Pride'
-14:47:09 INFO: 
-14:47:09 INFO: >>> Frame 001342
-14:47:09 INFO: Player name: 'CLT Pride'
-14:47:09 INFO: 
-14:47:09 INFO: >>> Frame 001343
-14:47:10 INFO: Player name: 'CLT Pride'
-14:47:10 INFO: 
-14:47:10 INFO: >>> Frame 001344
-14:47:11 INFO: Player name: 'CLT Pride'
-14:47:11 INFO: 
-14:47:11 INFO: >>> Frame 001345
-14:47:11 INFO: Player name: ' '
-14:47:11 INFO: Unknown player: ' ' (best guess: 'CLT Pride', 0.89)
-14:47:11 INFO: 
-14:47:11 INFO: >>> Frame 001346
-14:47:12 INFO: Player name: 'CLT Pride'
-14:47:12 INFO: 
-14:47:12 INFO: >>> Frame 001347
-14:47:13 INFO: Player name: 'Chr pride'
-14:47:13 INFO: Player name: 'Chr pride' -> 'CLT Pride'
-14:47:13 INFO: 
-14:47:13 INFO: >>> Frame 001348
-14:47:13 INFO: Player name: 'CLT Bride'
-14:47:13 INFO: Player name: 'CLT Bride' -> 'CLT Pride'
-14:47:13 INFO: 
-14:47:13 INFO: >>> Frame 001349
-14:47:14 INFO: Player name: 'CLT Pridé)'
-14:47:14 INFO: Player name: 'CLT Pridé)' -> 'CLT Pride'
-14:47:14 INFO: 
-14:47:14 INFO: >>> Frame 001350
-14:47:15 INFO: Player name: 'CLT. Pride'
-14:47:15 INFO: Player name: 'CLT. Pride' -> 'CLT Pride'
-14:47:15 INFO: 
-14:47:15 INFO: >>> Frame 001351
-14:47:16 INFO: Player name: 'Liquid Flanker'
-14:47:16 INFO: 
-14:47:16 INFO: >>> Frame 001352
-14:47:16 INFO: Player name: 'Liquid Flanker'
-14:47:16 INFO: 
-14:47:16 INFO: >>> Frame 001353
-14:47:17 INFO: Player name: 'Liquid Flanker'
-14:47:17 INFO: 
-14:47:17 INFO: >>> Frame 001354
-14:47:18 INFO: Player name: 'Liquid Flanker'
-14:47:18 INFO: 
-14:47:18 INFO: >>> Frame 001355
-14:47:19 INFO: Player name: 'Liquid Flanker'
-14:47:19 INFO: 
-14:47:19 INFO: >>> Frame 001356
-14:47:19 INFO: Player name: 'Liquid Flanker'
-14:47:19 INFO: 
-14:47:19 INFO: >>> Frame 001357
-14:47:19 INFO: Can't find player name end icon
-14:47:19 INFO: 
-14:47:19 INFO: >>> Frame 001358
-14:47:19 INFO: Can't find player name end icon
-14:47:19 INFO: 
-14:47:19 INFO: >>> Frame 001359
-14:47:19 INFO: Can't find player name end icon
-14:47:19 INFO: 
-14:47:19 INFO: >>> Frame 001360
-14:47:20 INFO: Player name: 'NRG _Sweet_Rank_]'
-14:47:20 INFO: Player name: 'NRG _Sweet_Rank_]' -> 'NRG_Sweet_Rank_1'
-14:47:20 INFO: 
-14:47:20 INFO: >>> Frame 001361
-14:47:21 INFO: Player name: 'NRG_Sweet_Rank_}'
-14:47:21 INFO: Player name: 'NRG_Sweet_Rank_}' -> 'NRG_Sweet_Rank_1'
-14:47:21 INFO: 
-14:47:21 INFO: >>> Frame 001362
-14:47:22 INFO: Player name: '‘NRG_Sweet Rank 1]'
-14:47:22 INFO: Player name: '‘NRG_Sweet Rank 1]' -> 'NRG_Sweet_Rank_1'
-14:47:22 INFO: 
-14:47:22 INFO: >>> Frame 001363
-14:47:23 INFO: Player name: 'NAG _Sweet_Rank_}'
-14:47:23 INFO: Player name: 'NAG _Sweet_Rank_}' -> 'NRG_Sweet_Rank_1'
-14:47:23 INFO: 
-14:47:23 INFO: >>> Frame 001364
-14:47:24 INFO: Player name: 'NRG _Sweet_Rank_}'
-14:47:24 INFO: Player name: 'NRG _Sweet_Rank_}' -> 'NRG_Sweet_Rank_1'
-14:47:24 INFO: 
-14:47:24 INFO: >>> Frame 001365
-14:47:25 INFO: Player name: 'NRG _Sweet_Rank)'
-14:47:25 INFO: Player name: 'NRG _Sweet_Rank)' -> 'NRG_Sweet_Rank_1'
-14:47:25 INFO: 
-14:47:25 INFO: >>> Frame 001366
-14:47:26 INFO: Player name: 'NRG Sweet_Rank_]'
-14:47:26 INFO: Player name: 'NRG Sweet_Rank_]' -> 'NRG_Sweet_Rank_1'
-14:47:26 INFO: 
-14:47:26 INFO: >>> Frame 001367
-14:47:27 INFO: Player name: '-NRG Sweet: Rank\netiRank.|'
-14:47:27 INFO: Unknown player: '-NRG Sweet: Rank\netiRank.|' (best guess: 'NRG_Sweet_Rank_1', 0.54)
-14:47:27 INFO: 
-14:47:27 INFO: >>> Frame 001368
-14:47:28 INFO: Player name: 'NRG_rocker'
-14:47:28 INFO: 
-14:47:28 INFO: >>> Frame 001369
-14:47:28 INFO: Can't find player name end icon
-14:47:28 INFO: 
-14:47:28 INFO: >>> Frame 001370
-14:47:28 INFO: Can't find player name end icon
-14:47:28 INFO: 
-14:47:28 INFO: >>> Frame 001371
-14:47:28 INFO: Can't find player name end icon
-14:47:28 INFO: 
-14:47:28 INFO: >>> Frame 001372
-14:47:29 INFO: Player name: 'bowswerr'
-14:47:29 INFO: 
-14:47:29 INFO: >>> Frame 001373
-14:47:29 INFO: Player name: ''
-14:47:29 INFO: 
-14:47:29 INFO: >>> Frame 001374
-14:47:30 INFO: Player name: 'CLG PowPow'
-14:47:30 INFO: Player name: 'CLG PowPow' -> 'CLG_PowPow'
-14:47:30 INFO: 
-14:47:30 INFO: >>> Frame 001375
-14:47:31 INFO: Player name: '_SF_Resultuh'
-14:47:31 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
-14:47:31 INFO: 
-14:47:31 INFO: >>> Frame 001376
-14:47:31 INFO: Player name: ',SF_Resultuh'
-14:47:31 INFO: Player name: ',SF_Resultuh' -> 'sF_Resultuh'
-14:47:31 INFO: 
-14:47:31 INFO: >>> Frame 001377
-14:47:32 INFO: Player name: 'SF _Dezignful'
-14:47:32 INFO: Player name: 'SF _Dezignful' -> 'sF_Dezignful'
-14:47:32 INFO: 
-14:47:32 INFO: >>> Frame 001378
-14:47:33 INFO: Player name: 'SF Dezignful'
-14:47:33 INFO: Player name: 'SF Dezignful' -> 'sF_Dezignful'
-14:47:33 INFO: 
-14:47:33 INFO: >>> Frame 001379
-14:47:34 INFO: Player name: 'sF_Dezignful'
-14:47:34 INFO: 
-14:47:34 INFO: >>> Frame 001380
-14:47:34 INFO: Player name: 'sF_Dezignful'
-14:47:34 INFO: 
-14:47:34 INFO: >>> Frame 001381
-14:47:35 INFO: Player name: 'sF_Dezignful'
-14:47:35 INFO: 
-14:47:35 INFO: >>> Frame 001382
-14:47:36 INFO: Player name: 'sFiDezionful'
-14:47:36 INFO: Player name: 'sFiDezionful' -> 'sF_Dezignful'
-14:47:36 INFO: 
-14:47:36 INFO: >>> Frame 001383
-14:47:37 INFO: Player name: '1sF Dezignful'
-14:47:37 INFO: Player name: '1sF Dezignful' -> 'sF_Dezignful'
-14:47:37 INFO: 
-14:47:37 INFO: >>> Frame 001384
-14:47:38 INFO: Player name: 'sF_Gantrifying'
-14:47:38 INFO: Player name: 'sF_Gantrifying' -> 'sF_Gentrifyinq'
-14:47:38 INFO: 
-14:47:38 INFO: >>> Frame 001385
-14:47:38 INFO: Player name: 'sF_Gentrifying'
-14:47:38 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:38 INFO: 
-14:47:38 INFO: >>> Frame 001386
-14:47:39 INFO: Player name: 'sF_Gentrifying'
-14:47:39 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:39 INFO: 
-14:47:39 INFO: >>> Frame 001387
-14:47:39 INFO: Can't find player name end icon
-14:47:39 INFO: 
-14:47:39 INFO: >>> Frame 001388
-14:47:39 INFO: Can't find player name end icon
-14:47:39 INFO: 
-14:47:39 INFO: >>> Frame 001389
-14:47:39 INFO: Can't find player name end icon
-14:47:39 INFO: 
-14:47:39 INFO: >>> Frame 001390
-14:47:39 INFO: Can't find player name end icon
-14:47:39 INFO: 
-14:47:39 INFO: >>> Frame 001391
-14:47:40 INFO: Player name: '/NRG_rocker'
-14:47:40 INFO: Player name: '/NRG_rocker' -> 'NRG_rocker'
-14:47:40 INFO: 
-14:47:40 INFO: >>> Frame 001392
-14:47:41 INFO: Player name: 'NRG _Sweet_Rank_]'
-14:47:41 INFO: Player name: 'NRG _Sweet_Rank_]' -> 'NRG_Sweet_Rank_1'
-14:47:41 INFO: 
-14:47:41 INFO: >>> Frame 001393
-14:47:42 INFO: Player name: 'NRG_nafen'
-14:47:42 INFO: 
-14:47:42 INFO: >>> Frame 001394
-14:47:42 INFO: Player name: 'NRG_nafen'
-14:47:42 INFO: 
-14:47:42 INFO: >>> Frame 001395
-14:47:43 INFO: Player name: 'NRG_nafen'
-14:47:43 INFO: 
-14:47:43 INFO: >>> Frame 001396
-14:47:44 INFO: Player name: 'NRG_nafen'
-14:47:44 INFO: 
-14:47:44 INFO: >>> Frame 001397
-14:47:45 INFO: Player name: 'NRG_Sweet_Rank 1}'
-14:47:45 INFO: Player name: 'NRG_Sweet_Rank 1}' -> 'NRG_Sweet_Rank_1'
-14:47:45 INFO: 
-14:47:45 INFO: >>> Frame 001398
-14:47:45 INFO: Player name: 'NRG_Sweet_Rank_|'
-14:47:45 INFO: Player name: 'NRG_Sweet_Rank_|' -> 'NRG_Sweet_Rank_1'
-14:47:45 INFO: 
-14:47:45 INFO: >>> Frame 001399
-14:47:46 INFO: Player name: 'NRG_Sweet_Rank_|'
-14:47:46 INFO: Player name: 'NRG_Sweet_Rank_|' -> 'NRG_Sweet_Rank_1'
-14:47:46 INFO: 
-14:47:46 INFO: >>> Frame 001400
-14:47:47 INFO: Player name: 'ClaneSZN'
-14:47:47 INFO: 
-14:47:47 INFO: >>> Frame 001401
-14:47:48 INFO: Player name: 'ClaneSZN'
-14:47:48 INFO: 
-14:47:48 INFO: >>> Frame 001402
-14:47:48 INFO: Player name: 'ClaneSZn'
-14:47:48 INFO: Player name: 'ClaneSZn' -> 'ClaneSZN'
-14:47:48 INFO: 
-14:47:48 INFO: >>> Frame 001403
-14:47:49 INFO: Player name: ''
-14:47:49 INFO: 
-14:47:49 INFO: >>> Frame 001404
-14:47:49 INFO: Player name: 'ClaneSZN'
-14:47:49 INFO: 
-14:47:49 INFO: >>> Frame 001405
-14:47:50 INFO: Player name: ''
-14:47:50 INFO: 
-14:47:50 INFO: >>> Frame 001406
-14:47:51 INFO: Player name: 'SF _Rasultuh'
-14:47:51 INFO: Player name: 'SF _Rasultuh' -> 'sF_Resultuh'
-14:47:51 INFO: 
-14:47:51 INFO: >>> Frame 001407
-14:47:52 INFO: Player name: 'sF_Gentrifying'
-14:47:52 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:52 INFO: 
-14:47:52 INFO: >>> Frame 001408
-14:47:52 INFO: Player name: "'sF Gentrifying"
-14:47:52 INFO: Player name: "'sF Gentrifying" -> 'sF_Gentrifyinq'
-14:47:52 INFO: 
-14:47:52 INFO: >>> Frame 001409
-14:47:53 INFO: Player name: 'sF_Gentrifying'
-14:47:53 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:53 INFO: 
-14:47:53 INFO: >>> Frame 001410
-14:47:54 INFO: Player name: 'sF_Gantrifying'
-14:47:54 INFO: Player name: 'sF_Gantrifying' -> 'sF_Gentrifyinq'
-14:47:54 INFO: 
-14:47:54 INFO: >>> Frame 001411
-14:47:55 INFO: Player name: 'sF_Gentrifying'
-14:47:55 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:55 INFO: 
-14:47:55 INFO: >>> Frame 001412
-14:47:56 INFO: Player name: 'SF Gentrifying'
-14:47:56 INFO: Player name: 'SF Gentrifying' -> 'sF_Gentrifyinq'
-14:47:56 INFO: 
-14:47:56 INFO: >>> Frame 001413
-14:47:56 INFO: Player name: 'sF_Gentrifying'
-14:47:56 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:56 INFO: 
-14:47:56 INFO: >>> Frame 001414
-14:47:57 INFO: Player name: 'sF_Gantrifying'
-14:47:57 INFO: Player name: 'sF_Gantrifying' -> 'sF_Gentrifyinq'
-14:47:57 INFO: 
-14:47:57 INFO: >>> Frame 001415
-14:47:58 INFO: Player name: 'sF_Gentrifying'
-14:47:58 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
-14:47:58 INFO: 
-14:47:58 INFO: >>> Frame 001416
-14:47:58 INFO: Can't find player name end icon
-14:47:58 INFO: 
-14:47:58 INFO: >>> Frame 001417
-14:47:58 INFO: Can't find player name end icon
-14:47:58 INFO: 
-14:47:58 INFO: >>> Frame 001418
-14:47:58 INFO: Can't find player name end icon
-14:47:58 INFO: 
-14:47:58 INFO: >>> Frame 001419
-14:47:58 INFO: Can't find player name end icon
-14:47:58 INFO: 
-14:47:58 INFO: >>> Frame 001420
-14:47:59 INFO: Player name: ''
-14:47:59 INFO: 
-14:47:59 INFO: >>> Frame 001421
-14:47:59 INFO: Player name: ''
-14:47:59 INFO: 
-14:47:59 INFO: >>> Frame 001422
-14:48:00 INFO: Player name: '_SF_Resultuh'
-14:48:00 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
-14:48:00 INFO: 
-14:48:00 INFO: >>> Frame 001423
-14:48:01 INFO: Player name: 'ProdigyAces'
-14:48:01 INFO: 
-14:48:01 INFO: >>> Frame 001424
-14:48:02 INFO: Player name: 'ProdigyAces'
-14:48:02 INFO: 
-14:48:02 INFO: >>> Frame 001425
-14:48:02 INFO: Player name: 'ProdigyAces'
-14:48:02 INFO: 
-14:48:02 INFO: >>> Frame 001426
-14:48:03 INFO: Player name: 'ProdigyAces'
-14:48:03 INFO: 
-14:48:03 INFO: >>> Frame 001427
-14:48:04 INFO: Player name: '“ProdigyAces'
-14:48:04 INFO: Player name: '“ProdigyAces' -> 'ProdigyAces'
-14:48:04 INFO: 
-14:48:04 INFO: >>> Frame 001428
-14:48:05 INFO: Player name: 'ProdigyAces'
-14:48:05 INFO: 
-14:48:05 INFO: >>> Frame 001429
-14:48:05 INFO: Player name: 'ProdigyAces'
-14:48:05 INFO: 
-14:48:05 INFO: >>> Frame 001430
-14:48:06 INFO: Player name: 'ProdigyAces'
-14:48:06 INFO: 
-14:48:06 INFO: >>> Frame 001431
-14:48:07 INFO: Player name: 'joeyblackout'
-14:48:07 INFO: 
-14:48:07 INFO: >>> Frame 001432
-14:48:08 INFO: Player name: 'joeyblackout'
-14:48:08 INFO: 
-14:48:08 INFO: >>> Frame 001433
-14:48:08 INFO: Player name: 'joeyblackout'
-14:48:08 INFO: 
-14:48:08 INFO: >>> Frame 001434
-14:48:09 INFO: Player name: 'joeyblackout'
-14:48:09 INFO: 
-14:48:09 INFO: >>> Frame 001435
-14:48:10 INFO: Player name: 'Rakkinishu'
-14:48:10 INFO: 
-14:48:10 INFO: >>> Frame 001436
-14:48:10 INFO: Player name: 'ProdigyAces'
-14:48:10 INFO: 
-14:48:10 INFO: >>> Frame 001437
-14:48:10 INFO: Can't find player name end icon
-14:48:10 INFO: 
-14:48:10 INFO: >>> Frame 001438
-14:48:11 INFO: Can't find player name end icon
-14:48:11 INFO: 
-14:48:11 INFO: >>> Frame 001439
-14:48:11 INFO: Can't find player name end icon
-14:48:11 INFO: 
-14:48:11 INFO: >>> Frame 001440
-14:48:11 INFO: Can't find player name end icon
-14:48:11 INFO: 
-14:48:11 INFO: >>> Frame 001441
-14:48:11 INFO: Player name: 'CLG Vaxion'
-14:48:11 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:48:11 INFO: 
-14:48:11 INFO: >>> Frame 001442
-14:48:12 INFO: Player name: 'CLG _Vaxlon'
-14:48:12 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:12 INFO: 
-14:48:12 INFO: >>> Frame 001443
-14:48:13 INFO: Player name: 'CLG Vaxion'
-14:48:13 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:48:13 INFO: 
-14:48:13 INFO: >>> Frame 001444
-14:48:13 INFO: Player name: 'CLG_Vaxlon'
-14:48:13 INFO: 
-14:48:13 INFO: >>> Frame 001445
-14:48:14 INFO: Player name: 'CLG Vaxlon'
-14:48:14 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:48:14 INFO: 
-14:48:14 INFO: >>> Frame 001446
-14:48:15 INFO: Player name: 'CLG Vaxion'
-14:48:15 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
-14:48:15 INFO: 
-14:48:15 INFO: >>> Frame 001447
-14:48:16 INFO: Player name: 'CLG _Vaxlon'
-14:48:16 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:16 INFO: 
-14:48:16 INFO: >>> Frame 001448
-14:48:16 INFO: Player name: 'CLG _Vaxlon'
-14:48:16 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:16 INFO: 
-14:48:16 INFO: >>> Frame 001449
-14:48:17 INFO: Player name: 'CLG _Vaxlon'
-14:48:17 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:17 INFO: 
-14:48:17 INFO: >>> Frame 001450
-14:48:18 INFO: Player name: 'CLG Vaxton'
-14:48:18 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
-14:48:18 INFO: 
-14:48:18 INFO: >>> Frame 001451
-14:48:19 INFO: Player name: 'CLG Vaxton'
-14:48:19 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
-14:48:19 INFO: 
-14:48:19 INFO: >>> Frame 001452
-14:48:20 INFO: Player name: 'CLG Vaxton'
-14:48:20 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
-14:48:20 INFO: 
-14:48:20 INFO: >>> Frame 001453
-14:48:21 INFO: Player name: 'CLG_Vaxion'
-14:48:21 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
-14:48:21 INFO: 
-14:48:21 INFO: >>> Frame 001454
-14:48:22 INFO: Player name: 'CLG_Vaxion'
-14:48:22 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
-14:48:22 INFO: 
-14:48:22 INFO: >>> Frame 001455
-14:48:22 INFO: Player name: 'CLG _Vaxlon'
-14:48:22 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:22 INFO: 
-14:48:22 INFO: >>> Frame 001456
-14:48:23 INFO: Player name: 'CLG Vaxlon'
-14:48:23 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:48:23 INFO: 
-14:48:23 INFO: >>> Frame 001457
-14:48:24 INFO: Player name: 'CLB_Vaxlon'
-14:48:24 INFO: Player name: 'CLB_Vaxlon' -> 'CLG_Vaxlon'
-14:48:24 INFO: 
-14:48:24 INFO: >>> Frame 001458
-14:48:24 INFO: Player name: 'CLG _Vaxlon'
-14:48:24 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:24 INFO: 
-14:48:24 INFO: >>> Frame 001459
-14:48:25 INFO: Player name: 'CLG Vaxlon'
-14:48:25 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:48:25 INFO: 
-14:48:25 INFO: >>> Frame 001460
-14:48:26 INFO: Player name: 'CLG Vaxlon'
-14:48:26 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:48:26 INFO: 
-14:48:26 INFO: >>> Frame 001461
-14:48:27 INFO: Player name: 'CLG Vaxloi'
-14:48:27 INFO: Player name: 'CLG Vaxloi' -> 'CLG_Vaxlon'
-14:48:27 INFO: 
-14:48:27 INFO: >>> Frame 001462
-14:48:27 INFO: Player name: 'CLG Vaxton'
-14:48:27 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
-14:48:27 INFO: 
-14:48:27 INFO: >>> Frame 001463
-14:48:28 INFO: Player name: 'CLG_Vaxion'
-14:48:28 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
-14:48:28 INFO: 
-14:48:28 INFO: >>> Frame 001464
-14:48:29 INFO: Player name: 'CLG Vaxlon'
-14:48:29 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
-14:48:29 INFO: 
-14:48:29 INFO: >>> Frame 001465
-14:48:29 INFO: Player name: 'CLG Vaxton'
-14:48:29 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
-14:48:29 INFO: 
-14:48:29 INFO: >>> Frame 001466
-14:48:30 INFO: Player name: 'CLG ImMadness'
-14:48:30 INFO: 
-14:48:30 INFO: >>> Frame 001467
-14:48:32 INFO: Player name: 'CLG ImMadness'
-14:48:32 INFO: 
-14:48:32 INFO: >>> Frame 001468
-14:48:33 INFO: Player name: 'CLG IimMadness'
-14:48:33 INFO: Player name: 'CLG IimMadness' -> 'CLG ImMadness'
-14:48:33 INFO: 
-14:48:33 INFO: >>> Frame 001469
-14:48:34 INFO: Player name: 'CLG ImMadness'
-14:48:34 INFO: 
-14:48:34 INFO: >>> Frame 001470
-14:48:35 INFO: Player name: 'CLG ImMadness'
-14:48:35 INFO: 
-14:48:35 INFO: >>> Frame 001471
-14:48:36 INFO: Player name: '‘CLG ImMadness'
-14:48:36 INFO: Player name: '‘CLG ImMadness' -> 'CLG ImMadness'
-14:48:36 INFO: 
-14:48:36 INFO: >>> Frame 001472
-14:48:37 INFO: Player name: 'CLG ImMadness'
-14:48:37 INFO: 
-14:48:37 INFO: >>> Frame 001473
-14:48:37 INFO: Can't find player name end icon
-14:48:37 INFO: 
-14:48:37 INFO: >>> Frame 001474
-14:48:37 INFO: Can't find player name end icon
-14:48:37 INFO: 
-14:48:37 INFO: >>> Frame 001475
-14:48:37 INFO: Can't find player name end icon
-14:48:37 INFO: 
-14:48:37 INFO: >>> Frame 001476
-14:48:38 INFO: Can't find player name end icon
-14:48:38 INFO: 
-14:48:38 INFO: >>> Frame 001477
-14:48:38 INFO: Player name: 'joeyblackout'
-14:48:38 INFO: 
-14:48:38 INFO: >>> Frame 001478
-14:48:39 INFO: Player name: 'joyblackout'
-14:48:39 INFO: Player name: 'joyblackout' -> 'joeyblackout'
-14:48:39 INFO: 
-14:48:39 INFO: >>> Frame 001479
-14:48:40 INFO: Player name: 'joeyblackout'
-14:48:40 INFO: 
-14:48:40 INFO: >>> Frame 001480
-14:48:41 INFO: Player name: 'joeyblackout'
-14:48:41 INFO: 
-14:48:41 INFO: >>> Frame 001481
-14:48:42 INFO: Player name: 'joeyblackout'
-14:48:42 INFO: 
-14:48:42 INFO: >>> Frame 001482
-14:48:42 INFO: Player name: 'Rakkinishu'
-14:48:42 INFO: 
-14:48:42 INFO: >>> Frame 001483
-14:48:43 INFO: Player name: 'Rakkinishu'
-14:48:43 INFO: 
-14:48:43 INFO: >>> Frame 001484
-14:48:44 INFO: Player name: 'Joeybtackout'
-14:48:44 INFO: Player name: 'Joeybtackout' -> 'joeyblackout'
-14:48:44 INFO: 
-14:48:44 INFO: >>> Frame 001485
-14:48:44 INFO: Player name: 'joeyblackout'
-14:48:44 INFO: 
-14:48:44 INFO: >>> Frame 001486
-14:48:45 INFO: Can't find player name end icon
-14:48:45 INFO: 
-14:48:45 INFO: >>> Frame 001487
-14:48:45 INFO: Can't find player name end icon
-14:48:45 INFO: 
-14:48:45 INFO: >>> Frame 001488
-14:48:45 INFO: Player name: 'josyblackout'
-14:48:45 INFO: Player name: 'josyblackout' -> 'joeyblackout'
-14:48:45 INFO: 
-14:48:45 INFO: >>> Frame 001489
-14:48:46 INFO: Player name: 'joeyblackout'
-14:48:46 INFO: 
-14:48:46 INFO: >>> Frame 001490
-14:48:47 INFO: Player name: 'joeyblackout'
-14:48:47 INFO: 
-14:48:47 INFO: >>> Frame 001491
-14:48:48 INFO: Player name: 'joeyblackout'
-14:48:48 INFO: 
-14:48:48 INFO: >>> Frame 001492
-14:48:48 INFO: Can't find player name end icon
-14:48:48 INFO: 
-14:48:48 INFO: >>> Frame 001493
-14:48:48 INFO: Can't find player name end icon
-14:48:48 INFO: 
-14:48:48 INFO: >>> Frame 001494
-14:48:48 INFO: Player name: 'CLG _Vaxlon'
-14:48:48 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:48 INFO: 
-14:48:48 INFO: >>> Frame 001495
-14:48:49 INFO: Player name: ''
-14:48:49 INFO: 
-14:48:49 INFO: >>> Frame 001496
-14:48:50 INFO: Player name: 'CLG _Vaxlon'
-14:48:50 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:50 INFO: 
-14:48:50 INFO: >>> Frame 001497
-14:48:51 INFO: Player name: 'CLG _Vaxlon'
-14:48:51 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:51 INFO: 
-14:48:51 INFO: >>> Frame 001498
-14:48:51 INFO: Player name: 'CLG _Vaxlon'
-14:48:51 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
-14:48:51 INFO: 
-14:48:51 INFO: >>> Frame 001499
-14:48:52 INFO: Player name: 'CLG _Vaxton'
-14:48:52 INFO: Player name: 'CLG _Vaxton' -> 'CLG_Vaxlon'
+16:27:54 INFO: 
+16:27:54 INFO: >>> Frame 000835
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000836
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000837
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000838
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000839
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000840
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000841
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000842
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000843
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000844
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000845
+16:27:55 INFO: Can't find player name end icon
+16:27:55 INFO: 
+16:27:55 INFO: >>> Frame 000846
+16:27:56 INFO: Player name: 'SungNguyenn'
+16:27:56 INFO: Weapon 1: 'HEMLOK'
+16:27:57 INFO: 
+16:27:57 INFO: >>> Frame 000847
+16:27:58 INFO: Player name: 'SungNguyenn'
+16:27:58 INFO: Weapon 1: 'HEMLOK'
+16:27:59 INFO: 
+16:27:59 INFO: >>> Frame 000848
+16:27:59 INFO: Player name: 'SungNguyenn'
+16:28:00 INFO: Weapon 1: 'HEMLOK'
+16:28:01 INFO: Weapon 2: 'R-99'
+16:28:01 INFO: 
+16:28:01 INFO: >>> Frame 000849
+16:28:01 INFO: Player name: 'sungNguyenn' -> 'SungNguyenn'
+16:28:02 INFO: Weapon 1: 'HEMLOK'
+16:28:02 INFO: Weapon 2: 'R-99'
+16:28:02 INFO: 
+16:28:02 INFO: >>> Frame 000850
+16:28:03 INFO: Player name: ', BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
+16:28:04 INFO: Weapon 1: 'SPITFIRE'
+16:28:04 INFO: Weapon 2: 'ALTERNATOR'
+16:28:04 INFO: 
+16:28:04 INFO: >>> Frame 000851
+16:28:05 INFO: Player name: ', BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
+16:28:05 INFO: Weapon 1: 'SPITFIRE'
+16:28:06 INFO: Weapon 2: 'ALTERNATOR'
+16:28:06 INFO: 
+16:28:06 INFO: >>> Frame 000852
+16:28:07 INFO: Player name: '_BlurrFlavorz_ RX' -> 'BlurrFlavorz_RX'
+16:28:07 INFO: Weapon 1: 'SPITFIAE' -> 'SPITFIRE'
+16:28:08 INFO: Weapon 2: 'ALTERNATOR'
+16:28:08 INFO: 
+16:28:08 INFO: >>> Frame 000853
+16:28:08 INFO: Player name: ', BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
+16:28:09 INFO: Weapon 1: 'SPITFIRE'
+16:28:09 INFO: Weapon 2: 'ALTERNATOR'
+16:28:09 INFO: 
+16:28:09 INFO: >>> Frame 000854
+16:28:10 INFO: Player name: ' BlurrFlavarz_RX' -> 'BlurrFlavorz_RX'
+16:28:11 INFO: Weapon 1: 'SPITFIRE'
+16:28:11 INFO: Weapon 2: 'ALTERNATOR'
+16:28:11 INFO: 
+16:28:11 INFO: >>> Frame 000855
+16:28:12 INFO: Player name: 'BlurrFlavorz_RX'
+16:28:13 INFO: Weapon 1: 'SPITFIRE'
+16:28:13 INFO: Weapon 2: 'ALTERNATOR'
+16:28:13 INFO: 
+16:28:13 INFO: >>> Frame 000856
+16:28:14 INFO: Player name: 'HisWattson_RX'
+16:28:14 INFO: Weapon 1: 'MASTIFF'
+16:28:15 INFO: Weapon 2: 'ALTERNATOR'
+16:28:15 INFO: 
+16:28:15 INFO: >>> Frame 000857
+16:28:16 INFO: Player name: 'HisWattson_RX'
+16:28:16 INFO: Weapon 1: 'MASTIFE' -> 'MASTIFF'
+16:28:17 INFO: Weapon 2: 'ALTERNATOR'
+16:28:17 INFO: 
+16:28:17 INFO: >>> Frame 000858
+16:28:18 INFO: Player name: 'HisWattson RX' -> 'HisWattson_RX'
+16:28:18 INFO: Weapon 1: 'MASTIFF'
+16:28:19 INFO: Weapon 2: 'ALTERNATOR'
+16:28:19 INFO: 
+16:28:19 INFO: >>> Frame 000859
+16:28:19 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
+16:28:20 INFO: Weapon 1: 'SPITFIRE'
+16:28:20 INFO: 
+16:28:20 INFO: >>> Frame 000860
+16:28:21 INFO: Player name: ' CLT_mercy' -> 'CLT_mercy'
+16:28:21 INFO: Weapon 1: 'SPITFIRE'
+16:28:22 INFO: 
+16:28:22 INFO: >>> Frame 000861
+16:28:22 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
+16:28:23 INFO: Weapon 1: 'SPITFIRE'
+16:28:23 INFO: 
+16:28:23 INFO: >>> Frame 000862
+16:28:24 INFO: Player name: 'CLT Bronzay' -> 'CLT Bronzey'
+16:28:25 INFO: Weapon 1: '30-30 REPEATE' -> '30-30 REPEATER'
+16:28:25 INFO: Weapon 2: 'MASTIFF'
+16:28:25 INFO: 
+16:28:25 INFO: >>> Frame 000863
+16:28:26 INFO: Player name: 'CLT Bronzey'
+16:28:26 INFO: Weapon 1: '350-450 REPEATE' -> '30-30 REPEATER'
+16:28:27 INFO: Weapon 2: 'MASTIFF'
+16:28:27 INFO: 
+16:28:27 INFO: >>> Frame 000864
+16:28:27 INFO: Can't find player name end icon
+16:28:27 INFO: 
+16:28:27 INFO: >>> Frame 000865
+16:28:27 INFO: Can't find player name end icon
+16:28:27 INFO: 
+16:28:27 INFO: >>> Frame 000866
+16:28:28 INFO: Player name: 'CLT Bronzey'
+16:28:28 INFO: Weapon 1: '30-50 REPEATE' -> '30-30 REPEATER'
+16:28:29 INFO: Weapon 2: 'MASTIFF'
+16:28:29 INFO: 
+16:28:29 INFO: >>> Frame 000867
+16:28:29 INFO: Player name: 'CLT mercy' -> 'CLT_mercy'
+16:28:30 INFO: Weapon 1: 'SPITFIRE'
+16:28:30 INFO: 
+16:28:30 INFO: >>> Frame 000868
+16:28:31 INFO: Player name: 'CLT mercy' -> 'CLT_mercy'
+16:28:31 INFO: Weapon 1: 'SPITFIRE'
+16:28:32 INFO: 
+16:28:32 INFO: >>> Frame 000869
+16:28:33 INFO: Player name: 'CLT Bronzey'
+16:28:33 INFO: Weapon 1: '40-50 REPEATE' -> '30-30 REPEATER'
+16:28:33 INFO: Weapon 2: 'MASTIFF'
+16:28:33 INFO: 
+16:28:33 INFO: >>> Frame 000870
+16:28:34 INFO: Player name: 'CLT Bronzey'
+16:28:35 INFO: Weapon 1: '30-30 REPEATE' -> '30-30 REPEATER'
+16:28:35 INFO: Weapon 2: 'MASTIFF'
+16:28:35 INFO: 
+16:28:35 INFO: >>> Frame 000871
+16:28:36 INFO: Player name: 'CLT Bronzey'
+16:28:36 INFO: Weapon 1: '40-50 REPEATE' -> '30-30 REPEATER'
+16:28:37 INFO: Weapon 2: 'MASTIFF'
+16:28:37 INFO: 
+16:28:37 INFO: >>> Frame 000872
+16:28:38 INFO: Player name: 'CLT Pride'
+16:28:38 INFO: Weapon 1: 'RE-45'
+16:28:39 INFO: Weapon 2: 'MASTIFF'
+16:28:39 INFO: 
+16:28:39 INFO: >>> Frame 000873
+16:28:39 INFO: Player name: 'CLT Pride'
+16:28:40 INFO: Weapon 1: 'RE-45'
+16:28:40 INFO: Weapon 2: 'MASTIFF'
+16:28:40 INFO: 
+16:28:40 INFO: >>> Frame 000874
+16:28:41 INFO: Player name: 'CLT Pride'
+16:28:41 INFO: Weapon 1: 'RE-45'
+16:28:42 INFO: Weapon 2: 'MASTIFF'
+16:28:42 INFO: 
+16:28:42 INFO: >>> Frame 000875
+16:28:42 INFO: Player name: 'CLT Bronzey'
+16:28:43 INFO: Weapon 1: '30-50 REPEATE' -> '30-30 REPEATER'
+16:28:43 INFO: Weapon 2: 'MASTIFF'
+16:28:43 INFO: 
+16:28:43 INFO: >>> Frame 000876
+16:28:44 INFO: Player name: 'HisWattson_RxX' -> 'HisWattson_RX'
+16:28:45 INFO: Weapon 1: 'MASTIFF'
+16:28:45 INFO: Weapon 2: 'ALTERNATOR'
+16:28:45 INFO: 
+16:28:45 INFO: >>> Frame 000877
+16:28:46 INFO: Player name: 'HisWattson_ RX' -> 'HisWattson_RX'
+16:28:46 INFO: Weapon 1: 'MASTIFF'
+16:28:47 INFO: Weapon 2: 'ALTERNATOR'
+16:28:47 INFO: 
+16:28:47 INFO: >>> Frame 000878
+16:28:48 INFO: Player name: 'SungNguyenn'
+16:28:48 INFO: Weapon 1: 'HEMLOK'
+16:28:49 INFO: Weapon 2: 'R-99'
+16:28:49 INFO: 
+16:28:49 INFO: >>> Frame 000879
+16:28:50 INFO: Player name: 'SungNguyenn'
+16:28:50 INFO: Weapon 1: 'HEMLOK'
+16:28:50 INFO: Weapon 2: 'R-99'
+16:28:50 INFO: 
+16:28:50 INFO: >>> Frame 000880
+16:28:51 INFO: Player name: 'SungNguyenn'
+16:28:52 INFO: Weapon 1: 'HEMLGK' -> 'HEMLOK'
+16:28:52 INFO: Weapon 2: 'R-99'
+16:28:52 INFO: 
+16:28:52 INFO: >>> Frame 000881
+16:28:53 INFO: Player name: 'SungNguyenn'
+16:28:53 INFO: Weapon 1: 'HEMLOK'
+16:28:54 INFO: Weapon 2: 'R-99'
+16:28:54 INFO: 
+16:28:54 INFO: >>> Frame 000882
+16:28:55 INFO: Player name: 'SungNguyann' -> 'SungNguyenn'
+16:28:55 INFO: Weapon 1: 'HEMLOK'
+16:28:56 INFO: Weapon 2: 'R-39.' -> 'R-301'
+16:28:56 INFO: 
+16:28:56 INFO: >>> Frame 000883
+16:28:56 INFO: Player name: ' BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
+16:28:57 INFO: Weapon 1: 'SPITFIRE:' -> 'SPITFIRE'
+16:28:58 INFO: Weapon 2: 'ALTERNATOR'
+16:28:58 INFO: 
+16:28:58 INFO: >>> Frame 000884
+16:28:58 INFO: Player name: '_ BlurrFlavorz_RX' -> 'BlurrFlavorz_RX'
+16:28:59 INFO: Weapon 1: 'SPITFIRE:' -> 'SPITFIRE'
+16:28:59 INFO: Weapon 2: 'ALTERNATOR'
+16:28:59 INFO: 
+16:28:59 INFO: >>> Frame 000885
+16:28:59 INFO: Can't find player name end icon
+16:28:59 INFO: 
+16:28:59 INFO: >>> Frame 000886
+16:29:00 INFO: Player name: '-BlurrFlavorz_AXx' -> 'BlurrFlavorz_RX'
+16:29:01 INFO: Weapon 2: 'SLTERNATLIP' -> 'ALTERNATOR'
+16:29:01 INFO: 
+16:29:01 INFO: >>> Frame 000887
+16:29:02 INFO: Player name: '| BlurrFlavorz_ RX' -> 'BlurrFlavorz_RX'
+16:29:03 INFO: Weapon 2: 'ALTERNATOR'
+16:29:03 INFO: 
+16:29:03 INFO: >>> Frame 000888
+16:29:04 INFO: Player name: 'MrGreekGodTTV'
+16:29:04 INFO: Weapon 1: 'VOLT'
+16:29:05 INFO: Weapon 2: 'FLATLINE'
+16:29:05 INFO: 
+16:29:05 INFO: >>> Frame 000889
+16:29:06 INFO: Player name: 'MrGreekGodTTV'
+16:29:06 INFO: Weapon 1: 'VOLT'
+16:29:07 INFO: Weapon 2: 'FLATLINE'
+16:29:07 INFO: 
+16:29:07 INFO: >>> Frame 000890
+16:29:08 INFO: Player name: 'MrGreekGodTTV-' -> 'MrGreekGodTTV'
+16:29:08 INFO: Weapon 1: 'VOLT'
+16:29:09 INFO: Weapon 2: 'FLATLINE'
+16:29:09 INFO: 
+16:29:09 INFO: >>> Frame 000891
+16:29:09 INFO: Player name: 'StinkTV'
+16:29:10 INFO: Weapon 1: '-HEMLOK' -> 'HEMLOK'
+16:29:10 INFO: Weapon 2: 'R-301'
+16:29:10 INFO: 
+16:29:10 INFO: >>> Frame 000892
+16:29:11 INFO: Player name: 'StinkTV'
+16:29:11 INFO: Weapon 1: 'HEMLOK'
+16:29:12 INFO: Weapon 2: 'R-301'
+16:29:12 INFO: 
+16:29:12 INFO: >>> Frame 000893
+16:29:12 INFO: Player name: 'StinkTV'
+16:29:13 INFO: Weapon 1: 'HEMLOK'
+16:29:13 INFO: Weapon 2: 'R-301'
+16:29:13 INFO: 
+16:29:13 INFO: >>> Frame 000894
+16:29:14 INFO: Player name: 'StinkTV¥' -> 'StinkTV'
+16:29:14 INFO: Weapon 1: 'HEMLOK'
+16:29:15 INFO: Weapon 2: 'R-301'
+16:29:15 INFO: 
+16:29:15 INFO: >>> Frame 000895
+16:29:15 INFO: Player name: 'StinkTV'
+16:29:16 INFO: Weapon 1: 'HEMLOH' -> 'HEMLOK'
+16:29:16 INFO: Unknown weapon: 'ASO' (best guess: 'MASTIFF', 0.71)
+16:29:16 INFO: 
+16:29:16 INFO: >>> Frame 000896
+16:29:17 INFO: Player name: 'StinkTV'
+16:29:17 INFO: Weapon 1: 'HEMLOK'
+16:29:17 INFO: Weapon 2: 'R-301'
+16:29:17 INFO: 
+16:29:17 INFO: >>> Frame 000897
+16:29:18 INFO: Player name: 'StinkTV'
+16:29:18 INFO: Weapon 1: 'HEMLOK'
+16:29:19 INFO: Weapon 2: 'R-301'
+16:29:19 INFO: 
+16:29:19 INFO: >>> Frame 000898
+16:29:19 INFO: Player name: '-StinkTV' -> 'StinkTV'
+16:29:20 INFO: Weapon 1: 'HEMLOK'
+16:29:20 INFO: Weapon 2: 'R-301'
+16:29:20 INFO: 
+16:29:20 INFO: >>> Frame 000899
+16:29:21 INFO: Player name: 'StinkTV'
+16:29:21 INFO: Weapon 1: 'HEMLOK'
+16:29:22 INFO: Weapon 2: 'R-301'
+16:29:22 INFO: 
+16:29:22 INFO: >>> Frame 000900
+16:29:22 INFO: Can't find player name end icon
+16:29:22 INFO: 
+16:29:22 INFO: >>> Frame 000901
+16:29:22 INFO: Can't find player name end icon
+16:29:22 INFO: 
+16:29:22 INFO: >>> Frame 000902
+16:29:22 INFO: Can't find player name end icon
+16:29:22 INFO: 
+16:29:22 INFO: >>> Frame 000903
+16:29:22 INFO: Can't find player name end icon
+16:29:22 INFO: 
+16:29:22 INFO: >>> Frame 000904
+16:29:23 INFO: Player name: 'Kotigami'
+16:29:23 INFO: Weapon 1: 'ALTERNATOR'
+16:29:24 INFO: Weapon 2: 'TRIPLE TAKE'
+16:29:24 INFO: 
+16:29:24 INFO: >>> Frame 000905
+16:29:24 INFO: Player name: 'Kotigami'
+16:29:25 INFO: Weapon 1: 'ALTERNATOR'
+16:29:25 INFO: Weapon 2: 'TRIPLE TAKE'
+16:29:25 INFO: 
+16:29:25 INFO: >>> Frame 000906
+16:29:26 INFO: Player name: 'Kotigami'
+16:29:26 INFO: Weapon 1: 'ALTERNATOR'
+16:29:27 INFO: Weapon 2: 'TRIPLE TAKE'
+16:29:27 INFO: 
+16:29:27 INFO: >>> Frame 000907
+16:29:28 INFO: Player name: 'CLG jriMadness' -> 'CLG ImMadness'
+16:29:28 INFO: Unknown weapon: 'A-39' (best guess: 'R-99', 0.50)
+16:29:29 INFO: Weapon 2: 'EVA-8 AUTG' -> 'EVA-8 AUTO'
+16:29:29 INFO: 
+16:29:29 INFO: >>> Frame 000908
+16:29:29 INFO: Player name: ',COL_Iou' -> 'COL_Iou'
+16:29:30 INFO: Weapon 1: 'G7 SCOUT'
+16:29:30 INFO: Weapon 2: 'FLATLINE'
+16:29:30 INFO: 
+16:29:30 INFO: >>> Frame 000909
+16:29:31 INFO: Player name: 'COL lou' -> 'COL_Iou'
+16:29:31 INFO: Weapon 1: 'G7 SCOUT'
+16:29:32 INFO: Weapon 2: 'FLATLINE'
+16:29:32 INFO: 
+16:29:32 INFO: >>> Frame 000910
+16:29:32 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
+16:29:33 INFO: Weapon 1: 'WINGMAN'
+16:29:33 INFO: Weapon 2: 'MASTIFF'
+16:29:33 INFO: 
+16:29:33 INFO: >>> Frame 000911
+16:29:34 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:29:34 INFO: Weapon 1: 'WINGMAN'
+16:29:35 INFO: Weapon 2: 'MASTIFF'
+16:29:35 INFO: 
+16:29:35 INFO: >>> Frame 000912
+16:29:36 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:29:36 INFO: Weapon 1: 'WINGMAN'
+16:29:37 INFO: Weapon 2: 'MASTIFF'
+16:29:37 INFO: 
+16:29:37 INFO: >>> Frame 000913
+16:29:37 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:29:38 INFO: Weapon 1: 'WINGMAN'
+16:29:38 INFO: Weapon 2: 'MASTIFF'
+16:29:38 INFO: 
+16:29:38 INFO: >>> Frame 000914
+16:29:39 INFO: Player name: '‘CLG Vaxton' -> 'CLG_Vaxlon'
+16:29:40 INFO: Weapon 1: 'WINGMAN'
+16:29:40 INFO: Weapon 2: 'MASTIFF'
+16:29:40 INFO: 
+16:29:40 INFO: >>> Frame 000915
+16:29:41 INFO: Player name: 'CLG _Vaxion' -> 'CLG_Vaxlon'
+16:29:41 INFO: Weapon 1: 'WINGMAN'
+16:29:42 INFO: Weapon 2: 'MASTIFF'
+16:29:42 INFO: 
+16:29:42 INFO: >>> Frame 000916
+16:29:42 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:29:43 INFO: Weapon 1: 'WINGMAN'
+16:29:43 INFO: Weapon 2: 'MASTIFF'
+16:29:43 INFO: 
+16:29:43 INFO: >>> Frame 000917
+16:29:44 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:29:45 INFO: Weapon 1: 'WINGMAN'
+16:29:45 INFO: Weapon 2: 'MASTIFF'
+16:29:45 INFO: 
+16:29:45 INFO: >>> Frame 000918
+16:29:46 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:29:46 INFO: Weapon 1: 'WINGMAN'
+16:29:47 INFO: Weapon 2: 'MASTIFF'
+16:29:47 INFO: 
+16:29:47 INFO: >>> Frame 000919
+16:29:47 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:29:48 INFO: Weapon 1: 'WINGMAN'
+16:29:48 INFO: Weapon 2: 'MASTIFF'
+16:29:48 INFO: 
+16:29:48 INFO: >>> Frame 000920
+16:29:49 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:29:50 INFO: Weapon 1: 'WINGMAN'
+16:29:50 INFO: Weapon 2: 'MASTIFF'
+16:29:50 INFO: 
+16:29:50 INFO: >>> Frame 000921
+16:29:51 INFO: Player name: 'CLG_Vaxlon'
+16:29:51 INFO: Weapon 1: 'WINGMAN'
+16:29:52 INFO: Weapon 2: 'MASTIFF'
+16:29:52 INFO: 
+16:29:52 INFO: >>> Frame 000922
+16:29:52 INFO: Player name: 'CLG_Vaxlon'
+16:29:53 INFO: Weapon 1: 'WINGMAN'
+16:29:53 INFO: Weapon 2: 'MASTIFF'
+16:29:53 INFO: 
+16:29:53 INFO: >>> Frame 000923
+16:29:54 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:29:54 INFO: Weapon 1: 'WINGMAN'
+16:29:55 INFO: Weapon 2: 'MASTIFF'
+16:29:55 INFO: 
+16:29:55 INFO: >>> Frame 000924
+16:29:56 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:29:56 INFO: Weapon 1: 'WINGMAN'
+16:29:57 INFO: Weapon 2: 'MAS TIFF' -> 'MASTIFF'
+16:29:57 INFO: 
+16:29:57 INFO: >>> Frame 000925
+16:29:57 INFO: Player name: '. sF_Resultuh' -> 'sF_Resultuh'
+16:29:58 INFO: Weapon 1: 'EVA-8 AUTO'
+16:29:58 INFO: Weapon 2: 'G7 SCOUT'
+16:29:58 INFO: 
+16:29:58 INFO: >>> Frame 000926
+16:29:59 INFO: Player name: '_sF_Resultuh' -> 'sF_Resultuh'
+16:30:00 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:00 INFO: Weapon 2: 'G7 SCOUT'
+16:30:00 INFO: 
+16:30:00 INFO: >>> Frame 000927
+16:30:01 INFO: Player name: 'SF _Resultuh' -> 'sF_Resultuh'
+16:30:01 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:02 INFO: Weapon 2: 'G7 SCOUT'
+16:30:02 INFO: 
+16:30:02 INFO: >>> Frame 000928
+16:30:03 INFO: Player name: '_sF_Resultuh' -> 'sF_Resultuh'
+16:30:03 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:04 INFO: Weapon 2: 'G7 SCOUT'
+16:30:04 INFO: 
+16:30:04 INFO: >>> Frame 000929
+16:30:04 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
+16:30:05 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:05 INFO: Weapon 2: 'G7 SCOUT'
+16:30:05 INFO: 
+16:30:05 INFO: >>> Frame 000930
+16:30:06 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
+16:30:06 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:07 INFO: Weapon 2: 'G7 SCOUT'
+16:30:07 INFO: 
+16:30:07 INFO: >>> Frame 000931
+16:30:08 INFO: Player name: '-sF_Resultuh' -> 'sF_Resultuh'
+16:30:08 INFO: Weapon 1: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:30:09 INFO: Weapon 2: 'G7 SCOUT'
+16:30:09 INFO: 
+16:30:09 INFO: >>> Frame 000932
+16:30:09 INFO: Player name: 'SF _Resultuh' -> 'sF_Resultuh'
+16:30:10 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:10 INFO: Weapon 2: 'G? SCOUT' -> 'G7 SCOUT'
+16:30:10 INFO: 
+16:30:10 INFO: >>> Frame 000933
+16:30:11 INFO: Player name: 'SF _Resultuh' -> 'sF_Resultuh'
+16:30:11 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:12 INFO: Weapon 2: 'G7 SCOUT'
+16:30:12 INFO: 
+16:30:12 INFO: >>> Frame 000934
+16:30:13 INFO: Player name: 'Sauceror'
+16:30:13 INFO: Weapon 2: 'MASTIFF'
+16:30:13 INFO: 
+16:30:13 INFO: >>> Frame 000935
+16:30:14 INFO: Player name: 'Saucerot' -> 'Sauceror'
+16:30:15 INFO: Weapon 2: 'MASTIFF'
+16:30:15 INFO: 
+16:30:15 INFO: >>> Frame 000936
+16:30:16 INFO: Player name: 'Sauceror'
+16:30:16 INFO: Weapon 1: 'R-99'
+16:30:17 INFO: Weapon 2: 'MASTIFF'
+16:30:17 INFO: 
+16:30:17 INFO: >>> Frame 000937
+16:30:17 INFO: Player name: 'Sauceror'
+16:30:18 INFO: Weapon 1: 'R-99'
+16:30:18 INFO: Weapon 2: 'MASTIFF'
+16:30:18 INFO: 
+16:30:18 INFO: >>> Frame 000938
+16:30:18 INFO: Can't find player name end icon
+16:30:18 INFO: 
+16:30:18 INFO: >>> Frame 000939
+16:30:18 INFO: Can't find player name end icon
+16:30:18 INFO: 
+16:30:18 INFO: >>> Frame 000940
+16:30:19 INFO: Player name: 'bowswerr'
+16:30:19 INFO: Weapon 1: 'G7 SCOUT'
+16:30:20 INFO: Weapon 2: 'EVA-8 AUTO'
+16:30:20 INFO: 
+16:30:20 INFO: >>> Frame 000941
+16:30:20 INFO: Player name: 'bowswerr'
+16:30:21 INFO: Weapon 1: 'G7 SCOUT'
+16:30:21 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:30:21 INFO: 
+16:30:21 INFO: >>> Frame 000942
+16:30:22 INFO: Player name: 'bowswerr'
+16:30:22 INFO: Weapon 1: 'G7 SCOUT'
+16:30:23 INFO: Weapon 2: 'EVA-8 AUTO'
+16:30:23 INFO: 
+16:30:23 INFO: >>> Frame 000943
+16:30:24 INFO: Player name: 'CLG _PowPow' -> 'CLG_PowPow'
+16:30:24 INFO: Weapon 1: 'FLATLINE'
+16:30:24 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:30:24 INFO: 
+16:30:24 INFO: >>> Frame 000944
+16:30:25 INFO: Player name: 'CLG_PowPow'
+16:30:26 INFO: Weapon 1: 'FLATLINE'
+16:30:26 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:30:26 INFO: 
+16:30:26 INFO: >>> Frame 000945
+16:30:27 INFO: Player name: 'CLG PowPow' -> 'CLG_PowPow'
+16:30:27 INFO: Weapon 1: 'FLATLINE'
+16:30:28 INFO: Weapon 2: 'EVA-8 AUTO'
+16:30:28 INFO: 
+16:30:28 INFO: >>> Frame 000946
+16:30:29 INFO: Player name: 'CLG_PowPow'
+16:30:29 INFO: Weapon 1: 'FLATLINE'
+16:30:30 INFO: Weapon 2: 'EVA-8 AUTO'
+16:30:30 INFO: 
+16:30:30 INFO: >>> Frame 000947
+16:30:30 INFO: Player name: 'CLG _PowPow' -> 'CLG_PowPow'
+16:30:31 INFO: Weapon 1: 'FLATLINE'
+16:30:31 INFO: Weapon 2: 'EVA-8 AUTO'
+16:30:31 INFO: 
+16:30:31 INFO: >>> Frame 000948
+16:30:32 INFO: Player name: 'CLG PowPow' -> 'CLG_PowPow'
+16:30:33 INFO: Weapon 1: 'FLATLINE'
+16:30:33 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:30:33 INFO: 
+16:30:33 INFO: >>> Frame 000949
+16:30:34 INFO: Player name: 'SEN_senoxe'
+16:30:34 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:35 INFO: Weapon 2: 'R-301'
+16:30:35 INFO: 
+16:30:35 INFO: >>> Frame 000950
+16:30:36 INFO: Player name: 'SEN senoxe' -> 'SEN_senoxe'
+16:30:36 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:37 INFO: Weapon 2: 'R-30)' -> 'R-301'
+16:30:37 INFO: 
+16:30:37 INFO: >>> Frame 000951
+16:30:37 INFO: Player name: 'SEN senoxe' -> 'SEN_senoxe'
+16:30:38 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:38 INFO: Weapon 2: 'R-301'
+16:30:38 INFO: 
+16:30:38 INFO: >>> Frame 000952
+16:30:39 INFO: Player name: 'SEN_sanoxe' -> 'SEN_senoxe'
+16:30:39 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:40 INFO: Weapon 2: 'R-30)' -> 'R-301'
+16:30:40 INFO: 
+16:30:40 INFO: >>> Frame 000953
+16:30:41 INFO: Player name: 'SEN_senoxe'
+16:30:41 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:42 INFO: Weapon 2: 'R-301'
+16:30:42 INFO: 
+16:30:42 INFO: >>> Frame 000954
+16:30:42 INFO: Player name: 'SEN_senoxe'
+16:30:43 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:43 INFO: Weapon 2: 'R-301'
+16:30:43 INFO: 
+16:30:43 INFO: >>> Frame 000955
+16:30:44 INFO: Player name: 'SEN senoxe' -> 'SEN_senoxe'
+16:30:44 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:45 INFO: Weapon 2: 'R-301'
+16:30:45 INFO: 
+16:30:45 INFO: >>> Frame 000956
+16:30:46 INFO: Player name: 'SEN _senoxe' -> 'SEN_senoxe'
+16:30:46 INFO: Weapon 1: 'TRIPLE TAKE'
+16:30:47 INFO: Weapon 2: 'R-30)' -> 'R-301'
+16:30:47 INFO: 
+16:30:47 INFO: >>> Frame 000957
+16:30:47 INFO: Can't find player name end icon
+16:30:47 INFO: 
+16:30:47 INFO: >>> Frame 000958
+16:30:47 INFO: Player name: 'TSM _ImperialHal' -> 'TSM_ImperialHa1'
+16:30:48 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:30:48 INFO: 
+16:30:48 INFO: >>> Frame 000959
+16:30:48 INFO: Can't find player name end icon
+16:30:48 INFO: 
+16:30:48 INFO: >>> Frame 000960
+16:30:49 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:30:50 INFO: Weapon 1: 'R-99'
+16:30:50 INFO: Weapon 2: 'EVA-2 AUTO' -> 'EVA-8 AUTO'
+16:30:50 INFO: 
+16:30:50 INFO: >>> Frame 000961
+16:30:51 INFO: Player name: 'TSM _ImperialHal' -> 'TSM_ImperialHa1'
+16:30:52 INFO: Weapon 1: 'R-99'
+16:30:52 INFO: Weapon 2: 'EV4-8 AUTO' -> 'EVA-8 AUTO'
+16:30:52 INFO: 
+16:30:52 INFO: >>> Frame 000962
+16:30:52 INFO: Can't find player name end icon
+16:30:52 INFO: 
+16:30:52 INFO: >>> Frame 000963
+16:30:52 INFO: Can't find player name end icon
+16:30:52 INFO: 
+16:30:52 INFO: >>> Frame 000964
+16:30:52 INFO: Can't find player name end icon
+16:30:52 INFO: 
+16:30:52 INFO: >>> Frame 000965
+16:30:53 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:30:54 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:54 INFO: Weapon 2: 'VOLT'
+16:30:54 INFO: 
+16:30:54 INFO: >>> Frame 000966
+16:30:55 INFO: Player name: 'NPLOMGRONNIE' -> 'NPL_OMGRONN1E'
+16:30:56 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:56 INFO: Weapon 2: 'VOLT'
+16:30:56 INFO: 
+16:30:56 INFO: >>> Frame 000967
+16:30:57 INFO: Player name: 'NPL OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:30:57 INFO: Weapon 1: 'EVA-8 AUTO'
+16:30:58 INFO: Weapon 2: 'VOLT'
+16:30:58 INFO: 
+16:30:58 INFO: >>> Frame 000968
+16:30:58 INFO: Can't find player name end icon
+16:30:58 INFO: 
+16:30:58 INFO: >>> Frame 000969
+16:30:59 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:30:59 INFO: Weapon 1: 'EVA-98 AUTO' -> 'EVA-8 AUTO'
+16:31:00 INFO: Weapon 2: 'VOLT'
+16:31:00 INFO: 
+16:31:00 INFO: >>> Frame 000970
+16:31:00 INFO: Player name: 'gcrook' -> 'qcrook'
+16:31:01 INFO: Weapon 1: 'CHARGE RIFLE'
+16:31:01 INFO: Weapon 2: 'MASTIFF'
+16:31:01 INFO: 
+16:31:01 INFO: >>> Frame 000971
+16:31:02 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:31:03 INFO: Weapon 1: 'EVA-8 AUTO'
+16:31:03 INFO: Weapon 2: 'VOLT'
+16:31:03 INFO: 
+16:31:03 INFO: >>> Frame 000972
+16:31:04 INFO: Player name: 'NPL OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:31:05 INFO: Weapon 1: 'EVA-8 AUTO'
+16:31:05 INFO: Weapon 2: 'VOLT'
+16:31:05 INFO: 
+16:31:05 INFO: >>> Frame 000973
+16:31:06 INFO: Unknown player: ' geraok' (best guess: 'qcrook', 0.57)
+16:31:06 INFO: 
+16:31:06 INFO: >>> Frame 000974
+16:31:06 INFO: Player name: 'HRN_Hill'
+16:31:07 INFO: Weapon 1: 'TRIPLE TAKE'
+16:31:07 INFO: Weapon 2: 'VOLT'
+16:31:07 INFO: 
+16:31:07 INFO: >>> Frame 000975
+16:31:08 INFO: Player name: 'HRN Hill' -> 'HRN_Hill'
+16:31:08 INFO: Weapon 1: 'TRIPLE TAKE'
+16:31:09 INFO: Weapon 2: 'VOLT'
+16:31:09 INFO: 
+16:31:09 INFO: >>> Frame 000976
+16:31:09 INFO: Player name: 'HRN_Hill'
+16:31:10 INFO: Weapon 1: 'TRIPLE TAKE'
+16:31:10 INFO: Weapon 2: 'VOLT'
+16:31:10 INFO: 
+16:31:10 INFO: >>> Frame 000977
+16:31:11 INFO: Player name: 'HRN_Hill'
+16:31:11 INFO: Weapon 1: 'TRIPLE TAKE'
+16:31:12 INFO: Weapon 2: 'VOLT'
+16:31:12 INFO: 
+16:31:12 INFO: >>> Frame 000978
+16:31:12 INFO: Player name: 'HRN Hill' -> 'HRN_Hill'
+16:31:13 INFO: Weapon 1: 'TRIPLE TAKE'
+16:31:13 INFO: Weapon 2: 'VOLT'
+16:31:13 INFO: 
+16:31:13 INFO: >>> Frame 000979
+16:31:14 INFO: Player name: 'HRN _Hill' -> 'HRN_Hill'
+16:31:14 INFO: Weapon 1: 'TRIPLE TAKE'
+16:31:15 INFO: Weapon 2: 'VOLT'
+16:31:15 INFO: 
+16:31:15 INFO: >>> Frame 000980
+16:31:15 INFO: Player name: 'HRN_Rkn'
+16:31:16 INFO: Weapon 1: 'SPITFIRE'
+16:31:16 INFO: Weapon 2: 'VOLT'
+16:31:16 INFO: 
+16:31:16 INFO: >>> Frame 000981
+16:31:17 INFO: Player name: 'HRN_Rkn'
+16:31:17 INFO: Weapon 1: 'SPITFIRE'
+16:31:18 INFO: Weapon 2: 'VOLT'
+16:31:18 INFO: 
+16:31:18 INFO: >>> Frame 000982
+16:31:19 INFO: Player name: 'HRN_Rkn'
+16:31:19 INFO: Weapon 1: 'SPITFIRE.' -> 'SPITFIRE'
+16:31:20 INFO: Weapon 2: 'VOLT'
+16:31:20 INFO: 
+16:31:20 INFO: >>> Frame 000983
+16:31:20 INFO: Player name: 'HRN_Rkn'
+16:31:21 INFO: Weapon 1: 'SPITFIRE'
+16:31:21 INFO: Weapon 2: 'VOLT'
+16:31:21 INFO: 
+16:31:21 INFO: >>> Frame 000984
+16:31:22 INFO: Player name: 'HRN_Rkn'
+16:31:22 INFO: Weapon 1: 'SPITFIRE'
+16:31:23 INFO: Weapon 2: 'VOLT'
+16:31:23 INFO: 
+16:31:23 INFO: >>> Frame 000985
+16:31:24 INFO: Player name: 'HRN_Rkn'
+16:31:24 INFO: Weapon 1: 'SPITFIRE'
+16:31:25 INFO: Weapon 2: 'VOLT'
+16:31:25 INFO: 
+16:31:25 INFO: >>> Frame 000986
+16:31:25 INFO: Player name: 'HRN_Rkn'
+16:31:26 INFO: Weapon 1: 'SPITFIRE'
+16:31:26 INFO: Weapon 2: 'VOLT'
+16:31:26 INFO: 
+16:31:26 INFO: >>> Frame 000987
+16:31:27 INFO: Player name: 'HRN_Rkn'
+16:31:27 INFO: Weapon 1: 'SPITFIRE'
+16:31:28 INFO: Weapon 2: 'VOLT'
+16:31:28 INFO: 
+16:31:28 INFO: >>> Frame 000988
+16:31:28 INFO: Player name: 'HRN_Rkn'
+16:31:29 INFO: Weapon 1: 'SPITFIRE'
+16:31:29 INFO: Weapon 2: 'VOLT'
+16:31:29 INFO: 
+16:31:29 INFO: >>> Frame 000989
+16:31:30 INFO: Player name: 'HRN_Rkn'
+16:31:31 INFO: Weapon 1: 'SPITFIRE'
+16:31:31 INFO: Weapon 2: 'VOLT'
+16:31:31 INFO: 
+16:31:31 INFO: >>> Frame 000990
+16:31:32 INFO: Player name: 'HRN_Rkn'
+16:31:32 INFO: Weapon 1: 'SPITFIRE'
+16:31:33 INFO: Weapon 2: 'VOLT'
+16:31:33 INFO: 
+16:31:33 INFO: >>> Frame 000991
+16:31:33 INFO: Player name: 'HRN_Rkn'
+16:31:34 INFO: Weapon 1: 'SPITFIRE'
+16:31:34 INFO: Weapon 2: 'VOLT'
+16:31:34 INFO: 
+16:31:34 INFO: >>> Frame 000992
+16:31:35 INFO: Player name: 'HRN_Rkn'
+16:31:35 INFO: Weapon 1: 'SPITFIRE'
+16:31:36 INFO: Weapon 2: 'VOLT'
+16:31:36 INFO: 
+16:31:36 INFO: >>> Frame 000993
+16:31:36 INFO: Player name: 'HRN_Rkn'
+16:31:37 INFO: Weapon 1: 'SPITFIRE'
+16:31:37 INFO: Weapon 2: 'VOLT'
+16:31:37 INFO: 
+16:31:37 INFO: >>> Frame 000994
+16:31:38 INFO: Player name: 'HRN _Rkn' -> 'HRN_Rkn'
+16:31:39 INFO: Weapon 1: 'SPITFIRE'
+16:31:39 INFO: Weapon 2: 'VOLT'
+16:31:39 INFO: 
+16:31:39 INFO: >>> Frame 000995
+16:31:40 INFO: Player name: 'HRN_Rkn'
+16:31:40 INFO: Weapon 1: 'SPITFIRE'
+16:31:41 INFO: Weapon 2: 'VOLT'
+16:31:41 INFO: 
+16:31:41 INFO: >>> Frame 000996
+16:31:41 INFO: Player name: 'Reps_TSM'
+16:31:42 INFO: Weapon 1: 'MASTIFF'
+16:31:42 INFO: Weapon 2: 'G7 SCOUT'
+16:31:42 INFO: 
+16:31:42 INFO: >>> Frame 000997
+16:31:43 INFO: Player name: '_Reps_TSM' -> 'Reps_TSM'
+16:31:43 INFO: Weapon 1: 'MASTIFF'
+16:31:44 INFO: Weapon 2: 'G7 SCOUT'
+16:31:44 INFO: 
+16:31:44 INFO: >>> Frame 000998
+16:31:45 INFO: Player name: 'Reps_TSM'
+16:31:45 INFO: Weapon 1: 'MASTIFF'
+16:31:46 INFO: Weapon 2: 'G7 SCOUT'
+16:31:46 INFO: 
+16:31:46 INFO: >>> Frame 000999
+16:31:46 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:31:47 INFO: Weapon 1: 'R-301'
+16:31:47 INFO: Weapon 2: 'EVA-8 AUTO'
+16:31:47 INFO: 
+16:31:47 INFO: >>> Frame 001000
+16:31:47 INFO: Can't find player name end icon
+16:31:47 INFO: 
+16:31:47 INFO: >>> Frame 001001
+16:31:48 INFO: Player name: 'HRN_Rkn'
+16:31:48 INFO: Weapon 1: 'SPITFIRE'
+16:31:49 INFO: Weapon 2: 'YOLT' -> 'VOLT'
+16:31:49 INFO: 
+16:31:49 INFO: >>> Frame 001002
+16:31:49 INFO: Player name: 'HRN_Rkn'
+16:31:50 INFO: Weapon 1: 'SPITFIRE:' -> 'SPITFIRE'
+16:31:50 INFO: Weapon 2: 'VOLT'
+16:31:50 INFO: 
+16:31:50 INFO: >>> Frame 001003
+16:31:51 INFO: Player name: 'HRN_Rkn'
+16:31:52 INFO: Weapon 1: '‘SPITFIRE' -> 'SPITFIRE'
+16:31:52 INFO: Weapon 2: 'VOLT'
+16:31:52 INFO: 
+16:31:52 INFO: >>> Frame 001004
+16:31:53 INFO: Player name: '-HRN_Rkn' -> 'HRN_Rkn'
+16:31:53 INFO: Weapon 1: 'SPITFIRE'
+16:31:54 INFO: Weapon 2: 'VOLT'
+16:31:54 INFO: 
+16:31:54 INFO: >>> Frame 001005
+16:31:54 INFO: Player name: 'HRN_Rkn'
+16:31:55 INFO: Weapon 1: 'SPITFIRE'
+16:31:55 INFO: Weapon 2: 'VOLT'
+16:31:55 INFO: 
+16:31:55 INFO: >>> Frame 001006
+16:31:56 INFO: Player name: 'HRN _Rkn' -> 'HRN_Rkn'
+16:31:56 INFO: Weapon 1: 'SPITFIRE'
+16:31:57 INFO: Weapon 2: 'VOLT'
+16:31:57 INFO: 
+16:31:57 INFO: >>> Frame 001007
+16:31:58 INFO: Player name: 'HRN_Rkn'
+16:31:58 INFO: Weapon 1: 'SPITFIRE'
+16:31:58 INFO: Weapon 2: 'VOLT'
+16:31:58 INFO: 
+16:31:58 INFO: >>> Frame 001008
+16:31:59 INFO: Player name: 'HRN_Rkn'
+16:32:00 INFO: Weapon 1: 'SPITFIRE'
+16:32:00 INFO: Weapon 2: 'VOLT'
+16:32:00 INFO: 
+16:32:00 INFO: >>> Frame 001009
+16:32:01 INFO: Player name: 'HRN_Rkn'
+16:32:01 INFO: Weapon 1: 'SPITFIRE'
+16:32:02 INFO: Weapon 2: 'VOLT'
+16:32:02 INFO: 
+16:32:02 INFO: >>> Frame 001010
+16:32:02 INFO: Player name: 'HRN_Rkn'
+16:32:03 INFO: Weapon 1: 'SPITFIRE'
+16:32:03 INFO: Weapon 2: 'VOLT'
+16:32:03 INFO: 
+16:32:03 INFO: >>> Frame 001011
+16:32:04 INFO: Player name: 'HRN_Rkn'
+16:32:04 INFO: Weapon 1: 'SPITFIRE'
+16:32:05 INFO: Weapon 2: 'VOLT'
+16:32:05 INFO: 
+16:32:05 INFO: >>> Frame 001012
+16:32:06 INFO: Player name: 'HRN _Rkn' -> 'HRN_Rkn'
+16:32:06 INFO: Weapon 1: 'SPITFIRE'
+16:32:07 INFO: Weapon 2: 'VOLT'
+16:32:07 INFO: 
+16:32:07 INFO: >>> Frame 001013
+16:32:07 INFO: Player name: 'HRN_Rkn'
+16:32:08 INFO: Weapon 1: 'SPITFIRE'
+16:32:08 INFO: Weapon 2: 'VOLT'
+16:32:08 INFO: 
+16:32:08 INFO: >>> Frame 001014
+16:32:09 INFO: Player name: 'ClaneSZN'
+16:32:09 INFO: Weapon 1: 'R-99'
+16:32:10 INFO: Weapon 2: 'FLATLINE'
+16:32:10 INFO: 
+16:32:10 INFO: >>> Frame 001015
+16:32:10 INFO: Player name: 'ClaneSZN'
+16:32:11 INFO: Weapon 1: 'R-99'
+16:32:11 INFO: Weapon 2: 'FLATLINE'
+16:32:11 INFO: 
+16:32:11 INFO: >>> Frame 001016
+16:32:12 INFO: Player name: 'ClaneSZN'
+16:32:12 INFO: Weapon 1: 'R-99'
+16:32:13 INFO: Weapon 2: 'FLATLINE'
+16:32:13 INFO: 
+16:32:13 INFO: >>> Frame 001017
+16:32:13 INFO: Player name: 'ClaneSZN'
+16:32:14 INFO: Weapon 1: 'R-99'
+16:32:14 INFO: Weapon 2: 'FLATLINE'
+16:32:14 INFO: 
+16:32:14 INFO: >>> Frame 001018
+16:32:15 INFO: Player name: 'ClaneSZN'
+16:32:16 INFO: Weapon 1: 'R-99'
+16:32:16 INFO: Weapon 2: 'FLATLINE'
+16:32:16 INFO: 
+16:32:16 INFO: >>> Frame 001019
+16:32:17 INFO: Player name: 'ClaneSZN'
+16:32:17 INFO: Weapon 1: 'R-99'
+16:32:18 INFO: Weapon 2: 'FLATLINE'
+16:32:18 INFO: 
+16:32:18 INFO: >>> Frame 001020
+16:32:19 INFO: Player name: '“ClaneSZN' -> 'ClaneSZN'
+16:32:19 INFO: Weapon 1: 'R-99'
+16:32:20 INFO: Weapon 2: 'FLATLINE'
+16:32:20 INFO: 
+16:32:20 INFO: >>> Frame 001021
+16:32:20 INFO: Can't find player name end icon
+16:32:20 INFO: 
+16:32:20 INFO: >>> Frame 001022
+16:32:20 INFO: Can't find player name end icon
+16:32:20 INFO: 
+16:32:20 INFO: >>> Frame 001023
+16:32:20 INFO: Player name: 'ClaneSZN'
+16:32:21 INFO: Weapon 1: 'R-99'
+16:32:21 INFO: Weapon 2: 'FLATLINE'
+16:32:21 INFO: 
+16:32:21 INFO: >>> Frame 001024
+16:32:22 INFO: Player name: 'ClaneSZN'
+16:32:22 INFO: Weapon 1: 'R-99'
+16:32:23 INFO: Weapon 2: 'FLATLINE'
+16:32:23 INFO: 
+16:32:23 INFO: >>> Frame 001025
+16:32:24 INFO: Player name: 'ClaneSZN'
+16:32:24 INFO: Weapon 1: 'R-99'
+16:32:25 INFO: Weapon 2: 'FLATLINE'
+16:32:25 INFO: 
+16:32:25 INFO: >>> Frame 001026
+16:32:25 INFO: Player name: 'ClaneSZN'
+16:32:26 INFO: Weapon 1: 'R-99'
+16:32:26 INFO: Weapon 2: 'FLATLINE'
+16:32:26 INFO: 
+16:32:26 INFO: >>> Frame 001027
+16:32:27 INFO: Player name: 'ClaneSZN'
+16:32:27 INFO: Weapon 1: 'R-99'
+16:32:28 INFO: Weapon 2: 'FLATLINE'
+16:32:28 INFO: 
+16:32:28 INFO: >>> Frame 001028
+16:32:28 INFO: Player name: 'ClaneSZN'
+16:32:29 INFO: Weapon 1: 'R-99'
+16:32:29 INFO: Weapon 2: 'FLATLINE'
+16:32:29 INFO: 
+16:32:29 INFO: >>> Frame 001029
+16:32:30 INFO: Player name: 'ClaneSZN'
+16:32:30 INFO: Weapon 1: 'R-99'
+16:32:31 INFO: Weapon 2: 'FLATLINE'
+16:32:31 INFO: 
+16:32:31 INFO: >>> Frame 001030
+16:32:31 INFO: Can't find player name end icon
+16:32:31 INFO: 
+16:32:31 INFO: >>> Frame 001031
+16:32:31 INFO: Can't find player name end icon
+16:32:31 INFO: 
+16:32:31 INFO: >>> Frame 001032
+16:32:31 INFO: Can't find player name end icon
+16:32:31 INFO: 
+16:32:31 INFO: >>> Frame 001033
+16:32:32 INFO: Player name: 'KeniFPS'
+16:32:32 INFO: Weapon 1: '30-30 REPEATER'
+16:32:33 INFO: Weapon 2: 'VOLT'
+16:32:33 INFO: 
+16:32:33 INFO: >>> Frame 001034
+16:32:33 INFO: Player name: 'COL FunFPs' -> 'COL_FunFPS'
+16:32:34 INFO: Weapon 1: 'SENTINEL'
+16:32:34 INFO: Weapon 2: 'R-99'
+16:32:34 INFO: 
+16:32:34 INFO: >>> Frame 001035
+16:32:35 INFO: Player name: 'KeniFPS'
+16:32:36 INFO: Weapon 1: '40-30 REPEATER' -> '30-30 REPEATER'
+16:32:36 INFO: Weapon 2: 'VOLT'
+16:32:36 INFO: 
+16:32:36 INFO: >>> Frame 001036
+16:32:37 INFO: Player name: 'ClaneSZN'
+16:32:37 INFO: Weapon 1: 'R-99'
+16:32:38 INFO: Weapon 2: 'FLATLINE'
+16:32:38 INFO: 
+16:32:38 INFO: >>> Frame 001037
+16:32:38 INFO: Player name: 'Claneszn' -> 'ClaneSZN'
+16:32:39 INFO: Weapon 1: 'R-99'
+16:32:39 INFO: Weapon 2: 'FLATLINE'
+16:32:39 INFO: 
+16:32:39 INFO: >>> Frame 001038
+16:32:40 INFO: Player name: "'ClarieSZN." -> 'ClaneSZN'
+16:32:40 INFO: Weapon 1: 'R-99'
+16:32:41 INFO: Weapon 2: 'FLATLINE'
+16:32:41 INFO: 
+16:32:41 INFO: >>> Frame 001039
+16:32:42 INFO: Player name: 'ClaneSZN'
+16:32:42 INFO: Weapon 1: 'R-99'
+16:32:43 INFO: Weapon 2: 'FLATLINE'
+16:32:43 INFO: 
+16:32:43 INFO: >>> Frame 001040
+16:32:43 INFO: Player name: 'ClaneSZN'
+16:32:44 INFO: Weapon 1: 'R-99'
+16:32:44 INFO: Weapon 2: 'FLATLINE'
+16:32:44 INFO: 
+16:32:44 INFO: >>> Frame 001041
+16:32:45 INFO: Player name: 'ClaneSZN'
+16:32:45 INFO: Weapon 1: 'R-99'
+16:32:46 INFO: Weapon 2: 'FLATLINE'
+16:32:46 INFO: 
+16:32:46 INFO: >>> Frame 001042
+16:32:46 INFO: Player name: 'ClaneSZN'
+16:32:47 INFO: Weapon 1: 'R-99'
+16:32:47 INFO: Weapon 2: 'FLATLINE'
+16:32:47 INFO: 
+16:32:47 INFO: >>> Frame 001043
+16:32:48 INFO: Player name: 'ClaneSZN'
+16:32:48 INFO: Weapon 1: 'R-99'
+16:32:49 INFO: Weapon 2: 'FLATLINE'
+16:32:49 INFO: 
+16:32:49 INFO: >>> Frame 001044
+16:32:50 INFO: Player name: 'ClaneSZN'
+16:32:50 INFO: Weapon 1: 'R-99'
+16:32:51 INFO: Weapon 2: 'FLATLINE'
+16:32:51 INFO: 
+16:32:51 INFO: >>> Frame 001045
+16:32:51 INFO: Player name: 'ClaneSZN'
+16:32:52 INFO: Weapon 1: 'R-99'
+16:32:52 INFO: Weapon 2: 'FLATLINE'
+16:32:52 INFO: 
+16:32:52 INFO: >>> Frame 001046
+16:32:53 INFO: Player name: 'ClaneSZN'
+16:32:53 INFO: Weapon 1: 'R-99'
+16:32:54 INFO: Weapon 2: 'FLATLINE'
+16:32:54 INFO: 
+16:32:54 INFO: >>> Frame 001047
+16:32:55 INFO: Player name: 'ClaneSZN'
+16:32:55 INFO: Weapon 1: 'R-99'
+16:32:56 INFO: Weapon 2: 'FLATLINE'
+16:32:56 INFO: 
+16:32:56 INFO: >>> Frame 001048
+16:32:57 INFO: Player name: '-COL_FunFPs' -> 'COL_FunFPS'
+16:32:57 INFO: Weapon 1: 'SENTINEL'
+16:32:58 INFO: Weapon 2: 'R-99'
+16:32:58 INFO: 
+16:32:58 INFO: >>> Frame 001049
+16:32:58 INFO: Player name: '-COL_FunFPs' -> 'COL_FunFPS'
+16:32:59 INFO: Weapon 1: 'SENTINEL'
+16:32:59 INFO: Weapon 2: 'R-99'
+16:32:59 INFO: 
+16:32:59 INFO: >>> Frame 001050
+16:33:00 INFO: Player name: 'COL_FunFPS'
+16:33:00 INFO: Weapon 1: 'SENTINEL'
+16:33:01 INFO: Weapon 2: 'R-99'
+16:33:01 INFO: 
+16:33:01 INFO: >>> Frame 001051
+16:33:02 INFO: Player name: 'CLG ImMadness'
+16:33:02 INFO: Weapon 1: 'R-99'
+16:33:03 INFO: Weapon 2: 'EVA-8 AUTO'
+16:33:03 INFO: 
+16:33:03 INFO: >>> Frame 001052
+16:33:04 INFO: Player name: 'CLG ImMadness'
+16:33:05 INFO: Weapon 2: 'EVA-8 AUTO'
+16:33:05 INFO: 
+16:33:05 INFO: >>> Frame 001053
+16:33:06 INFO: Player name: '“CLG ImMadness' -> 'CLG ImMadness'
+16:33:06 INFO: Weapon 1: 'R-99'
+16:33:07 INFO: Weapon 2: 'EVA-8 AUTO'
+16:33:07 INFO: 
+16:33:07 INFO: >>> Frame 001054
+16:33:08 INFO: Player name: 'COLI' -> 'COL_Iou'
+16:33:09 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:33:09 INFO: 
+16:33:09 INFO: >>> Frame 001055
+16:33:09 INFO: Player name: 'COL lou' -> 'COL_Iou'
+16:33:10 INFO: Weapon 2: 'FLATLINE'
+16:33:10 INFO: 
+16:33:10 INFO: >>> Frame 001056
+16:33:11 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:33:11 INFO: Weapon 1: 'WINGMAN'
+16:33:12 INFO: Weapon 2: 'EVA-8 AUTO'
+16:33:12 INFO: 
+16:33:12 INFO: >>> Frame 001057
+16:33:12 INFO: Can't find player name end icon
+16:33:12 INFO: 
+16:33:12 INFO: >>> Frame 001058
+16:33:12 INFO: Can't find player name end icon
+16:33:12 INFO: 
+16:33:12 INFO: >>> Frame 001059
+16:33:12 INFO: Can't find player name end icon
+16:33:12 INFO: 
+16:33:12 INFO: >>> Frame 001060
+16:33:13 INFO: Player name: 'CLG ImMadness'
+16:33:13 INFO: Weapon 1: 'WINGMAN'
+16:33:14 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:33:14 INFO: 
+16:33:14 INFO: >>> Frame 001061
+16:33:15 INFO: Player name: 'CLG ImMadness'
+16:33:15 INFO: Weapon 1: 'WINGMAN'
+16:33:16 INFO: Weapon 2: 'EVA-8 AUTO'
+16:33:16 INFO: 
+16:33:16 INFO: >>> Frame 001062
+16:33:17 INFO: Player name: 'CLG ImMadness'
+16:33:18 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:33:18 INFO: 
+16:33:18 INFO: >>> Frame 001063
+16:33:19 INFO: Player name: 'CLG ImMadness'
+16:33:19 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:33:19 INFO: 
+16:33:19 INFO: >>> Frame 001064
+16:33:20 INFO: Player name: 'COL_lou' -> 'COL_Iou'
+16:33:21 INFO: Weapon 1: 'G7 SCOUT'
+16:33:21 INFO: Weapon 2: 'FLATLINE'
+16:33:21 INFO: 
+16:33:21 INFO: >>> Frame 001065
+16:33:22 INFO: Player name: '_COL_lou' -> 'COL_Iou'
+16:33:22 INFO: Weapon 1: 'G7 SCOUT'
+16:33:22 INFO: Weapon 2: 'FLATLINE'
+16:33:22 INFO: 
+16:33:22 INFO: >>> Frame 001066
+16:33:23 INFO: Player name: ',COL_lou' -> 'COL_Iou'
+16:33:23 INFO: Weapon 1: 'G7 SCOUT'
+16:33:24 INFO: Weapon 2: 'FLATLINE'
+16:33:24 INFO: 
+16:33:24 INFO: >>> Frame 001067
+16:33:24 INFO: Player name: 'COL_ou' -> 'COL_Iou'
+16:33:25 INFO: Weapon 1: 'G7 SCOUT'
+16:33:25 INFO: Weapon 2: 'FLATLINE'
+16:33:25 INFO: 
+16:33:25 INFO: >>> Frame 001068
+16:33:26 INFO: Player name: ',COL_lou' -> 'COL_Iou'
+16:33:26 INFO: Weapon 1: 'G7 SCOUT'
+16:33:27 INFO: Weapon 2: 'FLATLINE'
+16:33:27 INFO: 
+16:33:27 INFO: >>> Frame 001069
+16:33:27 INFO: Player name: 'COL Jou' -> 'COL_Iou'
+16:33:27 INFO: Weapon 1: 'G7 SCOUT'
+16:33:28 INFO: Weapon 2: 'FLATLINE'
+16:33:28 INFO: 
+16:33:28 INFO: >>> Frame 001070
+16:33:28 INFO: Player name: 'StinkTV'
+16:33:29 INFO: Weapon 1: 'EVA-d AUTH' -> 'EVA-8 AUTO'
+16:33:29 INFO: Weapon 2: 'R-301'
+16:33:29 INFO: 
+16:33:29 INFO: >>> Frame 001071
+16:33:30 INFO: Player name: 'Kotigami'
+16:33:30 INFO: Weapon 1: 'EVA-S AUTO' -> 'EVA-8 AUTO'
+16:33:31 INFO: Weapon 2: 'R-301'
+16:33:31 INFO: 
+16:33:31 INFO: >>> Frame 001072
+16:33:31 INFO: Player name: 'MrGreekGodTTV'
+16:33:32 INFO: Weapon 1: 'VOLT'
+16:33:32 INFO: Weapon 2: 'TRIPLE TAKE'
+16:33:32 INFO: 
+16:33:32 INFO: >>> Frame 001073
+16:33:33 INFO: Player name: 'MrGreekGodTTV'
+16:33:33 INFO: Weapon 1: 'VOLT'
+16:33:34 INFO: Weapon 2: 'TRIPLE TAKE'
+16:33:34 INFO: 
+16:33:34 INFO: >>> Frame 001074
+16:33:34 INFO: Player name: 'Kotigami'
+16:33:35 INFO: Weapon 1: 'G7? SCOUT' -> 'G7 SCOUT'
+16:33:35 INFO: Weapon 2: 'FLATLINE'
+16:33:35 INFO: 
+16:33:35 INFO: >>> Frame 001075
+16:33:36 INFO: Player name: 'Kotigami'
+16:33:36 INFO: Weapon 1: 'G7 SEOUT' -> 'G7 SCOUT'
+16:33:37 INFO: Weapon 2: 'FLATLINE'
+16:33:37 INFO: 
+16:33:37 INFO: >>> Frame 001076
+16:33:37 INFO: Player name: 'Kotigami'
+16:33:38 INFO: Weapon 1: 'G7? SCOUT' -> 'G7 SCOUT'
+16:33:38 INFO: Weapon 2: 'FLATLINE'
+16:33:38 INFO: 
+16:33:38 INFO: >>> Frame 001077
+16:33:39 INFO: Player name: 'MrGreekGodTTV'
+16:33:39 INFO: Weapon 1: 'VOLT'
+16:33:40 INFO: Weapon 2: 'TRIPLE TAKE'
+16:33:40 INFO: 
+16:33:40 INFO: >>> Frame 001078
+16:33:41 INFO: 
+16:33:41 INFO: >>> Frame 001079
+16:33:41 INFO: Can't find player name end icon
+16:33:41 INFO: 
+16:33:41 INFO: >>> Frame 001080
+16:33:41 INFO: Can't find player name end icon
+16:33:41 INFO: 
+16:33:41 INFO: >>> Frame 001081
+16:33:41 INFO: Can't find player name end icon
+16:33:41 INFO: 
+16:33:41 INFO: >>> Frame 001082
+16:33:41 INFO: Can't find player name end icon
+16:33:41 INFO: 
+16:33:41 INFO: >>> Frame 001083
+16:33:42 INFO: Player name: 'Kotigami'
+16:33:42 INFO: Weapon 1: 'G7 SCOUT'
+16:33:42 INFO: Weapon 2: 'FLATLINE'
+16:33:42 INFO: 
+16:33:42 INFO: >>> Frame 001084
+16:33:43 INFO: Player name: 'Kotigam|' -> 'Kotigami'
+16:33:43 INFO: Weapon 1: 'G7 SCOUT'
+16:33:44 INFO: Weapon 2: 'FLATLINE'
+16:33:44 INFO: 
+16:33:44 INFO: >>> Frame 001085
+16:33:44 INFO: Player name: 'Kotigami'
+16:33:45 INFO: Weapon 1: 'G? SCOUT' -> 'G7 SCOUT'
+16:33:45 INFO: Weapon 2: 'FLATLINE'
+16:33:45 INFO: 
+16:33:45 INFO: >>> Frame 001086
+16:33:46 INFO: Player name: 'MrGreaekGodTTVv' -> 'MrGreekGodTTV'
+16:33:47 INFO: Weapon 1: 'VOLT'
+16:33:47 INFO: Weapon 2: 'TRIPLE TAKE'
+16:33:47 INFO: 
+16:33:47 INFO: >>> Frame 001087
+16:33:48 INFO: Player name: 'MrGreekGodTTV'
+16:33:48 INFO: Weapon 1: 'VOLT'
+16:33:49 INFO: Weapon 2: 'TRIPLE TAKE'
+16:33:49 INFO: 
+16:33:49 INFO: >>> Frame 001088
+16:33:49 INFO: Player name: 'StinkTV'
+16:33:50 INFO: Weapon 1: 'EVA-8 AUTO'
+16:33:50 INFO: Weapon 2: 'R-301'
+16:33:50 INFO: 
+16:33:50 INFO: >>> Frame 001089
+16:33:50 INFO: Player name: 'StinkTV'
+16:33:51 INFO: Weapon 1: 'EVA-8 AUTO'
+16:33:51 INFO: Weapon 2: 'R-301'
+16:33:51 INFO: 
+16:33:51 INFO: >>> Frame 001090
+16:33:52 INFO: Player name: 'MrGreekGodTTV'
+16:33:52 INFO: Weapon 1: 'EVA-8 AUTO'
+16:33:53 INFO: Weapon 2: 'R-301'
+16:33:53 INFO: 
+16:33:53 INFO: >>> Frame 001091
+16:33:53 INFO: Player name: 'Kotigami'
+16:33:54 INFO: Weapon 1: 'G7 SCOUT'
+16:33:54 INFO: Weapon 2: 'FLATLINE'
+16:33:54 INFO: 
+16:33:54 INFO: >>> Frame 001092
+16:33:55 INFO: Player name: 'Kotigami'
+16:33:55 INFO: Weapon 1: 'G7 SCOUT'
+16:33:56 INFO: Weapon 2: 'FLATLINE'
+16:33:56 INFO: 
+16:33:56 INFO: >>> Frame 001093
+16:33:56 INFO: Player name: 'Kotigami'
+16:33:57 INFO: Weapon 1: 'G7 SCOUT'
+16:33:57 INFO: Weapon 2: 'FLATLINE'
+16:33:57 INFO: 
+16:33:57 INFO: >>> Frame 001094
+16:33:58 INFO: Player name: 'Kotigami'
+16:33:58 INFO: Weapon 1: 'G7 SCOUT'
+16:33:59 INFO: Weapon 2: 'FLATLINE'
+16:33:59 INFO: 
+16:33:59 INFO: >>> Frame 001095
+16:33:59 INFO: Player name: 'Kotigami'
+16:34:00 INFO: Weapon 1: 'G7 SCOUT'
+16:34:00 INFO: Weapon 2: 'FLATLINE'
+16:34:00 INFO: 
+16:34:00 INFO: >>> Frame 001096
+16:34:01 INFO: Player name: 'Kotigami'
+16:34:01 INFO: Weapon 1: 'G7 SCOUT'
+16:34:02 INFO: Weapon 2: 'FLATLINE'
+16:34:02 INFO: 
+16:34:02 INFO: >>> Frame 001097
+16:34:02 INFO: Player name: 'Kotigami'
+16:34:03 INFO: Weapon 1: 'G7 SCOUT'
+16:34:03 INFO: Weapon 2: 'FLATLINE'
+16:34:03 INFO: 
+16:34:03 INFO: >>> Frame 001098
+16:34:04 INFO: Player name: 'StinkTV'
+16:34:04 INFO: Weapon 1: 'G7 SCOUT'
+16:34:04 INFO: Weapon 2: 'FLATLINE'
+16:34:04 INFO: 
+16:34:04 INFO: >>> Frame 001099
+16:34:04 INFO: Can't find player name end icon
+16:34:04 INFO: 
+16:34:04 INFO: >>> Frame 001100
+16:34:05 INFO: Can't find player name end icon
+16:34:05 INFO: 
+16:34:05 INFO: >>> Frame 001101
+16:34:05 INFO: Player name: 'MrGreekGodTTV'
+16:34:06 INFO: Weapon 1: 'VOLT'
+16:34:06 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:06 INFO: 
+16:34:06 INFO: >>> Frame 001102
+16:34:07 INFO: Player name: 'Kotigami'
+16:34:07 INFO: Weapon 1: 'G7 SCOUT'
+16:34:08 INFO: Weapon 2: 'FLATLINE'
+16:34:08 INFO: 
+16:34:08 INFO: >>> Frame 001103
+16:34:08 INFO: Player name: 'Kotigami'
+16:34:09 INFO: Weapon 1: 'G7? SCOUT' -> 'G7 SCOUT'
+16:34:09 INFO: Weapon 2: 'FLATLINE'
+16:34:09 INFO: 
+16:34:09 INFO: >>> Frame 001104
+16:34:10 INFO: Player name: 'Kotigami'
+16:34:11 INFO: Weapon 1: 'G7 SCOUT'
+16:34:11 INFO: Weapon 2: 'FLATLINE'
+16:34:11 INFO: 
+16:34:11 INFO: >>> Frame 001105
+16:34:12 INFO: Player name: 'MrGraaskGodTTV' -> 'MrGreekGodTTV'
+16:34:13 INFO: Weapon 1: 'VOLT'
+16:34:13 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:13 INFO: 
+16:34:13 INFO: >>> Frame 001106
+16:34:14 INFO: Player name: 'MrGreekGodTTV'
+16:34:15 INFO: Weapon 1: 'VOLT'
+16:34:15 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:15 INFO: 
+16:34:15 INFO: >>> Frame 001107
+16:34:16 INFO: Player name: 'MrGreekGodTTV'
+16:34:17 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:17 INFO: 
+16:34:17 INFO: >>> Frame 001108
+16:34:18 INFO: Player name: 'MrGreekGodTTV'
+16:34:18 INFO: Weapon 1: 'VOLT'
+16:34:19 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:19 INFO: 
+16:34:19 INFO: >>> Frame 001109
+16:34:20 INFO: Player name: 'MrGreekGodTTV'
+16:34:20 INFO: Weapon 1: 'VOLT'
+16:34:21 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:21 INFO: 
+16:34:21 INFO: >>> Frame 001110
+16:34:21 INFO: Player name: 'Kotigami'
+16:34:22 INFO: Weapon 1: 'G7 SCOUT'
+16:34:22 INFO: Weapon 2: 'FLATLINE'
+16:34:22 INFO: 
+16:34:22 INFO: >>> Frame 001111
+16:34:23 INFO: Player name: 'Kotigami'
+16:34:23 INFO: Weapon 1: 'G7 SCOUT'
+16:34:24 INFO: Weapon 2: 'FLATLINE'
+16:34:24 INFO: 
+16:34:24 INFO: >>> Frame 001112
+16:34:24 INFO: Player name: 'Kotigami'
+16:34:25 INFO: Weapon 1: 'G7 SCOUT'
+16:34:25 INFO: Weapon 2: 'FLATLINE'
+16:34:25 INFO: 
+16:34:25 INFO: >>> Frame 001113
+16:34:26 INFO: Player name: 'Kotigami'
+16:34:26 INFO: Weapon 1: 'G7 SCOUT'
+16:34:27 INFO: Weapon 2: 'FLATLINE'
+16:34:27 INFO: 
+16:34:27 INFO: >>> Frame 001114
+16:34:27 INFO: Player name: 'Kotigami'
+16:34:28 INFO: Weapon 1: 'G7 SCOUT'
+16:34:29 INFO: Weapon 2: 'FLATLINE'
+16:34:29 INFO: 
+16:34:29 INFO: >>> Frame 001115
+16:34:29 INFO: Player name: 'Kotigami'
+16:34:30 INFO: Weapon 1: 'G? SCOUT' -> 'G7 SCOUT'
+16:34:31 INFO: Weapon 2: 'FLATLINE'
+16:34:31 INFO: 
+16:34:31 INFO: >>> Frame 001116
+16:34:32 INFO: Player name: 'MrGreekGodTTV'
+16:34:32 INFO: Weapon 1: 'VOLT'
+16:34:33 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:33 INFO: 
+16:34:33 INFO: >>> Frame 001117
+16:34:34 INFO: Player name: 'MrGreekGodTTV'
+16:34:34 INFO: Weapon 1: 'VOLT'
+16:34:35 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:35 INFO: 
+16:34:35 INFO: >>> Frame 001118
+16:34:35 INFO: Player name: 'MrGreekGodTTV'
+16:34:36 INFO: Weapon 1: 'VOLT'
+16:34:36 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:36 INFO: 
+16:34:36 INFO: >>> Frame 001119
+16:34:37 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
+16:34:38 INFO: Weapon 1: 'VOLT'
+16:34:38 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:38 INFO: 
+16:34:38 INFO: >>> Frame 001120
+16:34:39 INFO: Player name: 'MrGreekGodTTV'
+16:34:40 INFO: Weapon 1: 'VOLT'
+16:34:40 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:40 INFO: 
+16:34:40 INFO: >>> Frame 001121
+16:34:41 INFO: Player name: 'MrGreekGodTTV'
+16:34:42 INFO: Weapon 1: 'VOLT'
+16:34:42 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:42 INFO: 
+16:34:42 INFO: >>> Frame 001122
+16:34:43 INFO: Player name: 'MrGreekGooTTV' -> 'MrGreekGodTTV'
+16:34:44 INFO: Weapon 1: 'VOLT'
+16:34:44 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:44 INFO: 
+16:34:44 INFO: >>> Frame 001123
+16:34:45 INFO: Player name: 'MrGreekGodTTV'
+16:34:46 INFO: Weapon 1: 'VOLT'
+16:34:47 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:47 INFO: 
+16:34:47 INFO: >>> Frame 001124
+16:34:47 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
+16:34:48 INFO: Weapon 1: 'VOLT'
+16:34:48 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:48 INFO: 
+16:34:48 INFO: >>> Frame 001125
+16:34:49 INFO: Player name: 'MrGreekGodTTV'
+16:34:50 INFO: Weapon 1: 'VOLT'
+16:34:50 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:50 INFO: 
+16:34:50 INFO: >>> Frame 001126
+16:34:51 INFO: Player name: 'MrGreekGodTTV'
+16:34:52 INFO: Weapon 1: 'VOLT'
+16:34:52 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:34:52 INFO: 
+16:34:52 INFO: >>> Frame 001127
+16:34:53 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
+16:34:53 INFO: Weapon 1: 'VOLT'
+16:34:54 INFO: Weapon 2: 'TRIPLE TAKE'
+16:34:54 INFO: 
+16:34:54 INFO: >>> Frame 001128
+16:34:54 INFO: Player name: 'Kotigami'
+16:34:55 INFO: Weapon 1: 'G7 SCOUT'
+16:34:55 INFO: Weapon 2: 'FLATLINE'
+16:34:55 INFO: 
+16:34:55 INFO: >>> Frame 001129
+16:34:56 INFO: Player name: 'Kotigami'
+16:34:57 INFO: Weapon 1: 'G? SCOUT' -> 'G7 SCOUT'
+16:34:57 INFO: Weapon 2: 'FLATLINE'
+16:34:57 INFO: 
+16:34:57 INFO: >>> Frame 001130
+16:34:58 INFO: Player name: 'Kotigami'
+16:34:58 INFO: Weapon 1: 'G7 SCOUT'
+16:34:59 INFO: Weapon 2: 'FLATLINE'
+16:34:59 INFO: 
+16:34:59 INFO: >>> Frame 001131
+16:35:00 INFO: Player name: 'Kotigami'
+16:35:00 INFO: Weapon 1: 'G? SCOUT' -> 'G7 SCOUT'
+16:35:01 INFO: Weapon 2: 'FLATLINE'
+16:35:01 INFO: 
+16:35:01 INFO: >>> Frame 001132
+16:35:01 INFO: Can't find player name end icon
+16:35:01 INFO: 
+16:35:01 INFO: >>> Frame 001133
+16:35:01 INFO: Can't find player name end icon
+16:35:01 INFO: 
+16:35:01 INFO: >>> Frame 001134
+16:35:01 INFO: Player name: 'StinkTV'
+16:35:02 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:02 INFO: Weapon 2: 'R-301'
+16:35:02 INFO: 
+16:35:02 INFO: >>> Frame 001135
+16:35:03 INFO: Player name: '- StinkTV' -> 'StinkTV'
+16:35:03 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:04 INFO: Weapon 2: 'R-301'
+16:35:04 INFO: 
+16:35:04 INFO: >>> Frame 001136
+16:35:04 INFO: Player name: 'StinkTV'
+16:35:05 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:05 INFO: Weapon 2: 'R-301'
+16:35:05 INFO: 
+16:35:05 INFO: >>> Frame 001137
+16:35:06 INFO: Player name: 'otinkTV' -> 'StinkTV'
+16:35:06 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:07 INFO: Weapon 2: 'R-301'
+16:35:07 INFO: 
+16:35:07 INFO: >>> Frame 001138
+16:35:07 INFO: Player name: 'StinkTV'
+16:35:07 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:08 INFO: Weapon 2: 'R-301'
+16:35:08 INFO: 
+16:35:08 INFO: >>> Frame 001139
+16:35:08 INFO: Player name: 'stinkTV' -> 'StinkTV'
+16:35:09 INFO: Weapon 1: 'EVA-8 ALTO' -> 'EVA-8 AUTO'
+16:35:09 INFO: Weapon 2: 'R-301'
+16:35:09 INFO: 
+16:35:09 INFO: >>> Frame 001140
+16:35:10 INFO: Player name: 'StinkTV'
+16:35:10 INFO: Weapon 1: 'EVA-8 ALTO' -> 'EVA-8 AUTO'
+16:35:11 INFO: Weapon 2: 'R-301'
+16:35:11 INFO: 
+16:35:11 INFO: >>> Frame 001141
+16:35:11 INFO: Player name: 'StinkTV'
+16:35:12 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:12 INFO: Weapon 2: 'R-301'
+16:35:12 INFO: 
+16:35:12 INFO: >>> Frame 001142
+16:35:13 INFO: Player name: 'Kotigami'
+16:35:13 INFO: Weapon 1: 'G7 SCOUT'
+16:35:14 INFO: Weapon 2: 'FLATLINE'
+16:35:14 INFO: 
+16:35:14 INFO: >>> Frame 001143
+16:35:14 INFO: Player name: 'Kotigami'
+16:35:15 INFO: Weapon 1: 'G7 SCOUT'
+16:35:15 INFO: Weapon 2: 'FLATLINE'
+16:35:15 INFO: 
+16:35:15 INFO: >>> Frame 001144
+16:35:16 INFO: Player name: 'Kotigami'
+16:35:16 INFO: Weapon 1: 'G7? SCOUT' -> 'G7 SCOUT'
+16:35:17 INFO: Weapon 2: 'FLATLINE'
+16:35:17 INFO: 
+16:35:17 INFO: >>> Frame 001145
+16:35:17 INFO: Player name: 'Kotigami'
+16:35:18 INFO: Weapon 1: 'G7 SCOUT'
+16:35:18 INFO: Weapon 2: 'FLATLINE'
+16:35:18 INFO: 
+16:35:18 INFO: >>> Frame 001146
+16:35:19 INFO: Player name: 'Kotigami'
+16:35:19 INFO: Weapon 1: 'G7 SCOUT'
+16:35:20 INFO: Weapon 2: 'FLATLINE'
+16:35:20 INFO: 
+16:35:20 INFO: >>> Frame 001147
+16:35:20 INFO: Player name: 'StinkTV'
+16:35:21 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:21 INFO: Weapon 2: 'R-301'
+16:35:21 INFO: 
+16:35:21 INFO: >>> Frame 001148
+16:35:22 INFO: Player name: 'StinkTV'
+16:35:22 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:23 INFO: Weapon 2: 'R-301'
+16:35:23 INFO: 
+16:35:23 INFO: >>> Frame 001149
+16:35:23 INFO: Player name: 'StinkTV'
+16:35:24 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:25 INFO: Weapon 2: 'R-301'
+16:35:25 INFO: 
+16:35:25 INFO: >>> Frame 001150
+16:35:25 INFO: Player name: 'StinkTV'
+16:35:26 INFO: Weapon 1: 'EVA-98 AUTO' -> 'EVA-8 AUTO'
+16:35:26 INFO: Weapon 2: 'R-301'
+16:35:26 INFO: 
+16:35:26 INFO: >>> Frame 001151
+16:35:27 INFO: Player name: 'StinkTV'
+16:35:27 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:28 INFO: Weapon 2: 'R-301'
+16:35:28 INFO: 
+16:35:28 INFO: >>> Frame 001152
+16:35:28 INFO: Player name: 'otinkTV' -> 'StinkTV'
+16:35:29 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:29 INFO: Weapon 2: 'R-301'
+16:35:29 INFO: 
+16:35:29 INFO: >>> Frame 001153
+16:35:30 INFO: Player name: 'stinkTV' -> 'StinkTV'
+16:35:30 INFO: Weapon 1: 'G7 SCOUT'
+16:35:31 INFO: Weapon 2: 'FLATLINE'
+16:35:31 INFO: 
+16:35:31 INFO: >>> Frame 001154
+16:35:31 INFO: Player name: 'Kotigami'
+16:35:32 INFO: Weapon 1: 'G7 SCOUT'
+16:35:32 INFO: Weapon 2: 'FLATLINE'
+16:35:32 INFO: 
+16:35:32 INFO: >>> Frame 001155
+16:35:33 INFO: Player name: 'Kotigami'
+16:35:33 INFO: Weapon 1: 'G7 SCOUT'
+16:35:34 INFO: Weapon 2: 'FLATLINE'
+16:35:34 INFO: 
+16:35:34 INFO: >>> Frame 001156
+16:35:35 INFO: 
+16:35:35 INFO: >>> Frame 001157
+16:35:36 INFO: Player name: 'StinkTV'
+16:35:36 INFO: Weapon 1: 'VOLT'
+16:35:36 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:36 INFO: 
+16:35:36 INFO: >>> Frame 001158
+16:35:37 INFO: Player name: 'StinkTV'
+16:35:37 INFO: Weapon 1: 'VOLT'
+16:35:38 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:38 INFO: 
+16:35:38 INFO: >>> Frame 001159
+16:35:39 INFO: 
+16:35:39 INFO: >>> Frame 001160
+16:35:39 INFO: Player name: 'otinkTV' -> 'StinkTV'
+16:35:40 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:40 INFO: Weapon 2: 'R-301'
+16:35:40 INFO: 
+16:35:40 INFO: >>> Frame 001161
+16:35:41 INFO: Player name: 'StinkTV'
+16:35:41 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:42 INFO: Weapon 2: 'R-301'
+16:35:42 INFO: 
+16:35:42 INFO: >>> Frame 001162
+16:35:42 INFO: Player name: 'StinkTV'
+16:35:43 INFO: Weapon 1: 'EVA-8 AUTO'
+16:35:43 INFO: Weapon 2: 'R-301'
+16:35:43 INFO: 
+16:35:43 INFO: >>> Frame 001163
+16:35:44 INFO: Player name: 'MrGreekGodTTV'
+16:35:45 INFO: Weapon 1: 'VOLT'
+16:35:45 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:45 INFO: 
+16:35:45 INFO: >>> Frame 001164
+16:35:46 INFO: Player name: 'MrGreekGodTTV'
+16:35:46 INFO: Weapon 1: 'VOLT'
+16:35:47 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:47 INFO: 
+16:35:47 INFO: >>> Frame 001165
+16:35:48 INFO: Player name: 'MrGreekGodTTV'
+16:35:48 INFO: Weapon 1: '‘VOLT' -> 'VOLT'
+16:35:49 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:49 INFO: 
+16:35:49 INFO: >>> Frame 001166
+16:35:50 INFO: Player name: 'MrGreekGodTTV'
+16:35:50 INFO: Weapon 1: 'VOLT'
+16:35:51 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:51 INFO: 
+16:35:51 INFO: >>> Frame 001167
+16:35:52 INFO: Player name: 'MrGreekGodTTV'
+16:35:52 INFO: Weapon 1: 'VOLT'
+16:35:53 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:53 INFO: 
+16:35:53 INFO: >>> Frame 001168
+16:35:54 INFO: Player name: 'MrGreekGodTTV'
+16:35:54 INFO: Weapon 1: 'VOLT'
+16:35:55 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:35:55 INFO: 
+16:35:55 INFO: >>> Frame 001169
+16:35:55 INFO: Player name: 'MrGreekGodTTV'
+16:35:56 INFO: Weapon 1: 'VOLT'
+16:35:56 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:56 INFO: 
+16:35:56 INFO: >>> Frame 001170
+16:35:57 INFO: Player name: 'MrGreekGodTTV'
+16:35:58 INFO: Weapon 1: 'VOLT'
+16:35:58 INFO: Weapon 2: 'TRIPLE TAKE'
+16:35:58 INFO: 
+16:35:58 INFO: >>> Frame 001171
+16:35:59 INFO: Can't find player name end icon
+16:35:59 INFO: 
+16:35:59 INFO: >>> Frame 001172
+16:35:59 INFO: Can't find player name end icon
+16:35:59 INFO: 
+16:35:59 INFO: >>> Frame 001173
+16:35:59 INFO: Player name: 'Kotigami'
+16:36:00 INFO: Weapon 1: 'G7 SCOUT'
+16:36:00 INFO: Weapon 2: 'FLATLINE'
+16:36:00 INFO: 
+16:36:00 INFO: >>> Frame 001174
+16:36:01 INFO: Player name: 'Kotigami'
+16:36:01 INFO: Weapon 1: 'G7 SCOUT'
+16:36:02 INFO: Weapon 2: 'FLATLINE'
+16:36:02 INFO: 
+16:36:02 INFO: >>> Frame 001175
+16:36:02 INFO: Player name: 'Kotigami'
+16:36:03 INFO: Weapon 1: 'G7 SCOUT'
+16:36:04 INFO: Weapon 2: 'FLATLINE'
+16:36:04 INFO: 
+16:36:04 INFO: >>> Frame 001176
+16:36:05 INFO: Player name: 'MrGreekGodTTV'
+16:36:05 INFO: Weapon 1: 'VOLT'
+16:36:06 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:36:06 INFO: 
+16:36:06 INFO: >>> Frame 001177
+16:36:07 INFO: Player name: 'MrGreekGodTTV'
+16:36:07 INFO: Weapon 1: 'VOLT'
+16:36:08 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:08 INFO: 
+16:36:08 INFO: >>> Frame 001178
+16:36:09 INFO: Player name: 'MrGreekGodTTV'
+16:36:09 INFO: Weapon 1: 'VOLT'
+16:36:10 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:10 INFO: 
+16:36:10 INFO: >>> Frame 001179
+16:36:10 INFO: Player name: 'Kotigami'
+16:36:11 INFO: Weapon 1: 'G7 SCOUT'
+16:36:11 INFO: Weapon 2: 'FLATLINE'
+16:36:11 INFO: 
+16:36:11 INFO: >>> Frame 001180
+16:36:11 INFO: Can't find player name end icon
+16:36:11 INFO: 
+16:36:11 INFO: >>> Frame 001181
+16:36:11 INFO: Can't find player name end icon
+16:36:11 INFO: 
+16:36:11 INFO: >>> Frame 001182
+16:36:12 INFO: Player name: 'MrGreekGodTTV'
+16:36:13 INFO: Weapon 1: 'VOLT'
+16:36:13 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:13 INFO: 
+16:36:13 INFO: >>> Frame 001183
+16:36:14 INFO: Player name: 'MrGreekGodTTV'
+16:36:15 INFO: Weapon 1: 'VOLT'
+16:36:15 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:15 INFO: 
+16:36:15 INFO: >>> Frame 001184
+16:36:16 INFO: Player name: 'MrGreekGodTTV'
+16:36:17 INFO: Weapon 1: 'VOLT'
+16:36:17 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:17 INFO: 
+16:36:17 INFO: >>> Frame 001185
+16:36:18 INFO: Player name: 'MrGreekGodTTV'
+16:36:19 INFO: Weapon 1: 'VOLT'
+16:36:19 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:19 INFO: 
+16:36:19 INFO: >>> Frame 001186
+16:36:20 INFO: Player name: 'MrGreekGaodTTV' -> 'MrGreekGodTTV'
+16:36:21 INFO: Weapon 1: 'VOLT'
+16:36:21 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:21 INFO: 
+16:36:21 INFO: >>> Frame 001187
+16:36:22 INFO: Player name: 'MrGreekGodTTV'
+16:36:22 INFO: Weapon 1: 'VOLT'
+16:36:23 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:23 INFO: 
+16:36:23 INFO: >>> Frame 001188
+16:36:24 INFO: Player name: 'Kotigami'
+16:36:24 INFO: Weapon 1: 'G7 SCOUT'
+16:36:25 INFO: Weapon 2: 'FLATLINE'
+16:36:25 INFO: 
+16:36:25 INFO: >>> Frame 001189
+16:36:25 INFO: Player name: 'Kotigami'
+16:36:26 INFO: Weapon 1: 'G7 SCOUT'
+16:36:26 INFO: Weapon 2: 'FLATLINE'
+16:36:26 INFO: 
+16:36:26 INFO: >>> Frame 001190
+16:36:27 INFO: Player name: 'Kotigami'
+16:36:27 INFO: Weapon 1: 'G7 SCOUT'
+16:36:28 INFO: Weapon 2: 'FLATLINE'
+16:36:28 INFO: 
+16:36:28 INFO: >>> Frame 001191
+16:36:28 INFO: Player name: 'Kotigami'
+16:36:29 INFO: Weapon 1: 'G7 SCOUT'
+16:36:29 INFO: Weapon 2: 'FLATLINE'
+16:36:29 INFO: 
+16:36:29 INFO: >>> Frame 001192
+16:36:30 INFO: Player name: 'Kotigami'
+16:36:30 INFO: Weapon 1: 'G7 SCOUT'
+16:36:31 INFO: Weapon 2: 'FLATLINE'
+16:36:31 INFO: 
+16:36:31 INFO: >>> Frame 001193
+16:36:32 INFO: Player name: 'MrGreekGodTTV'
+16:36:32 INFO: Weapon 1: 'VOLT'
+16:36:33 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:36:33 INFO: 
+16:36:33 INFO: >>> Frame 001194
+16:36:34 INFO: Player name: 'MrGreakGodTTV' -> 'MrGreekGodTTV'
+16:36:34 INFO: Weapon 1: 'VOLT'
+16:36:35 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:36:35 INFO: 
+16:36:35 INFO: >>> Frame 001195
+16:36:35 INFO: Player name: 'MrGreekGodTTV'
+16:36:36 INFO: Weapon 1: 'VOLT'
+16:36:36 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:36 INFO: 
+16:36:36 INFO: >>> Frame 001196
+16:36:37 INFO: Player name: 'MrGreekGodTTV'
+16:36:38 INFO: Weapon 1: 'VOLT'
+16:36:38 INFO: Weapon 2: '‘TRIPLE TAKE.' -> 'TRIPLE TAKE'
+16:36:38 INFO: 
+16:36:38 INFO: >>> Frame 001197
+16:36:39 INFO: Player name: 'MrGreekGodTTV'
+16:36:40 INFO: Weapon 1: 'VOLT'
+16:36:40 INFO: Weapon 2: 'TRIPLE TAKE.' -> 'TRIPLE TAKE'
+16:36:40 INFO: 
+16:36:40 INFO: >>> Frame 001198
+16:36:41 INFO: Player name: 'StinkTV'
+16:36:41 INFO: Weapon 1: 'EVA-8 AUTO'
+16:36:42 INFO: Weapon 2: 'R-301'
+16:36:42 INFO: 
+16:36:42 INFO: >>> Frame 001199
+16:36:42 INFO: Player name: 'StinkTV'
+16:36:43 INFO: Weapon 1: 'EVA-8 AUTO'
+16:36:43 INFO: Weapon 2: 'R-301'
+16:36:43 INFO: 
+16:36:43 INFO: >>> Frame 001200
+16:36:44 INFO: Player name: 'StinkTV'
+16:36:44 INFO: Weapon 1: 'EVA-8 AUTO'
+16:36:45 INFO: Weapon 2: 'R-301'
+16:36:45 INFO: 
+16:36:45 INFO: >>> Frame 001201
+16:36:45 INFO: Player name: 'MrGreekGodTTV'
+16:36:46 INFO: Weapon 1: 'VOLT'
+16:36:46 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:46 INFO: 
+16:36:46 INFO: >>> Frame 001202
+16:36:47 INFO: Player name: 'MrGreekGodTTV'
+16:36:48 INFO: Weapon 1: 'VOLT'
+16:36:48 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:48 INFO: 
+16:36:48 INFO: >>> Frame 001203
+16:36:49 INFO: Player name: 'MrGreekGodTTV'
+16:36:50 INFO: Weapon 1: 'VOLT'
+16:36:50 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:50 INFO: 
+16:36:50 INFO: >>> Frame 001204
+16:36:51 INFO: Player name: 'MrGreekGodTTV'
+16:36:51 INFO: Weapon 1: 'VOLT'
+16:36:52 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:52 INFO: 
+16:36:52 INFO: >>> Frame 001205
+16:36:53 INFO: Player name: 'MrGreekGodTTV'
+16:36:53 INFO: Weapon 1: 'VOLT'
+16:36:54 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:54 INFO: 
+16:36:54 INFO: >>> Frame 001206
+16:36:55 INFO: Player name: 'MrGreekGodTTV'
+16:36:55 INFO: Weapon 1: 'VOLT'
+16:36:56 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:56 INFO: 
+16:36:56 INFO: >>> Frame 001207
+16:36:57 INFO: Player name: 'MrGreaekGodTTV' -> 'MrGreekGodTTV'
+16:36:57 INFO: Weapon 1: 'VOLT'
+16:36:57 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:57 INFO: 
+16:36:57 INFO: >>> Frame 001208
+16:36:58 INFO: Player name: 'MrGreekGodTTV'
+16:36:59 INFO: Weapon 1: 'VOLT'
+16:36:59 INFO: Weapon 2: 'TRIPLE TAKE'
+16:36:59 INFO: 
+16:36:59 INFO: >>> Frame 001209
+16:37:00 INFO: Player name: 'MrGreekGodTTV'
+16:37:01 INFO: Weapon 1: 'VOLT'
+16:37:01 INFO: Weapon 2: 'TRIPLE TAKE'
+16:37:01 INFO: 
+16:37:01 INFO: >>> Frame 001210
+16:37:02 INFO: Player name: 'MrGreekGodTTV'
+16:37:03 INFO: Weapon 1: 'VOLT'
+16:37:03 INFO: Weapon 2: 'TRIPLE TAKE'
+16:37:03 INFO: 
+16:37:03 INFO: >>> Frame 001211
+16:37:04 INFO: Player name: 'MrGreekGodTTV'
+16:37:04 INFO: Weapon 1: 'VOLT'
+16:37:05 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:37:05 INFO: 
+16:37:05 INFO: >>> Frame 001212
+16:37:06 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:37:06 INFO: Weapon 1: 'R-301'
+16:37:07 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:37:07 INFO: 
+16:37:07 INFO: >>> Frame 001213
+16:37:08 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:37:08 INFO: Weapon 1: 'R-301'
+16:37:09 INFO: Weapon 2: 'EVA-8 AUTO'
+16:37:09 INFO: 
+16:37:09 INFO: >>> Frame 001214
+16:37:09 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:37:10 INFO: Weapon 1: 'R-301'
+16:37:10 INFO: Weapon 2: 'EVA-8 AUTO'
+16:37:10 INFO: 
+16:37:10 INFO: >>> Frame 001215
+16:37:11 INFO: Player name: 'TSM_imperaltal' -> 'TSM_ImperialHa1'
+16:37:12 INFO: Weapon 1: 'R-301'
+16:37:12 INFO: Weapon 2: 'EVA-8 AUTO'
+16:37:12 INFO: 
+16:37:12 INFO: >>> Frame 001216
+16:37:13 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:37:14 INFO: Weapon 1: 'R-301'
+16:37:14 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:37:14 INFO: 
+16:37:14 INFO: >>> Frame 001217
+16:37:15 INFO: Player name: 'Reps. TSM' -> 'Reps_TSM'
+16:37:15 INFO: Weapon 1: 'MASTIFF'
+16:37:16 INFO: Weapon 2: 'G7 SCOUT'
+16:37:16 INFO: 
+16:37:16 INFO: >>> Frame 001218
+16:37:16 INFO: Player name: 'Reps_TSM'
+16:37:17 INFO: Weapon 1: 'MASTIFF'
+16:37:17 INFO: Weapon 2: 'G7 SCOUT'
+16:37:17 INFO: 
+16:37:17 INFO: >>> Frame 001219
+16:37:18 INFO: Player name: 'Reps TSM' -> 'Reps_TSM'
+16:37:18 INFO: Weapon 1: 'MASTIFF'
+16:37:19 INFO: Weapon 2: 'G7 SCOUT'
+16:37:19 INFO: 
+16:37:19 INFO: >>> Frame 001220
+16:37:19 INFO: Can't find player name end icon
+16:37:19 INFO: 
+16:37:19 INFO: >>> Frame 001221
+16:37:19 INFO: Can't find player name end icon
+16:37:19 INFO: 
+16:37:19 INFO: >>> Frame 001222
+16:37:20 INFO: Player name: '¢NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:21 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:21 INFO: Weapon 2: 'VOLT'
+16:37:21 INFO: 
+16:37:21 INFO: >>> Frame 001223
+16:37:22 INFO: Player name: 'NPLOMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:22 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:23 INFO: Weapon 2: 'VOLT'
+16:37:23 INFO: 
+16:37:23 INFO: >>> Frame 001224
+16:37:24 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:24 INFO: Weapon 1: 'EVA-G ALTO' -> 'EVA-8 AUTO'
+16:37:25 INFO: Weapon 2: 'VOLT'
+16:37:25 INFO: 
+16:37:25 INFO: >>> Frame 001225
+16:37:26 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:26 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:27 INFO: Weapon 2: 'VOLT'
+16:37:27 INFO: 
+16:37:27 INFO: >>> Frame 001226
+16:37:28 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:28 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:29 INFO: Weapon 2: 'VOLT'
+16:37:29 INFO: 
+16:37:29 INFO: >>> Frame 001227
+16:37:30 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:30 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:31 INFO: Weapon 2: 'VOLT'
+16:37:31 INFO: 
+16:37:31 INFO: >>> Frame 001228
+16:37:31 INFO: Player name: ' qcrack' -> 'qcrook'
+16:37:32 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:32 INFO: Weapon 2: 'VOLT'
+16:37:32 INFO: 
+16:37:32 INFO: >>> Frame 001229
+16:37:32 INFO: Player name: '_qcrook' -> 'qcrook'
+16:37:33 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:33 INFO: Weapon 2: 'VOLT'
+16:37:33 INFO: 
+16:37:33 INFO: >>> Frame 001230
+16:37:34 INFO: Player name: '_qerook' -> 'qcrook'
+16:37:34 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:35 INFO: Weapon 2: 'VOLT'
+16:37:35 INFO: 
+16:37:35 INFO: >>> Frame 001231
+16:37:35 INFO: Can't find player name end icon
+16:37:35 INFO: 
+16:37:35 INFO: >>> Frame 001232
+16:37:35 INFO: Can't find player name end icon
+16:37:35 INFO: 
+16:37:35 INFO: >>> Frame 001233
+16:37:35 INFO: Player name: ', qcrook' -> 'qcrook'
+16:37:36 INFO: Weapon 1: 'CHARGE RIFLI' -> 'CHARGE RIFLE'
+16:37:36 INFO: Weapon 2: 'MASTIFF'
+16:37:36 INFO: 
+16:37:36 INFO: >>> Frame 001234
+16:37:36 INFO: Can't find player name end icon
+16:37:36 INFO: 
+16:37:36 INFO: >>> Frame 001235
+16:37:37 INFO: Player name: ', gcrook' -> 'qcrook'
+16:37:37 INFO: Weapon 1: 'CHARGE RIFLI' -> 'CHARGE RIFLE'
+16:37:38 INFO: Weapon 2: 'MASTIFF'
+16:37:38 INFO: 
+16:37:38 INFO: >>> Frame 001236
+16:37:38 INFO: Player name: ', gcrook' -> 'qcrook'
+16:37:39 INFO: Weapon 1: 'CHARGE RIFLI' -> 'CHARGE RIFLE'
+16:37:39 INFO: Weapon 2: 'MASTIFF'
+16:37:39 INFO: 
+16:37:39 INFO: >>> Frame 001237
+16:37:40 INFO: Player name: ', qcrook' -> 'qcrook'
+16:37:40 INFO: Weapon 1: 'CHARGE RIFLI' -> 'CHARGE RIFLE'
+16:37:41 INFO: Weapon 2: 'MASTIFF'
+16:37:41 INFO: 
+16:37:41 INFO: >>> Frame 001238
+16:37:41 INFO: Player name: '_gcrook' -> 'qcrook'
+16:37:42 INFO: Weapon 1: 'CHARGE RIFL' -> 'CHARGE RIFLE'
+16:37:42 INFO: Weapon 2: 'MASTIFF'
+16:37:42 INFO: 
+16:37:42 INFO: >>> Frame 001239
+16:37:44 INFO: Unknown player: ' ' (best guess: 'CLT Pride', 0.89)
+16:37:44 INFO: 
+16:37:44 INFO: >>> Frame 001240
+16:37:44 INFO: Player name: 'Hambino24TV'
+16:37:45 INFO: Weapon 1: 'CHARGE RIFLE'
+16:37:45 INFO: Weapon 2: 'R-301'
+16:37:45 INFO: 
+16:37:45 INFO: >>> Frame 001241
+16:37:46 INFO: Player name: 'Hambino24TV'
+16:37:47 INFO: Weapon 1: 'CHAPGE RIFLE' -> 'CHARGE RIFLE'
+16:37:47 INFO: Weapon 2: 'R-301'
+16:37:47 INFO: 
+16:37:47 INFO: >>> Frame 001242
+16:37:48 INFO: Player name: 'Hambino24TV'
+16:37:48 INFO: Weapon 1: 'CHARGE RIFLE'
+16:37:49 INFO: Weapon 2: 'R-401' -> 'R-301'
+16:37:49 INFO: 
+16:37:49 INFO: >>> Frame 001243
+16:37:49 INFO: Player name: 'Hambino24TV'
+16:37:50 INFO: Weapon 1: 'CHARGE RIFLE'
+16:37:50 INFO: Weapon 2: 'R-301'
+16:37:50 INFO: 
+16:37:50 INFO: >>> Frame 001244
+16:37:51 INFO: Unknown player: ' ' (best guess: 'CLT Pride', 0.89)
+16:37:51 INFO: 
+16:37:51 INFO: >>> Frame 001245
+16:37:52 INFO: Player name: 'Hambino24TV'
+16:37:52 INFO: Weapon 1: 'CHARGE RIFLE'
+16:37:53 INFO: Weapon 2: 'R-301'
+16:37:53 INFO: 
+16:37:53 INFO: >>> Frame 001246
+16:37:54 INFO: Player name: 'Hambino24TV'
+16:37:54 INFO: Weapon 1: 'CHARGE RIFLE'
+16:37:55 INFO: Weapon 2: 'R-301'
+16:37:55 INFO: 
+16:37:55 INFO: >>> Frame 001247
+16:37:55 INFO: Player name: 'Hambino24TV'
+16:37:56 INFO: Weapon 1: 'CHARGE RIFLE'
+16:37:56 INFO: Weapon 2: 'R-301'
+16:37:56 INFO: 
+16:37:56 INFO: >>> Frame 001248
+16:37:57 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:37:58 INFO: Weapon 1: 'EVA-8 AUTO'
+16:37:58 INFO: Weapon 2: 'VOLT'
+16:37:58 INFO: 
+16:37:58 INFO: >>> Frame 001249
+16:37:59 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:38:00 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:00 INFO: Weapon 2: 'VOLT'
+16:38:00 INFO: 
+16:38:00 INFO: >>> Frame 001250
+16:38:01 INFO: Player name: 'NPL_OMGRONNIE' -> 'NPL_OMGRONN1E'
+16:38:02 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:02 INFO: Weapon 2: 'VOLT'
+16:38:02 INFO: 
+16:38:02 INFO: >>> Frame 001251
+16:38:03 INFO: Player name: 'COL Shiny' -> 'COL_iShiny'
+16:38:03 INFO: Weapon 1: 'R-30)' -> 'R-301'
+16:38:04 INFO: Weapon 2: 'MASTIFF'
+16:38:04 INFO: 
+16:38:04 INFO: >>> Frame 001252
+16:38:04 INFO: 
+16:38:04 INFO: >>> Frame 001253
+16:38:05 INFO: Player name: 'COL_Monsoon'
+16:38:06 INFO: Weapon 1: 'R-301'
+16:38:06 INFO: Weapon 2: 'MASTIFF'
+16:38:06 INFO: 
+16:38:06 INFO: >>> Frame 001254
+16:38:07 INFO: Player name: 'COL Monsoon' -> 'COL_Monsoon'
+16:38:07 INFO: Weapon 1: 'R-301'
+16:38:08 INFO: Weapon 2: 'MASTIFF'
+16:38:08 INFO: 
+16:38:08 INFO: >>> Frame 001255
+16:38:09 INFO: Player name: 'COL_Monsoon'
+16:38:09 INFO: Weapon 1: 'R-301'
+16:38:10 INFO: Weapon 2: 'MASTIFF'
+16:38:10 INFO: 
+16:38:10 INFO: >>> Frame 001256
+16:38:10 INFO: Player name: 'COL_Monsoon'
+16:38:11 INFO: Weapon 1: 'A-301' -> 'R-301'
+16:38:11 INFO: Weapon 2: 'MASTIFF'
+16:38:11 INFO: 
+16:38:11 INFO: >>> Frame 001257
+16:38:12 INFO: Player name: 'COL_Monsoon'
+16:38:13 INFO: Weapon 1: 'R-301'
+16:38:13 INFO: Weapon 2: 'MASTIFF'
+16:38:13 INFO: 
+16:38:13 INFO: >>> Frame 001258
+16:38:14 INFO: Player name: 'COL_Monsoon'
+16:38:14 INFO: Weapon 1: 'R-301'
+16:38:15 INFO: Weapon 2: 'MASTIFF'
+16:38:15 INFO: 
+16:38:15 INFO: >>> Frame 001259
+16:38:15 INFO: Can't find player name end icon
+16:38:15 INFO: 
+16:38:15 INFO: >>> Frame 001260
+16:38:15 INFO: Can't find player name end icon
+16:38:15 INFO: 
+16:38:15 INFO: >>> Frame 001261
+16:38:15 INFO: Can't find player name end icon
+16:38:15 INFO: 
+16:38:15 INFO: >>> Frame 001262
+16:38:16 INFO: Player name: 'sF_zachmazer'
+16:38:16 INFO: Weapon 1: 'MASTIFF'
+16:38:17 INFO: Weapon 2: 'R-301'
+16:38:17 INFO: 
+16:38:17 INFO: >>> Frame 001263
+16:38:17 INFO: Player name: 'sF zachmazer' -> 'sF_zachmazer'
+16:38:18 INFO: Weapon 1: 'MASTIFF'
+16:38:18 INFO: Weapon 2: 'R-301'
+16:38:18 INFO: 
+16:38:18 INFO: >>> Frame 001264
+16:38:19 INFO: Unknown player: '_ knagqd' (best guess: 'knoqd', 0.50)
+16:38:19 INFO: 
+16:38:19 INFO: >>> Frame 001265
+16:38:19 INFO: Player name: '_ knogd' -> 'knoqd'
+16:38:20 INFO: Weapon 1: 'VOLT'
+16:38:20 INFO: Weapon 2: 'MASTIFF'
+16:38:20 INFO: 
+16:38:20 INFO: >>> Frame 001266
+16:38:21 INFO: Player name: '_ knogd' -> 'knoqd'
+16:38:21 INFO: Weapon 1: 'VOLT'
+16:38:21 INFO: Weapon 2: 'MASTIFF'
+16:38:21 INFO: 
+16:38:21 INFO: >>> Frame 001267
+16:38:22 INFO: Player name: '_knogd' -> 'knoqd'
+16:38:22 INFO: Weapon 1: 'VOLT'
+16:38:23 INFO: Weapon 2: 'MASTIFF'
+16:38:23 INFO: 
+16:38:23 INFO: >>> Frame 001268
+16:38:24 INFO: Player name: 'StayNaughty'
+16:38:24 INFO: Weapon 1: 'VOLT'
+16:38:25 INFO: Weapon 2: 'WINGMAN'
+16:38:25 INFO: 
+16:38:25 INFO: >>> Frame 001269
+16:38:25 INFO: Player name: 'Snip3down EW' -> 'Snip3down_EW'
+16:38:26 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:26 INFO: Weapon 2: 'SPITFIRE'
+16:38:26 INFO: 
+16:38:26 INFO: >>> Frame 001270
+16:38:27 INFO: Player name: 'Snip3down_EW'
+16:38:28 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:28 INFO: Weapon 2: 'SPITFIRE'
+16:38:28 INFO: 
+16:38:28 INFO: >>> Frame 001271
+16:38:29 INFO: Player name: 'Snip3down_EW'
+16:38:29 INFO: Weapon 1: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:30 INFO: Weapon 2: 'SPITFIRE'
+16:38:30 INFO: 
+16:38:30 INFO: >>> Frame 001272
+16:38:31 INFO: Player name: 'onipddown_EW' -> 'Snip3down_EW'
+16:38:31 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:32 INFO: Weapon 2: 'oPITFIRE' -> 'SPITFIRE'
+16:38:32 INFO: 
+16:38:32 INFO: >>> Frame 001273
+16:38:32 INFO: Player name: 'snipddown_EW' -> 'Snip3down_EW'
+16:38:33 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:33 INFO: Weapon 2: 'SPITFIRE'
+16:38:33 INFO: 
+16:38:33 INFO: >>> Frame 001274
+16:38:34 INFO: Player name: 'Snip3down EW' -> 'Snip3down_EW'
+16:38:35 INFO: Weapon 1: 'EVA-8 AUTO'
+16:38:35 INFO: Weapon 2: 'SPITFIRE'
+16:38:35 INFO: 
+16:38:35 INFO: >>> Frame 001275
+16:38:36 INFO: Player name: 'TSM_imperiainal' -> 'TSM_ImperialHa1'
+16:38:37 INFO: Weapon 1: 'R-301'
+16:38:37 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:38:37 INFO: 
+16:38:37 INFO: >>> Frame 001276
+16:38:38 INFO: Player name: 'TSM_imperialHal' -> 'TSM_ImperialHa1'
+16:38:38 INFO: Weapon 1: 'R-301'
+16:38:39 INFO: Weapon 2: 'EVA-d AUTO' -> 'EVA-8 AUTO'
+16:38:39 INFO: 
+16:38:39 INFO: >>> Frame 001277
+16:38:40 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:38:40 INFO: Weapon 1: 'R-301'
+16:38:41 INFO: Weapon 2: 'EVA-8 AUTO'
+16:38:41 INFO: 
+16:38:41 INFO: >>> Frame 001278
+16:38:42 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:38:42 INFO: Weapon 1: 'R-301'
+16:38:43 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:43 INFO: 
+16:38:43 INFO: >>> Frame 001279
+16:38:43 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:38:44 INFO: Weapon 1: 'R-301'
+16:38:44 INFO: Weapon 2: 'EVA-8 AUTO'
+16:38:44 INFO: 
+16:38:44 INFO: >>> Frame 001280
+16:38:45 INFO: Player name: 'TSM ImperialHal' -> 'TSM_ImperialHa1'
+16:38:46 INFO: Weapon 1: 'R-301'
+16:38:46 INFO: Weapon 2: 'EVA-8 AUTO'
+16:38:46 INFO: 
+16:38:46 INFO: >>> Frame 001281
+16:38:47 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:38:48 INFO: Weapon 1: 'R-301'
+16:38:48 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:48 INFO: 
+16:38:48 INFO: >>> Frame 001282
+16:38:49 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:38:49 INFO: Weapon 1: 'R-301'
+16:38:50 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:50 INFO: 
+16:38:50 INFO: >>> Frame 001283
+16:38:51 INFO: Player name: 'TSM_ImperialHal' -> 'TSM_ImperialHa1'
+16:38:51 INFO: Weapon 1: 'R-301'
+16:38:52 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:38:52 INFO: 
+16:38:52 INFO: >>> Frame 001284
+16:38:52 INFO: Player name: 'Reps_TSM'
+16:38:53 INFO: Weapon 1: 'R-301'
+16:38:53 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:53 INFO: 
+16:38:53 INFO: >>> Frame 001285
+16:38:53 INFO: Can't find player name end icon
+16:38:53 INFO: 
+16:38:53 INFO: >>> Frame 001286
+16:38:53 INFO: Can't find player name end icon
+16:38:53 INFO: 
+16:38:53 INFO: >>> Frame 001287
+16:38:54 INFO: Player name: 'peeshCYA'
+16:38:54 INFO: Weapon 1: 'R-401' -> 'R-301'
+16:38:55 INFO: Weapon 2: 'EVA-8 AUTO'
+16:38:55 INFO: 
+16:38:55 INFO: >>> Frame 001288
+16:38:56 INFO: Player name: 'peeshCYA'
+16:38:56 INFO: Weapon 1: 'R-301'
+16:38:56 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:56 INFO: 
+16:38:56 INFO: >>> Frame 001289
+16:38:57 INFO: Player name: 'peeshCYA'
+16:38:58 INFO: Weapon 1: 'R-401' -> 'R-301'
+16:38:58 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:38:58 INFO: 
+16:38:58 INFO: >>> Frame 001290
+16:38:59 INFO: Player name: '_peeshCYA' -> 'peeshCYA'
+16:38:59 INFO: Weapon 1: 'R-301'
+16:39:00 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:39:00 INFO: 
+16:39:00 INFO: >>> Frame 001291
+16:39:00 INFO: Player name: 'peeshCYA'
+16:39:01 INFO: Weapon 1: 'R-401' -> 'R-301'
+16:39:01 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:39:01 INFO: 
+16:39:01 INFO: >>> Frame 001292
+16:39:02 INFO: Player name: 'peeshCYA'
+16:39:02 INFO: Weapon 1: 'R-301'
+16:39:03 INFO: Weapon 2: 'EVA-8 AUTO'
+16:39:03 INFO: 
+16:39:03 INFO: >>> Frame 001293
+16:39:03 INFO: Player name: '_peeshCYA' -> 'peeshCYA'
+16:39:04 INFO: Weapon 1: 'R-301'
+16:39:04 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:39:04 INFO: 
+16:39:04 INFO: >>> Frame 001294
+16:39:05 INFO: Player name: 'peeshCYA'
+16:39:05 INFO: Weapon 1: 'R-301'
+16:39:06 INFO: Weapon 2: 'EVA-d AUTO' -> 'EVA-8 AUTO'
+16:39:06 INFO: 
+16:39:06 INFO: >>> Frame 001295
+16:39:07 INFO: Unknown player: 'PSTeOSB' (best guess: '9BTeQ9B', 0.57)
+16:39:07 INFO: 
+16:39:07 INFO: >>> Frame 001296
+16:39:07 INFO: Player name: 'BbTeO9B' -> '9BTeQ9B'
+16:39:08 INFO: Weapon 1: 'L-STAR'
+16:39:08 INFO: Weapon 2: 'G7 SCOUT'
+16:39:08 INFO: 
+16:39:08 INFO: >>> Frame 001297
+16:39:09 INFO: Player name: '“FR_CUBSKI' -> 'FP_CUBSKi'
+16:39:09 INFO: Weapon 1: 'R-30)' -> 'R-301'
+16:39:10 INFO: Weapon 2: '‘TRIPLE TAKE' -> 'TRIPLE TAKE'
+16:39:10 INFO: 
+16:39:10 INFO: >>> Frame 001298
+16:39:10 INFO: Player name: '“FPL CUBSKi' -> 'FP_CUBSKi'
+16:39:11 INFO: Weapon 1: 'R-301'
+16:39:11 INFO: Weapon 2: 'TRIPLE TAKE'
+16:39:11 INFO: 
+16:39:11 INFO: >>> Frame 001299
+16:39:12 INFO: Player name: 'FP_CUBSKi'
+16:39:13 INFO: Weapon 1: 'R-401' -> 'R-301'
+16:39:13 INFO: Weapon 2: 'TRIPLE TAKE'
+16:39:13 INFO: 
+16:39:13 INFO: >>> Frame 001300
+16:39:14 INFO: Player name: 'FP_CUBSKi'
+16:39:14 INFO: Weapon 1: 'R-301'
+16:39:15 INFO: Weapon 2: 'TRIPLE TAKE'
+16:39:15 INFO: 
+16:39:15 INFO: >>> Frame 001301
+16:39:16 INFO: Player name: 'onipadown_EW' -> 'Snip3down_EW'
+16:39:16 INFO: Weapon 1: 'EVA-8 AUTO'
+16:39:17 INFO: Weapon 2: 'SPITFIRE'
+16:39:17 INFO: 
+16:39:17 INFO: >>> Frame 001302
+16:39:18 INFO: Player name: 'Snip3dawn_EW' -> 'Snip3down_EW'
+16:39:18 INFO: Weapon 1: 'EVA-8 AUTO'
+16:39:19 INFO: Weapon 2: 'SPITFIRE'
+16:39:19 INFO: 
+16:39:19 INFO: >>> Frame 001303
+16:39:19 INFO: Player name: 'Snip3down_EW'
+16:39:20 INFO: Weapon 1: 'EVA-8 AUTO'
+16:39:20 INFO: Weapon 2: 'SPITFIRE'
+16:39:20 INFO: 
+16:39:20 INFO: >>> Frame 001304
+16:39:21 INFO: Can't find player name end icon
+16:39:21 INFO: 
+16:39:21 INFO: >>> Frame 001305
+16:39:21 INFO: Player name: '_COL_lou' -> 'COL_Iou'
+16:39:22 INFO: Weapon 1: 'G7 SCOUT'
+16:39:22 INFO: Weapon 2: 'FLATLINE'
+16:39:22 INFO: 
+16:39:22 INFO: >>> Frame 001306
+16:39:23 INFO: Player name: 'COL Jou' -> 'COL_Iou'
+16:39:23 INFO: Weapon 1: 'G7 SCOUT'
+16:39:24 INFO: Weapon 2: 'FLATLINE'
+16:39:24 INFO: 
+16:39:24 INFO: >>> Frame 001307
+16:39:24 INFO: Player name: '_COL_lou' -> 'COL_Iou'
+16:39:25 INFO: Weapon 1: 'G7 SCOUT'
+16:39:25 INFO: Weapon 2: 'FLATLINE'
+16:39:25 INFO: 
+16:39:25 INFO: >>> Frame 001308
+16:39:26 INFO: Player name: '_COL_lou' -> 'COL_Iou'
+16:39:26 INFO: Weapon 1: 'G7 SCOUT'
+16:39:27 INFO: Weapon 2: 'FLATLINE'
+16:39:27 INFO: 
+16:39:27 INFO: >>> Frame 001309
+16:39:27 INFO: Player name: ',COL_lou' -> 'COL_Iou'
+16:39:28 INFO: Weapon 1: 'G7? SCOUT' -> 'G7 SCOUT'
+16:39:28 INFO: Weapon 2: 'FLATLINE'
+16:39:28 INFO: 
+16:39:28 INFO: >>> Frame 001310
+16:39:29 INFO: Player name: 'COL_lou' -> 'COL_Iou'
+16:39:29 INFO: Weapon 1: 'G7 SCOUT'
+16:39:30 INFO: Weapon 2: 'FLATLINE'
+16:39:30 INFO: 
+16:39:30 INFO: >>> Frame 001311
+16:39:30 INFO: Player name: 'COL_lou' -> 'COL_Iou'
+16:39:31 INFO: Weapon 1: 'G7 SCOUT'
+16:39:31 INFO: Weapon 2: 'FLATLINE'
+16:39:31 INFO: 
+16:39:31 INFO: >>> Frame 001312
+16:39:32 INFO: Player name: 'COLlau' -> 'COL_Iou'
+16:39:32 INFO: Weapon 1: 'G7 SCOUT'
+16:39:33 INFO: Weapon 2: 'FLATLINE'
+16:39:33 INFO: 
+16:39:33 INFO: >>> Frame 001313
+16:39:33 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:39:34 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:39:34 INFO: 
+16:39:34 INFO: >>> Frame 001314
+16:39:35 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:39:36 INFO: Weapon 1: 'WINGMAN'
+16:39:36 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:39:36 INFO: 
+16:39:36 INFO: >>> Frame 001315
+16:39:37 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:39:37 INFO: Weapon 1: 'WINGMAN'
+16:39:38 INFO: Weapon 2: 'FVA-8 AUTO' -> 'EVA-8 AUTO'
+16:39:38 INFO: 
+16:39:38 INFO: >>> Frame 001316
+16:39:38 INFO: Player name: 'CLG_Vaxlon'
+16:39:39 INFO: Weapon 1: 'WINGMAN'
+16:39:39 INFO: Weapon 2: 'EVA-8 AUTO'
+16:39:39 INFO: 
+16:39:39 INFO: >>> Frame 001317
+16:39:40 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
+16:39:41 INFO: Weapon 1: 'WINGMAN'
+16:39:41 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:39:41 INFO: 
+16:39:41 INFO: >>> Frame 001318
+16:39:42 INFO: Player name: 'CLG_Vaxlon'
+16:39:42 INFO: Weapon 1: 'WINGMAN'
+16:39:43 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:39:43 INFO: 
+16:39:43 INFO: >>> Frame 001319
+16:39:43 INFO: Player name: 'CLG_Vaxlon'
+16:39:44 INFO: Weapon 1: 'WINGMAN'
+16:39:44 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:39:44 INFO: 
+16:39:44 INFO: >>> Frame 001320
+16:39:45 INFO: Player name: 'CLG_Vaxton' -> 'CLG_Vaxlon'
+16:39:46 INFO: Weapon 1: 'WINGMAN'
+16:39:46 INFO: Weapon 2: 'EVA-8 AUTO'
+16:39:46 INFO: 
+16:39:46 INFO: >>> Frame 001321
+16:39:47 INFO: Player name: 'CLG_Vaxton' -> 'CLG_Vaxlon'
+16:39:47 INFO: Weapon 1: 'WINGMAN'
+16:39:48 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:39:48 INFO: 
+16:39:48 INFO: >>> Frame 001322
+16:39:48 INFO: Player name: 'CLG Vaxilon' -> 'CLG_Vaxlon'
+16:39:49 INFO: Weapon 1: 'WINGMAN'
+16:39:49 INFO: Weapon 2: 'EVA-8 AUTO'
+16:39:49 INFO: 
+16:39:49 INFO: >>> Frame 001323
+16:39:49 INFO: Can't find player name end icon
+16:39:49 INFO: 
+16:39:49 INFO: >>> Frame 001324
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001325
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001326
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001327
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001328
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001329
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001330
+16:39:50 INFO: Can't find player name end icon
+16:39:50 INFO: 
+16:39:50 INFO: >>> Frame 001331
+16:39:50 INFO: Player name: 'CLT Bronzey'
+16:39:51 INFO: Weapon 1: 'HEMLOK'
+16:39:51 INFO: Weapon 2: 'MASTIFF'
+16:39:51 INFO: 
+16:39:51 INFO: >>> Frame 001332
+16:39:52 INFO: Player name: 'CLT Bronzey'
+16:39:53 INFO: Weapon 1: 'HEMLOK'
+16:39:53 INFO: Weapon 2: 'MASTIFF'
+16:39:53 INFO: 
+16:39:53 INFO: >>> Frame 001333
+16:39:54 INFO: Player name: 'CLT Bronzey'
+16:39:54 INFO: Weapon 1: 'HEMLOK'
+16:39:55 INFO: Weapon 2: 'MASTIFF'
+16:39:55 INFO: 
+16:39:55 INFO: >>> Frame 001334
+16:39:56 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
+16:39:56 INFO: Weapon 1: 'VOLT'
+16:39:57 INFO: Weapon 2: 'WINGMAN'
+16:39:57 INFO: 
+16:39:57 INFO: >>> Frame 001335
+16:39:57 INFO: Player name: '_CLT_mercy' -> 'CLT_mercy'
+16:39:58 INFO: Weapon 1: 'VOLT'
+16:39:59 INFO: Weapon 2: 'WINGMAN'
+16:39:59 INFO: 
+16:39:59 INFO: >>> Frame 001336
+16:39:59 INFO: Player name: 'CLT Pride'
+16:40:00 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:00 INFO: 
+16:40:00 INFO: >>> Frame 001337
+16:40:01 INFO: Player name: 'CLT Pride'
+16:40:02 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:02 INFO: 
+16:40:02 INFO: >>> Frame 001338
+16:40:03 INFO: Player name: 'CLT Pride'
+16:40:03 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:40:03 INFO: 
+16:40:03 INFO: >>> Frame 001339
+16:40:04 INFO: Player name: 'CLT Pride'
+16:40:04 INFO: Weapon 1: 'R-99'
+16:40:05 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:05 INFO: 
+16:40:05 INFO: >>> Frame 001340
+16:40:05 INFO: Player name: 'CLT Pride'
+16:40:06 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:40:06 INFO: 
+16:40:06 INFO: >>> Frame 001341
+16:40:07 INFO: Player name: 'CLT Pride'
+16:40:08 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:08 INFO: 
+16:40:08 INFO: >>> Frame 001342
+16:40:08 INFO: Player name: 'CLT Pride'
+16:40:09 INFO: Weapon 1: 'R-99'
+16:40:09 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:40:09 INFO: 
+16:40:09 INFO: >>> Frame 001343
+16:40:10 INFO: Player name: 'CLT Pride'
+16:40:10 INFO: Weapon 1: 'R-99'
+16:40:11 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:11 INFO: 
+16:40:11 INFO: >>> Frame 001344
+16:40:11 INFO: Player name: 'CLT Pride'
+16:40:12 INFO: Weapon 1: 'R-99'
+16:40:12 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:12 INFO: 
+16:40:12 INFO: >>> Frame 001345
+16:40:13 INFO: Unknown player: ' ' (best guess: 'CLT Pride', 0.89)
+16:40:13 INFO: 
+16:40:13 INFO: >>> Frame 001346
+16:40:14 INFO: Player name: 'CLT Pride'
+16:40:14 INFO: Weapon 1: 'R-99'
+16:40:14 INFO: Weapon 2: '~EVYA-B AUTO' -> 'EVA-8 AUTO'
+16:40:14 INFO: 
+16:40:14 INFO: >>> Frame 001347
+16:40:15 INFO: Player name: 'Chr pride' -> 'CLT Pride'
+16:40:16 INFO: Weapon 1: 'R-99'
+16:40:16 INFO: Weapon 2: 'EVA-8 ALTO' -> 'EVA-8 AUTO'
+16:40:16 INFO: 
+16:40:16 INFO: >>> Frame 001348
+16:40:17 INFO: Player name: 'CLT Bride' -> 'CLT Pride'
+16:40:17 INFO: Weapon 1: 'R-99'
+16:40:18 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:18 INFO: 
+16:40:18 INFO: >>> Frame 001349
+16:40:18 INFO: Player name: 'CLT Pridé)' -> 'CLT Pride'
+16:40:19 INFO: Weapon 1: 'R-99'
+16:40:19 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:19 INFO: 
+16:40:19 INFO: >>> Frame 001350
+16:40:20 INFO: Player name: 'CLT. Pride' -> 'CLT Pride'
+16:40:20 INFO: Weapon 1: 'A-99' -> 'R-99'
+16:40:21 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:21 INFO: 
+16:40:21 INFO: >>> Frame 001351
+16:40:22 INFO: Player name: 'Liquid Flanker'
+16:40:22 INFO: Weapon 1: 'TRIPLE TAKE'
+16:40:23 INFO: Weapon 2: 'R-301'
+16:40:23 INFO: 
+16:40:23 INFO: >>> Frame 001352
+16:40:23 INFO: Player name: 'Liquid Flanker'
+16:40:24 INFO: Weapon 1: 'TRIPLE TAKE'
+16:40:24 INFO: Weapon 2: 'R-301'
+16:40:24 INFO: 
+16:40:24 INFO: >>> Frame 001353
+16:40:25 INFO: Player name: 'Liquid Flanker'
+16:40:25 INFO: Weapon 1: 'TRIPLE TAKE'
+16:40:26 INFO: Weapon 2: 'R-301'
+16:40:26 INFO: 
+16:40:26 INFO: >>> Frame 001354
+16:40:27 INFO: Player name: 'Liquid Flanker'
+16:40:27 INFO: Weapon 1: 'TRIPLE TAKE'
+16:40:27 INFO: Weapon 2: 'R-301'
+16:40:27 INFO: 
+16:40:27 INFO: >>> Frame 001355
+16:40:28 INFO: Player name: 'Liquid Flanker'
+16:40:29 INFO: Weapon 1: 'TRIPLE TAKE'
+16:40:29 INFO: Weapon 2: 'R-301'
+16:40:29 INFO: 
+16:40:29 INFO: >>> Frame 001356
+16:40:30 INFO: Player name: 'Liquid Flanker'
+16:40:30 INFO: Weapon 1: 'TRIPLE TAKE'
+16:40:31 INFO: Weapon 2: 'R-301'
+16:40:31 INFO: 
+16:40:31 INFO: >>> Frame 001357
+16:40:31 INFO: Can't find player name end icon
+16:40:31 INFO: 
+16:40:31 INFO: >>> Frame 001358
+16:40:31 INFO: Can't find player name end icon
+16:40:31 INFO: 
+16:40:31 INFO: >>> Frame 001359
+16:40:31 INFO: Can't find player name end icon
+16:40:31 INFO: 
+16:40:31 INFO: >>> Frame 001360
+16:40:32 INFO: Player name: 'NRG _Sweet_Rank_]' -> 'NRG_Sweet_Rank_1'
+16:40:32 INFO: Weapon 1: 'G7 SCOUT'
+16:40:33 INFO: Weapon 2: 'R-99'
+16:40:33 INFO: 
+16:40:33 INFO: >>> Frame 001361
+16:40:34 INFO: Player name: 'NRG_Sweet_Rank_}' -> 'NRG_Sweet_Rank_1'
+16:40:34 INFO: Weapon 1: 'G? SCOUT' -> 'G7 SCOUT'
+16:40:35 INFO: Weapon 2: 'R-99'
+16:40:35 INFO: 
+16:40:35 INFO: >>> Frame 001362
+16:40:35 INFO: Player name: '‘NRG_Sweet Rank 1]' -> 'NRG_Sweet_Rank_1'
+16:40:36 INFO: Weapon 1: 'G7 SCOUT'
+16:40:36 INFO: 
+16:40:36 INFO: >>> Frame 001363
+16:40:37 INFO: Player name: 'NAG _Sweet_Rank_}' -> 'NRG_Sweet_Rank_1'
+16:40:38 INFO: Weapon 1: 'G7 SCOUT'
+16:40:38 INFO: Weapon 2: 'R-99'
+16:40:38 INFO: 
+16:40:38 INFO: >>> Frame 001364
+16:40:39 INFO: Player name: 'NRG _Sweet_Rank_}' -> 'NRG_Sweet_Rank_1'
+16:40:39 INFO: Weapon 1: 'G7 SCOUT'
+16:40:40 INFO: Weapon 2: 'R-99'
+16:40:40 INFO: 
+16:40:40 INFO: >>> Frame 001365
+16:40:41 INFO: Player name: 'NRG _Sweet_Rank)' -> 'NRG_Sweet_Rank_1'
+16:40:41 INFO: Weapon 1: 'G7 SCOUT'
+16:40:41 INFO: Weapon 2: 'R-99'
+16:40:41 INFO: 
+16:40:41 INFO: >>> Frame 001366
+16:40:42 INFO: Player name: 'NRG Sweet_Rank_]' -> 'NRG_Sweet_Rank_1'
+16:40:43 INFO: Weapon 2: 'R-99'
+16:40:43 INFO: 
+16:40:43 INFO: >>> Frame 001367
+16:40:44 INFO: Unknown player: '-NRG Sweet: Rank\netiRank.|' (best guess: 'NRG_Sweet_Rank_1', 0.54)
+16:40:44 INFO: 
+16:40:44 INFO: >>> Frame 001368
+16:40:45 INFO: Player name: 'NRG_rocker'
+16:40:45 INFO: Weapon 1: 'R-301'
+16:40:46 INFO: Weapon 2: 'CHARGE RIFLI' -> 'CHARGE RIFLE'
+16:40:46 INFO: 
+16:40:46 INFO: >>> Frame 001369
+16:40:46 INFO: Can't find player name end icon
+16:40:46 INFO: 
+16:40:46 INFO: >>> Frame 001370
+16:40:46 INFO: Can't find player name end icon
+16:40:46 INFO: 
+16:40:46 INFO: >>> Frame 001371
+16:40:46 INFO: Can't find player name end icon
+16:40:46 INFO: 
+16:40:46 INFO: >>> Frame 001372
+16:40:47 INFO: Player name: 'bowswerr'
+16:40:47 INFO: Weapon 1: 'R-30)' -> 'R-301'
+16:40:48 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:48 INFO: 
+16:40:48 INFO: >>> Frame 001373
+16:40:48 INFO: 
+16:40:48 INFO: >>> Frame 001374
+16:40:49 INFO: Player name: 'CLG PowPow' -> 'CLG_PowPow'
+16:40:49 INFO: Weapon 1: 'FLATLINE'
+16:40:50 INFO: Weapon 2: 'EVA-8 AUTO'
+16:40:50 INFO: 
+16:40:50 INFO: >>> Frame 001375
+16:40:50 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
+16:40:51 INFO: Weapon 1: 'EVA-8 AUTO'
+16:40:51 INFO: Weapon 2: 'G7 SCOUT'
+16:40:51 INFO: 
+16:40:51 INFO: >>> Frame 001376
+16:40:52 INFO: Player name: ',SF_Resultuh' -> 'sF_Resultuh'
+16:40:52 INFO: Weapon 1: 'EVA-8 AUTO'
+16:40:53 INFO: Weapon 2: 'G7? SCOUT' -> 'G7 SCOUT'
+16:40:53 INFO: 
+16:40:53 INFO: >>> Frame 001377
+16:40:54 INFO: Player name: 'SF _Dezignful' -> 'sF_Dezignful'
+16:40:54 INFO: Weapon 1: 'EVA-8 AUTO'
+16:40:55 INFO: Weapon 2: 'G7 SCOUT'
+16:40:55 INFO: 
+16:40:55 INFO: >>> Frame 001378
+16:40:55 INFO: Player name: 'SF Dezignful' -> 'sF_Dezignful'
+16:40:56 INFO: Weapon 1: 'VOLT'
+16:40:56 INFO: Weapon 2: 'G7? SCOUT' -> 'G7 SCOUT'
+16:40:56 INFO: 
+16:40:56 INFO: >>> Frame 001379
+16:40:57 INFO: Player name: 'sF_Dezignful'
+16:40:57 INFO: Weapon 1: 'VOLT'
+16:40:58 INFO: Weapon 2: 'G7 SCOUT'
+16:40:58 INFO: 
+16:40:58 INFO: >>> Frame 001380
+16:40:59 INFO: Player name: 'sF_Dezignful'
+16:40:59 INFO: Weapon 1: 'VOLT'
+16:41:00 INFO: Weapon 2: 'G7 SCOUT'
+16:41:00 INFO: 
+16:41:00 INFO: >>> Frame 001381
+16:41:00 INFO: Player name: 'sF_Dezignful'
+16:41:01 INFO: Weapon 1: 'VOLT'
+16:41:01 INFO: Weapon 2: 'G7 SCOUT'
+16:41:01 INFO: 
+16:41:01 INFO: >>> Frame 001382
+16:41:03 INFO: Player name: 'sFiDezionful' -> 'sF_Dezignful'
+16:41:03 INFO: Weapon 1: 'VOLT'
+16:41:03 INFO: Weapon 2: 'G7 SCOUT'
+16:41:03 INFO: 
+16:41:03 INFO: >>> Frame 001383
+16:41:04 INFO: Player name: '1sF Dezignful' -> 'sF_Dezignful'
+16:41:05 INFO: Weapon 1: 'VOLT'
+16:41:05 INFO: Weapon 2: 'G7 SCOUT'
+16:41:05 INFO: 
+16:41:05 INFO: >>> Frame 001384
+16:41:06 INFO: Player name: 'sF_Gantrifying' -> 'sF_Gentrifyinq'
+16:41:06 INFO: Weapon 1: 'HEMLOK'
+16:41:07 INFO: Weapon 2: 'R-99'
+16:41:07 INFO: 
+16:41:07 INFO: >>> Frame 001385
+16:41:08 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:08 INFO: Weapon 1: 'HEMLOK'
+16:41:09 INFO: Weapon 2: 'R-99'
+16:41:09 INFO: 
+16:41:09 INFO: >>> Frame 001386
+16:41:09 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:10 INFO: Weapon 1: 'HEMLOK'
+16:41:10 INFO: Weapon 2: 'R-39' -> 'R-99'
+16:41:10 INFO: 
+16:41:10 INFO: >>> Frame 001387
+16:41:10 INFO: Can't find player name end icon
+16:41:10 INFO: 
+16:41:10 INFO: >>> Frame 001388
+16:41:10 INFO: Can't find player name end icon
+16:41:10 INFO: 
+16:41:10 INFO: >>> Frame 001389
+16:41:10 INFO: Can't find player name end icon
+16:41:10 INFO: 
+16:41:10 INFO: >>> Frame 001390
+16:41:11 INFO: Can't find player name end icon
+16:41:11 INFO: 
+16:41:11 INFO: >>> Frame 001391
+16:41:11 INFO: Player name: '/NRG_rocker' -> 'NRG_rocker'
+16:41:12 INFO: Weapon 2: 'CHARGE RIFLE'
+16:41:12 INFO: 
+16:41:12 INFO: >>> Frame 001392
+16:41:13 INFO: Player name: 'NRG _Sweet_Rank_]' -> 'NRG_Sweet_Rank_1'
+16:41:14 INFO: Weapon 1: 'G7 SCOUT'
+16:41:14 INFO: Weapon 2: 'R-99'
+16:41:14 INFO: 
+16:41:14 INFO: >>> Frame 001393
+16:41:15 INFO: Player name: 'NRG_nafen'
+16:41:15 INFO: Weapon 1: 'G7 SCOUT'
+16:41:16 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:41:16 INFO: 
+16:41:16 INFO: >>> Frame 001394
+16:41:16 INFO: Player name: 'NRG_nafen'
+16:41:17 INFO: Weapon 1: 'G7 SCOUT'
+16:41:17 INFO: Weapon 2: 'EVA-B8 AUTO' -> 'EVA-8 AUTO'
+16:41:17 INFO: 
+16:41:17 INFO: >>> Frame 001395
+16:41:18 INFO: Player name: 'NRG_nafen'
+16:41:18 INFO: Weapon 1: 'G7 SCOUT'
+16:41:19 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:41:19 INFO: 
+16:41:19 INFO: >>> Frame 001396
+16:41:20 INFO: Player name: 'NRG_nafen'
+16:41:20 INFO: Weapon 1: 'G7 SCOUT'
+16:41:21 INFO: Weapon 2: 'EV4-3 AUTO' -> 'EVA-8 AUTO'
+16:41:21 INFO: 
+16:41:21 INFO: >>> Frame 001397
+16:41:22 INFO: Player name: 'NRG_Sweet_Rank 1}' -> 'NRG_Sweet_Rank_1'
+16:41:22 INFO: Weapon 1: 'G7 SCOUT'
+16:41:22 INFO: Weapon 2: 'R-99'
+16:41:22 INFO: 
+16:41:22 INFO: >>> Frame 001398
+16:41:23 INFO: Player name: 'NRG_Sweet_Rank_|' -> 'NRG_Sweet_Rank_1'
+16:41:24 INFO: Weapon 1: 'G7 SCOUT'
+16:41:24 INFO: Weapon 2: 'R-99'
+16:41:24 INFO: 
+16:41:24 INFO: >>> Frame 001399
+16:41:25 INFO: Player name: 'NRG_Sweet_Rank_|' -> 'NRG_Sweet_Rank_1'
+16:41:26 INFO: Weapon 1: 'G7 SCOUT'
+16:41:26 INFO: Weapon 2: 'R-99'
+16:41:26 INFO: 
+16:41:26 INFO: >>> Frame 001400
+16:41:27 INFO: Player name: 'ClaneSZN'
+16:41:27 INFO: Weapon 1: '40-30 REPEATER' -> '30-30 REPEATER'
+16:41:28 INFO: Weapon 2: 'VOLT'
+16:41:28 INFO: 
+16:41:28 INFO: >>> Frame 001401
+16:41:29 INFO: Player name: 'ClaneSZN'
+16:41:29 INFO: Weapon 1: '30-40 REPEATER' -> '30-30 REPEATER'
+16:41:30 INFO: Weapon 2: 'VOLT'
+16:41:30 INFO: 
+16:41:30 INFO: >>> Frame 001402
+16:41:30 INFO: Player name: 'ClaneSZn' -> 'ClaneSZN'
+16:41:31 INFO: Weapon 1: 'R-99'
+16:41:31 INFO: Weapon 2: 'FLATLINE'
+16:41:31 INFO: 
+16:41:31 INFO: >>> Frame 001403
+16:41:32 INFO: 
+16:41:32 INFO: >>> Frame 001404
+16:41:32 INFO: Player name: 'ClaneSZN'
+16:41:33 INFO: Unknown weapon: 'ag' (best guess: '30-30 REPEATER', 1.00)
+16:41:33 INFO: Weapon 2: 'FLATLINE'
+16:41:33 INFO: 
+16:41:33 INFO: >>> Frame 001405
+16:41:34 INFO: 
+16:41:34 INFO: >>> Frame 001406
+16:41:35 INFO: Player name: 'SF _Rasultuh' -> 'sF_Resultuh'
+16:41:35 INFO: Weapon 1: 'EVA-8 AUTO'
+16:41:36 INFO: Weapon 2: 'G7 SCOUT'
+16:41:36 INFO: 
+16:41:36 INFO: >>> Frame 001407
+16:41:36 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:37 INFO: Weapon 1: 'HEMLOK'
+16:41:37 INFO: Weapon 2: 'R-99'
+16:41:37 INFO: 
+16:41:37 INFO: >>> Frame 001408
+16:41:38 INFO: Player name: "'sF Gentrifying" -> 'sF_Gentrifyinq'
+16:41:39 INFO: Weapon 1: 'HEMLOK'
+16:41:39 INFO: Weapon 2: 'R-99'
+16:41:39 INFO: 
+16:41:39 INFO: >>> Frame 001409
+16:41:40 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:40 INFO: Weapon 1: 'HEMLOK'
+16:41:41 INFO: Weapon 2: 'R-99'
+16:41:41 INFO: 
+16:41:41 INFO: >>> Frame 001410
+16:41:41 INFO: Player name: 'sF_Gantrifying' -> 'sF_Gentrifyinq'
+16:41:42 INFO: Weapon 1: 'HEMLOK'
+16:41:42 INFO: Weapon 2: 'R-99'
+16:41:42 INFO: 
+16:41:42 INFO: >>> Frame 001411
+16:41:43 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:44 INFO: Weapon 1: 'HEMLOK'
+16:41:44 INFO: Weapon 2: 'R-99'
+16:41:44 INFO: 
+16:41:44 INFO: >>> Frame 001412
+16:41:45 INFO: Player name: 'SF Gentrifying' -> 'sF_Gentrifyinq'
+16:41:45 INFO: Weapon 1: 'HEMLOK'
+16:41:46 INFO: Weapon 2: 'R-99'
+16:41:46 INFO: 
+16:41:46 INFO: >>> Frame 001413
+16:41:47 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:47 INFO: Weapon 1: 'HEMLDK.' -> 'HEMLOK'
+16:41:48 INFO: Weapon 2: 'R-99'
+16:41:48 INFO: 
+16:41:48 INFO: >>> Frame 001414
+16:41:48 INFO: Player name: 'sF_Gantrifying' -> 'sF_Gentrifyinq'
+16:41:49 INFO: Weapon 1: 'HEMLOK'
+16:41:49 INFO: Weapon 2: 'R-99'
+16:41:49 INFO: 
+16:41:49 INFO: >>> Frame 001415
+16:41:50 INFO: Player name: 'sF_Gentrifying' -> 'sF_Gentrifyinq'
+16:41:50 INFO: Weapon 1: 'HEMLOK'
+16:41:51 INFO: Weapon 2: 'R-99'
+16:41:51 INFO: 
+16:41:51 INFO: >>> Frame 001416
+16:41:51 INFO: Can't find player name end icon
+16:41:51 INFO: 
+16:41:51 INFO: >>> Frame 001417
+16:41:51 INFO: Can't find player name end icon
+16:41:51 INFO: 
+16:41:51 INFO: >>> Frame 001418
+16:41:51 INFO: Can't find player name end icon
+16:41:51 INFO: 
+16:41:51 INFO: >>> Frame 001419
+16:41:51 INFO: Can't find player name end icon
+16:41:51 INFO: 
+16:41:51 INFO: >>> Frame 001420
+16:41:52 INFO: 
+16:41:52 INFO: >>> Frame 001421
+16:41:52 INFO: 
+16:41:52 INFO: >>> Frame 001422
+16:41:53 INFO: Player name: '_SF_Resultuh' -> 'sF_Resultuh'
+16:41:54 INFO: Weapon 1: 'EVA-9 AUTO' -> 'EVA-8 AUTO'
+16:41:54 INFO: Weapon 2: 'G7 SCOUT'
+16:41:54 INFO: 
+16:41:54 INFO: >>> Frame 001423
+16:41:55 INFO: Player name: 'ProdigyAces'
+16:41:55 INFO: Weapon 1: 'FLATLINE —' -> 'FLATLINE'
+16:41:56 INFO: Weapon 2: 'MASTIFF'
+16:41:56 INFO: 
+16:41:56 INFO: >>> Frame 001424
+16:41:57 INFO: Player name: 'ProdigyAces'
+16:41:57 INFO: Weapon 1: 'FLATLINE'
+16:41:57 INFO: Weapon 2: 'MASTIFF'
+16:41:57 INFO: 
+16:41:57 INFO: >>> Frame 001425
+16:41:58 INFO: Player name: 'ProdigyAces'
+16:41:59 INFO: Weapon 1: 'FLATLINE'
+16:41:59 INFO: Weapon 2: 'MASTIFF'
+16:41:59 INFO: 
+16:41:59 INFO: >>> Frame 001426
+16:42:00 INFO: Player name: 'ProdigyAces'
+16:42:00 INFO: Weapon 1: 'FLATLINE'
+16:42:01 INFO: Weapon 2: 'MASTIFF'
+16:42:01 INFO: 
+16:42:01 INFO: >>> Frame 001427
+16:42:02 INFO: Player name: '“ProdigyAces' -> 'ProdigyAces'
+16:42:02 INFO: Weapon 1: 'FLATLINE'
+16:42:02 INFO: Weapon 2: 'MASTIFF'
+16:42:02 INFO: 
+16:42:02 INFO: >>> Frame 001428
+16:42:03 INFO: Player name: 'ProdigyAces'
+16:42:04 INFO: Weapon 1: 'FLATLINE'
+16:42:04 INFO: Weapon 2: 'MASTIFF'
+16:42:04 INFO: 
+16:42:04 INFO: >>> Frame 001429
+16:42:05 INFO: Player name: 'ProdigyAces'
+16:42:05 INFO: Weapon 1: 'FLATLINE'
+16:42:06 INFO: Weapon 2: 'MASTIFF'
+16:42:06 INFO: 
+16:42:06 INFO: >>> Frame 001430
+16:42:07 INFO: Player name: 'ProdigyAces'
+16:42:07 INFO: Weapon 1: 'FLATLINE'
+16:42:08 INFO: Weapon 2: 'MASTIFF'
+16:42:08 INFO: 
+16:42:08 INFO: >>> Frame 001431
+16:42:08 INFO: Player name: 'joeyblackout'
+16:42:09 INFO: Weapon 1: 'G7 SCOUT'
+16:42:09 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:42:09 INFO: 
+16:42:09 INFO: >>> Frame 001432
+16:42:10 INFO: Player name: 'joeyblackout'
+16:42:10 INFO: Weapon 1: 'G7 SCOUT'
+16:42:11 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:42:11 INFO: 
+16:42:11 INFO: >>> Frame 001433
+16:42:12 INFO: Player name: 'joeyblackout'
+16:42:12 INFO: Weapon 1: 'G7 SCOUT'
+16:42:13 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:42:13 INFO: 
+16:42:13 INFO: >>> Frame 001434
+16:42:13 INFO: Player name: 'joeyblackout'
+16:42:14 INFO: Weapon 1: 'G7 SCOUT'
+16:42:14 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:42:14 INFO: 
+16:42:14 INFO: >>> Frame 001435
+16:42:15 INFO: Player name: 'Rakkinishu'
+16:42:15 INFO: Weapon 1: 'R-301'
+16:42:16 INFO: Weapon 2: 'FLATLINE'
+16:42:16 INFO: 
+16:42:16 INFO: >>> Frame 001436
+16:42:17 INFO: Player name: 'ProdigyAces'
+16:42:17 INFO: Weapon 1: 'FLATLINE'
+16:42:18 INFO: Weapon 2: 'MASTIFF'
+16:42:18 INFO: 
+16:42:18 INFO: >>> Frame 001437
+16:42:18 INFO: Can't find player name end icon
+16:42:18 INFO: 
+16:42:18 INFO: >>> Frame 001438
+16:42:18 INFO: Can't find player name end icon
+16:42:18 INFO: 
+16:42:18 INFO: >>> Frame 001439
+16:42:18 INFO: Can't find player name end icon
+16:42:18 INFO: 
+16:42:18 INFO: >>> Frame 001440
+16:42:18 INFO: Can't find player name end icon
+16:42:18 INFO: 
+16:42:18 INFO: >>> Frame 001441
+16:42:18 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:42:19 INFO: Weapon 1: 'WINGMAN'
+16:42:19 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:42:19 INFO: 
+16:42:19 INFO: >>> Frame 001442
+16:42:20 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:42:21 INFO: Weapon 1: 'WINGMAN'
+16:42:21 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:42:21 INFO: 
+16:42:21 INFO: >>> Frame 001443
+16:42:22 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:42:22 INFO: Weapon 1: 'WINGMAN'
+16:42:23 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:42:23 INFO: 
+16:42:23 INFO: >>> Frame 001444
+16:42:24 INFO: Player name: 'CLG_Vaxlon'
+16:42:24 INFO: Weapon 1: 'WINGMAN'
+16:42:25 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:25 INFO: 
+16:42:25 INFO: >>> Frame 001445
+16:42:25 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:42:26 INFO: Weapon 1: 'WINGMAN'
+16:42:26 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:26 INFO: 
+16:42:26 INFO: >>> Frame 001446
+16:42:27 INFO: Player name: 'CLG Vaxion' -> 'CLG_Vaxlon'
+16:42:27 INFO: Weapon 1: 'WINGMAN'
+16:42:28 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:28 INFO: 
+16:42:28 INFO: >>> Frame 001447
+16:42:29 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:42:29 INFO: Weapon 1: 'WINGMAN'
+16:42:30 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:30 INFO: 
+16:42:30 INFO: >>> Frame 001448
+16:42:30 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:42:31 INFO: Weapon 1: 'WINGMAN'
+16:42:31 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:31 INFO: 
+16:42:31 INFO: >>> Frame 001449
+16:42:32 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:42:33 INFO: Weapon 1: 'WINGMAN'
+16:42:33 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:42:33 INFO: 
+16:42:33 INFO: >>> Frame 001450
+16:42:34 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
+16:42:34 INFO: Weapon 1: 'WINGMAN'
+16:42:35 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:35 INFO: 
+16:42:35 INFO: >>> Frame 001451
+16:42:36 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
+16:42:36 INFO: Weapon 1: 'WINGMAN'
+16:42:37 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:37 INFO: 
+16:42:37 INFO: >>> Frame 001452
+16:42:37 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
+16:42:38 INFO: Weapon 1: 'WINGMAN'
+16:42:38 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:42:38 INFO: 
+16:42:38 INFO: >>> Frame 001453
+16:42:39 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
+16:42:39 INFO: Weapon 1: 'WINGMAN'
+16:42:40 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:40 INFO: 
+16:42:40 INFO: >>> Frame 001454
+16:42:40 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
+16:42:41 INFO: Weapon 1: 'WINGMAN'
+16:42:41 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:42:41 INFO: 
+16:42:41 INFO: >>> Frame 001455
+16:42:42 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:42:42 INFO: Weapon 1: 'WINGMAN'
+16:42:43 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:43 INFO: 
+16:42:43 INFO: >>> Frame 001456
+16:42:43 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:42:44 INFO: Weapon 1: 'WINGMAN'
+16:42:44 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:44 INFO: 
+16:42:44 INFO: >>> Frame 001457
+16:42:45 INFO: Player name: 'CLB_Vaxlon' -> 'CLG_Vaxlon'
+16:42:46 INFO: Weapon 1: 'WINGMAN:' -> 'WINGMAN'
+16:42:46 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:46 INFO: 
+16:42:46 INFO: >>> Frame 001458
+16:42:47 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:42:47 INFO: Weapon 1: 'WINGMAN'
+16:42:48 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:48 INFO: 
+16:42:48 INFO: >>> Frame 001459
+16:42:48 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:42:49 INFO: Weapon 1: 'WINGMAN'
+16:42:49 INFO: Weapon 2: 'EVA-38 AUTO' -> 'EVA-8 AUTO'
+16:42:49 INFO: 
+16:42:49 INFO: >>> Frame 001460
+16:42:50 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:42:50 INFO: Weapon 1: 'WINGMAN'
+16:42:51 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:51 INFO: 
+16:42:51 INFO: >>> Frame 001461
+16:42:51 INFO: Player name: 'CLG Vaxloi' -> 'CLG_Vaxlon'
+16:42:52 INFO: Weapon 1: 'WINGMAN.' -> 'WINGMAN'
+16:42:52 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:52 INFO: 
+16:42:52 INFO: >>> Frame 001462
+16:42:53 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
+16:42:53 INFO: Weapon 1: 'WINGMAN'
+16:42:54 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:54 INFO: 
+16:42:54 INFO: >>> Frame 001463
+16:42:54 INFO: Player name: 'CLG_Vaxion' -> 'CLG_Vaxlon'
+16:42:55 INFO: Weapon 1: 'WINGMAN'
+16:42:55 INFO: Weapon 2: 'EVA-8 AUTO'
+16:42:55 INFO: 
+16:42:55 INFO: >>> Frame 001464
+16:42:56 INFO: Player name: 'CLG Vaxlon' -> 'CLG_Vaxlon'
+16:42:57 INFO: Weapon 1: 'WINGMAN'
+16:42:57 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:42:57 INFO: 
+16:42:57 INFO: >>> Frame 001465
+16:42:58 INFO: Player name: 'CLG Vaxton' -> 'CLG_Vaxlon'
+16:42:59 INFO: Weapon 2: 'EVA-B ALTO' -> 'EVA-8 AUTO'
+16:42:59 INFO: 
+16:42:59 INFO: >>> Frame 001466
+16:42:59 INFO: Player name: 'CLG ImMadness'
+16:43:00 INFO: Weapon 1: 'R-99'
+16:43:00 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:00 INFO: 
+16:43:00 INFO: >>> Frame 001467
+16:43:01 INFO: Player name: 'CLG ImMadness'
+16:43:02 INFO: Weapon 1: 'R-99'
+16:43:02 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:02 INFO: 
+16:43:02 INFO: >>> Frame 001468
+16:43:03 INFO: Player name: 'CLG IimMadness' -> 'CLG ImMadness'
+16:43:04 INFO: Weapon 1: 'R-99'
+16:43:04 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:04 INFO: 
+16:43:04 INFO: >>> Frame 001469
+16:43:05 INFO: Player name: 'CLG ImMadness'
+16:43:05 INFO: Weapon 1: 'R-99'
+16:43:06 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:06 INFO: 
+16:43:06 INFO: >>> Frame 001470
+16:43:07 INFO: Player name: 'CLG ImMadness'
+16:43:08 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:43:08 INFO: 
+16:43:08 INFO: >>> Frame 001471
+16:43:09 INFO: Player name: '‘CLG ImMadness' -> 'CLG ImMadness'
+16:43:09 INFO: Weapon 1: 'R-99'
+16:43:10 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:43:10 INFO: 
+16:43:10 INFO: >>> Frame 001472
+16:43:10 INFO: Player name: 'CLG ImMadness'
+16:43:11 INFO: Weapon 1: 'R-99'
+16:43:11 INFO: Weapon 2: 'EVA-B ALUITO' -> 'EVA-8 AUTO'
+16:43:11 INFO: 
+16:43:11 INFO: >>> Frame 001473
+16:43:11 INFO: Can't find player name end icon
+16:43:11 INFO: 
+16:43:11 INFO: >>> Frame 001474
+16:43:11 INFO: Can't find player name end icon
+16:43:11 INFO: 
+16:43:11 INFO: >>> Frame 001475
+16:43:11 INFO: Can't find player name end icon
+16:43:11 INFO: 
+16:43:11 INFO: >>> Frame 001476
+16:43:11 INFO: Can't find player name end icon
+16:43:11 INFO: 
+16:43:11 INFO: >>> Frame 001477
+16:43:12 INFO: Player name: 'joeyblackout'
+16:43:12 INFO: Weapon 1: 'G7 SCOUT'
+16:43:13 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:13 INFO: 
+16:43:13 INFO: >>> Frame 001478
+16:43:14 INFO: Player name: 'joyblackout' -> 'joeyblackout'
+16:43:14 INFO: Weapon 1: 'G7 SCOUT'
+16:43:14 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:14 INFO: 
+16:43:14 INFO: >>> Frame 001479
+16:43:15 INFO: Player name: 'joeyblackout'
+16:43:16 INFO: Weapon 1: 'G7 SCOUT'
+16:43:16 INFO: Weapon 2: 'EVA-6 AUTO' -> 'EVA-8 AUTO'
+16:43:16 INFO: 
+16:43:16 INFO: >>> Frame 001480
+16:43:17 INFO: Player name: 'joeyblackout'
+16:43:17 INFO: Weapon 1: 'G7 SCOUT'
+16:43:18 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:18 INFO: 
+16:43:18 INFO: >>> Frame 001481
+16:43:19 INFO: Player name: 'joeyblackout'
+16:43:19 INFO: Weapon 1: 'G7 SCOUT'
+16:43:19 INFO: Weapon 2: 'EVA-3 AUTO' -> 'EVA-8 AUTO'
+16:43:19 INFO: 
+16:43:19 INFO: >>> Frame 001482
+16:43:20 INFO: Player name: 'Rakkinishu'
+16:43:21 INFO: Weapon 1: 'R-301'
+16:43:21 INFO: Weapon 2: 'FLATLINE'
+16:43:21 INFO: 
+16:43:21 INFO: >>> Frame 001483
+16:43:22 INFO: Player name: 'Rakkinishu'
+16:43:22 INFO: Weapon 1: 'R-401' -> 'R-301'
+16:43:22 INFO: Weapon 2: 'FLATLINE'
+16:43:22 INFO: 
+16:43:22 INFO: >>> Frame 001484
+16:43:23 INFO: Player name: 'Joeybtackout' -> 'joeyblackout'
+16:43:24 INFO: Weapon 1: 'G7 SCOUT'
+16:43:24 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:43:24 INFO: 
+16:43:24 INFO: >>> Frame 001485
+16:43:25 INFO: Player name: 'joeyblackout'
+16:43:25 INFO: Weapon 1: 'G? SCOUT' -> 'G7 SCOUT'
+16:43:26 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:26 INFO: 
+16:43:26 INFO: >>> Frame 001486
+16:43:26 INFO: Can't find player name end icon
+16:43:26 INFO: 
+16:43:26 INFO: >>> Frame 001487
+16:43:26 INFO: Can't find player name end icon
+16:43:26 INFO: 
+16:43:26 INFO: >>> Frame 001488
+16:43:26 INFO: Player name: 'josyblackout' -> 'joeyblackout'
+16:43:27 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:27 INFO: 
+16:43:27 INFO: >>> Frame 001489
+16:43:28 INFO: Player name: 'joeyblackout'
+16:43:29 INFO: Weapon 1: 'G7 SCOUT'
+16:43:29 INFO: Weapon 2: 'EVA-6 AUTO' -> 'EVA-8 AUTO'
+16:43:29 INFO: 
+16:43:29 INFO: >>> Frame 001490
+16:43:30 INFO: Player name: 'joeyblackout'
+16:43:31 INFO: Weapon 1: 'G7 SCOUT'
+16:43:31 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:31 INFO: 
+16:43:31 INFO: >>> Frame 001491
+16:43:32 INFO: Player name: 'joeyblackout'
+16:43:32 INFO: Weapon 1: 'G7 SCOUT'
+16:43:33 INFO: Weapon 2: 'EVA-6 AUTO' -> 'EVA-8 AUTO'
+16:43:33 INFO: 
+16:43:33 INFO: >>> Frame 001492
+16:43:33 INFO: Can't find player name end icon
+16:43:33 INFO: 
+16:43:33 INFO: >>> Frame 001493
+16:43:33 INFO: Can't find player name end icon
+16:43:33 INFO: 
+16:43:33 INFO: >>> Frame 001494
+16:43:34 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:43:34 INFO: Weapon 1: 'WINGMAN'
+16:43:35 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:35 INFO: 
+16:43:35 INFO: >>> Frame 001495
+16:43:35 INFO: 
+16:43:35 INFO: >>> Frame 001496
+16:43:36 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:43:37 INFO: Weapon 1: 'WINGMAN'
+16:43:37 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:37 INFO: 
+16:43:37 INFO: >>> Frame 001497
+16:43:38 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:43:39 INFO: Weapon 2: 'EVA-B AUTO' -> 'EVA-8 AUTO'
+16:43:39 INFO: 
+16:43:39 INFO: >>> Frame 001498
+16:43:39 INFO: Player name: 'CLG _Vaxlon' -> 'CLG_Vaxlon'
+16:43:40 INFO: Weapon 1: 'WIHGMAN' -> 'WINGMAN'
+16:43:40 INFO: Weapon 2: 'EVA-8 AUTO'
+16:43:40 INFO: 
+16:43:40 INFO: >>> Frame 001499
+16:43:41 INFO: Player name: 'CLG _Vaxton' -> 'CLG_Vaxlon'
+16:43:41 INFO: Weapon 1: 'WINGMAN'
+16:43:42 INFO: Weapon 2: 'EVA-8 AUTO'
