@@ -1,3 +1,4 @@
+import csv
 import cv2
 import logging
 import numpy
@@ -5,6 +6,7 @@ from PIL import Image, ImageOps
 import pytesseract
 import sklearn
 import stringdist
+import sys
 
 
 logger = logging.getLogger('process')
@@ -151,24 +153,41 @@ def get_weapons(frame):
     return weapons
 
 
-def main():
+def main(args):
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s %(levelname)s: %(message)s",
         datefmt='%H:%M:%S',
     )
 
-    for frameno in range(835, 1500):
-        logger.info("")
-        logger.info(">>> Frame %06d", frameno)
-        frame = Image.open('2021-03-27_965657358_1080p/%06d.png' % frameno)
+    folder, from_frame, to_frame = args
+    from_frame = int(from_frame)
+    to_frame = int(to_frame)
+    assert from_frame < to_frame
 
-        player_name = get_player_name(frame)
-        if not player_name:
-            continue
+    with open('%06d-%06d.csv' % (from_frame, to_frame), 'w') as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['frame', 'player name', 'weapon 1', 'weapon 2'])
 
-        weapons = get_weapons(frame)
+        for frameno in range(from_frame, to_frame):
+            logger.info("")
+            logger.info(">>> Frame %06d", frameno)
+            frame = Image.open('%s/%06d.png' % (folder, frameno))
+
+            player_name = get_player_name(frame)
+            if not player_name:
+                continue
+
+            weapons = get_weapons(frame)
+
+            writer.writerow(
+                [
+                    frameno,
+                    player_name,
+                ]
+                + weapons + [''] * (2 - len(weapons)),
+            )
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1:])
