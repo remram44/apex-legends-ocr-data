@@ -63,6 +63,8 @@ def get_player_name(frame):
         ocr = pytesseract.image_to_string(player_name)
         ocr = ocr.rstrip('\r\n\x0C')
         logger.info("Player name: %r", ocr)
+        if not ocr:
+            return None
 
         # Find closest name
         if ocr not in known_names:
@@ -75,10 +77,13 @@ def get_player_name(frame):
             ]
             best_dist, best_name = min(dists)
             if best_dist < 0.45:
-                corrected = best_name
-                logger.info("Player name: %r -> %r", ocr, corrected)
+                logger.info("Player name: %r -> %r", ocr, best_name)
+                ocr = best_name
             else:
                 logger.info("Unknown player: %r (best guess: %r, %.2f)", ocr, best_name, best_dist)
+                return None
+
+        return ocr
 
 
 def main():
