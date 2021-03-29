@@ -1,4 +1,4 @@
-20*/*.png
+data/20*/*.png
 
 # Python
 .py[co]
