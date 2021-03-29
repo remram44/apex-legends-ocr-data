@@ -150,22 +150,29 @@ def get_weapons(frame):
 
 
 def main(args):
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(levelname)s: %(message)s",
-        datefmt='%H:%M:%S',
-    )
-
     folder, from_frame, to_frame = args
     from_frame = int(from_frame)
     to_frame = int(to_frame)
     assert from_frame < to_frame
 
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(levelname)s: %(message)s",
+        datefmt='%H:%M:%S',
+        handlers=[
+            logging.StreamHandler(),
+            logging.FileHandler(
+                '%s.%06d-%06d.log' % (folder, from_frame, to_frame),
+                mode='w',
+            ),
+        ],
+    )
+
     with open('%s.players.txt' % folder) as fp:
         known_player_names = set(n.strip() for n in fp)
     known_player_names.discard('')
 
-    with open('%06d-%06d.csv' % (from_frame, to_frame), 'w') as fp:
+    with open('%s.%06d-%06d.csv' % (folder, from_frame, to_frame), 'w') as fp:
         writer = csv.writer(fp)
         writer.writerow(['frame', 'player name', 'weapon 1', 'weapon 2'])
 
