@@ -152,7 +152,7 @@ def get_weapons(frame):
 def main(args):
     logging.basicConfig(
         level=logging.INFO,
-        format="%(asctime)s %(levelname)s: %(message)s",
+        format="%(levelname)s: %(message)s",
         datefmt='%H:%M:%S',
     )
 
