@@ -23,16 +23,12 @@ def pil2cv(img):
 player_name_end_icon = cv2.imread('player_name_end_icon.png')
 
 
-with open('player_names.txt') as fp:
-    known_player_names = set(n.strip() for n in fp)
-known_player_names.discard('')
-
 with open('weapons.txt') as fp:
     known_weapons = set(n.strip() for n in fp)
 known_weapons.discard('')
 
 
-def get_player_name(frame):
+def get_player_name(frame, known_player_names):
     # Get player name area
     player_name = frame.crop((169, 960, 400, 990))
 
@@ -165,6 +161,10 @@ def main(args):
     to_frame = int(to_frame)
     assert from_frame < to_frame
 
+    with open('%s.players.txt' % folder) as fp:
+        known_player_names = set(n.strip() for n in fp)
+    known_player_names.discard('')
+
     with open('%06d-%06d.csv' % (from_frame, to_frame), 'w') as fp:
         writer = csv.writer(fp)
         writer.writerow(['frame', 'player name', 'weapon 1', 'weapon 2'])
@@ -174,7 +174,7 @@ def main(args):
             logger.info(">>> Frame %06d", frameno)
             frame = Image.open('%s/%06d.png' % (folder, frameno))
 
-            player_name = get_player_name(frame)
+            player_name = get_player_name(frame, known_player_names)
             if not player_name:
                 continue
 

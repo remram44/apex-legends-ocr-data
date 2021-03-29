@@ -1,4 +1,4 @@
-9BTeQ9B
+96TeQ96
 BlurrFlavorz_RX
 bowswerr
 ClaneSZN
@@ -13,12 +13,15 @@ COL_Iou
 COL_iShiny
 COL_Monsoon
 COL_Reptar
+DROPPEDxd
+eC_Rolders
 FP_CUBSKi
 Hambino24TV
 HisWattson_RX
 HRN_Euriece
 HRN_Hill
 HRN_Rkn
+Itz_Aves
 joeyblackout
 KeniFPS
 knoqd
@@ -35,6 +38,7 @@ ProdigyAces
 qcrook
 Rakkinishu
 Reps_TSM
+Rogue_NRG
 Sauceror
 SEN_crust
 SEN_retzi
@@ -44,8 +48,13 @@ sF_Gentrifyinq
 sF_Resultuh
 sF_zachmazer
 Snip3down_EW
+SSG_Claraphi
+SSG_Frexs
+SSG_xenial
 StayNaughty
 StinkTV
 SungNguyenn
 TSM Albralelie
 TSM_ImperialHa1
+twitch_dooplex
+Zeroplus
