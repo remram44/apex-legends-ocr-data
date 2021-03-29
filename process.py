@@ -66,7 +66,7 @@ def get_player_name(frame, known_player_names):
 
     # OCR
     ocr = pytesseract.image_to_string(player_name)
-    ocr = ocr.rstrip('\r\n\x0C')
+    ocr = ocr.rstrip(' \r\n\x0C')
     if not ocr:
         return None
 
@@ -121,7 +121,7 @@ def get_weapons(frame):
 
         # OCR
         ocr = pytesseract.image_to_string(weapon)
-        ocr = ocr.rstrip('\r\n\x0C')
+        ocr = ocr.rstrip(' \r\n\x0C')
         if not ocr:
             continue
 
